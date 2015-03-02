@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<LanguageData>
+
+  <MessageSiegersAssaulting>Gli assedianti {0} da {1} stanno assaltando la colonia.</MessageSiegersAssaulting>
+
+  <MessageRaidersBeginningAssault>{0} da {1} stanno iniziando l'assalto.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} da {1} vi hanno individuato e hanno iniziato l'assalto in anticipo.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} da {1} hanno deciso di rapire chi possono e andarsene.</MessageRaidersKidnapping>
+  
+  <MessageRaidersLeaving>{0} da {1} se ne stanno andando.</MessageRaidersLeaving>
+  <MessageRaidersGivenUpLeaving>{0} da {1} hanno lasciato perdere e se ne stanno andando.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} da {1} sono soddisfatti dei danni che hanno causato e se ne stanno andando.</MessageRaidersSatisfiedLeaving>
+  
+  <MessageFightersFleeing>{0} da {1} stanno scappando.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>Gli amici {0} da {1} se ne stanno andando.</MessageFriendlyFightersLeaving>
+
+
+  <MessageShipHasLeftCommsRange>{0} è uscita dal raggio di comunicazione della console.</MessageShipHasLeftCommsRange>
+	
+  <MessageNeedBeaconToTradeWithShip>Ti serve un aereofaro orbitale per commerciare con le navi.</MessageNeedBeaconToTradeWithShip>
+	
+  <MessageBillComplete>Richiesta completata: {0}.</MessageBillComplete>
+  
+  <MessageFullyHealed>{0} è tornato in piena salute.</MessageFullyHealed>
+
+  <MessagePrisonerIsEscaping>Il prigioniero {0} stà scappando.</MessagePrisonerIsEscaping>
+
+  <MessageRecruitSuccess>{0} ha reclutato con successo {1} ({2} di probabilità).</MessageRecruitSuccess>
+  <MessageRecruitFail>{0} non è riuscito a reclutare {1} ({2} di probabilità).</MessageRecruitFail>
+  <MessageRecruitFailBecauseLoyalty>{0} non è riuscito a reclutare {1} (serve un livello più alto di lealtà).</MessageRecruitFailBecauseLoyalty>
+	
+  <MessageTraderCannotAfford>Il commerciante non può permettersi questo affare.</MessageTraderCannotAfford>
+  <MessageColonyCannotAfford>La colonia non può permettersi questo affare.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>Non hai abbastanza argento per lo scambio.</MessageColonyNotEnoughSilver>
+  <MessageTraderNotEnoughSilver>Il commerciante non ha abbastanza argento per lo scambio.</MessageTraderNotEnoughSilver>
+
+  <MessageCriticalAlert>Avviso critico: {0}</MessageCriticalAlert>
+
+  <MessageMustDesignateHarvestableFood>Devi designare delle piante che danno cibo e sono totalmente cresciute.</MessageMustDesignateHarvestableFood>
+  <MessageMustDesignateHarvestableWood>Devi designare degli alberi che danno legna e sono totalmente cresciuti.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>Devi designare delle piante.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Devi designare degli oggetti spostabili.</MessageMustDesignateHaulable>
+  
+  
+</LanguageData>

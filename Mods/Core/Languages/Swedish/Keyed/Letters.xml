@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <JumpToLocation>Hoppa till aktuell plats</JumpToLocation>
+
+  <RelationsBrokenDown>Relationen med {0} har fallit ihop. De är nu fientliga mot dig.</RelationsBrokenDown>
+  <RelationsWarmed>Relationen med {0} har blivit bättre. De är inte längre fientliga mot dig.</RelationsWarmed>
+
+  <RelationsBrokenCapture>Eftersom du har fångat {0}, {1} är nu fientliga mot dig.</RelationsBrokenCapture>
+
+  <ColonyGoodwill>Kolonins välvilja</ColonyGoodwill>
+  <Neutral>Neutral</Neutral>
+
+  <ShortCircuitRain>A {0} har kortslutits i regnet och börjat brinna.</ShortCircuitRain>
+  <AreaRevealed>Ett nytt område har upptäkts.</AreaRevealed>
+
+  <RoofCollapsed>Ett tak har kollapsat eftersom det inte hade tillräckligt med bärstöd.</RoofCollapsed>
+  <TheseThingsCrushed>Detta blev krossat:</TheseThingsCrushed>
+  <NothingCrushed>Inget krossades.</NothingCrushed>
+  
+  <MentalBreakRampage>{0} har fått ett mentalt sammanbrott och är nu på krigsstigen.</MentalBreakRampage>
+  <MentalBreakDaze>{0} har gett upp och lämnar nu kolonin.</MentalBreakDaze>
+  <MentalBreakLeave>{0} har gett upp och vandrar nu förvirrat runt.</MentalBreakLeave>
+
+  <RecruitSuccess>{0} lyckades rekytera {1} ({2} chans).</RecruitSuccess>
+  <RecruitFail>{0} misslyckades med att rekrytera {1} ({2} chans).</RecruitFail>
+  
+  
+</LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ClockTime>Tid</ClockTime>
+  <ClockDate>Datum</ClockDate>
+  <ClockYear>År</ClockYear>
+  <DateReadoutTip>Antal passerade dagar sedan din ankomst: {0}\nDet går {1} dagar per månad.</DateReadoutTip>
+
+
+
+  <FullDate>{0} {1}, år {2}</FullDate>
+  <MonthFullDate>{0} {1}</MonthFullDate>
+  
+  <MonthFullJanuary>Januari</MonthFullJanuary>
+  <MonthFullFebruary>Februari</MonthFullFebruary>
+  <MonthFullMarch>Mars</MonthFullMarch>
+  <MonthFullApril>April</MonthFullApril>
+  <MonthFullMay>Maj</MonthFullMay>
+  <MonthFullJune>Juni</MonthFullJune>
+  <MonthFullJuly>Juli</MonthFullJuly>
+  <MonthFullAugust>Augusti</MonthFullAugust>
+  <MonthFullSeptember>September</MonthFullSeptember>
+  <MonthFullOctober>October</MonthFullOctober>
+  <MonthFullNovember>November</MonthFullNovember>
+  <MonthFullDecember>December</MonthFullDecember>
+
+  <MonthShortJanuary>Jan</MonthShortJanuary>
+  <MonthShortFebruary>Feb</MonthShortFebruary>
+  <MonthShortMarch>Mar</MonthShortMarch>
+  <MonthShortApril>Apr</MonthShortApril>
+  <MonthShortMay>Maj</MonthShortMay>
+  <MonthShortJune>Jun</MonthShortJune>
+  <MonthShortJuly>Jul</MonthShortJuly>
+  <MonthShortAugust>Aug</MonthShortAugust>
+  <MonthShortSeptember>Sept</MonthShortSeptember>
+  <MonthShortOctober>Oct</MonthShortOctober>
+  <MonthShortNovember>Nov</MonthShortNovember>
+  <MonthShortDecember>Dec</MonthShortDecember>
+    
+    
+</LanguageData>

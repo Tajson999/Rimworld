@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<rep>
+		<path>CurrentlyBrokenPsychotic.stages[0].label</path>
+		<trans>精神錯乱状態</trans>
+	</rep>
+	<rep>
+		<path>CurrentlyBrokenPsychotic.stages[0].description</path>
+		<trans>殺せ!</trans>
+	</rep>
+
+	<rep>
+		<path>CurrentlyBrokenSad.stages[0].label</path>
+		<trans>ひどく落ち込んでいる</trans>
+	</rep>
+	<rep>
+		<path>CurrentlyBrokenSad.stages[0].description</path>
+		<trans>もう十分だよ・・・</trans>
+	</rep>
+
+	<rep>
+		<path>CurrentlyBrokenPanicFlee.stages[0].label</path>
+		<trans>パニック</trans>
+	</rep>
+	<rep>
+		<path>CurrentlyBrokenPanicFlee.stages[0].description</path>
+		<trans>もう嫌だ、出て行く！</trans>
+	</rep>
+
+</LanguageData>

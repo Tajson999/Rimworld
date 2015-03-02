@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!--=============== AI persona core ====================-->
+    
+    <AIPersonaCore.label>núcleo de personalidade IA</AIPersonaCore.label>
+    <AIPersonaCore.description>Um núcleo de computador hyper avançado que contém uma inteligência artificial superhumana. No seu estado isolado o núcleo está adormecido. Instalado numa estrutura própria de suporte, contudo, pode tornar-se numa mente com um poder assustador.</AIPersonaCore.description>
+    
+    <!--=============== Neurotrainer ====================-->
+    
+    <Neurotrainer.label>neurotreinador</Neurotrainer.label>
+    <Neurotrainer.description>Um dispositivo nanotecnológico de uso úniquo. O neurotreinador é inserido pela órbita do olho e liberta nano-robôs no cérebro do sujeito, rapidamente melhorando as suas habilidades numa área específica.</Neurotrainer.description>
+    
+</LanguageData>

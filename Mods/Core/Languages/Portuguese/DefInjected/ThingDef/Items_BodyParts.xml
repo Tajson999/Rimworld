@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- natural -->
+    
+    <Heart.label>coração</Heart.label>
+    <Heart.description>Fornece sangue e oxigénio a todas as partes do corpo. Pronto para encontrar um novo dono.</Heart.description>
+    
+    <Lung.label>pulmão</Lung.label>
+    <Lung.description>Parte essencial do sistema respiratório.</Lung.description>
+    
+    <Kidney.label>rim</Kidney.label>
+    <Kidney.description>Filtra e remove impurezas do sangue.</Kidney.description>
+    
+    <Liver.label>fígado</Liver.label>
+    <Liver.description>Tem um papel importante no metabolismo.</Liver.description>
+    
+    <!-- artificial - simple prosthetics -->
+    
+    <SimpleProstheticLeg.label>simples perna próstetica</SimpleProstheticLeg.label>
+    <SimpleProstheticLeg.description>Simples prótese feita para substituir uma perna. Não é muito confortável mas é eficiente.</SimpleProstheticLeg.description>
+    
+    <SimpleProstheticArm.label>simple braço próstetico</SimpleProstheticArm.label>
+    <SimpleProstheticArm.description>Simples mas resistente braço próstetico.</SimpleProstheticArm.description>
+    
+    <!-- artificial - bionics -->
+    
+    <BionicEye.label>olho biónico</BionicEye.label>
+    <BionicEye.description>Peça avançade de tecnologia feita não só para substituir o olho humano, mas também para dar visão sobrenatural.</BionicEye.description>
+    
+    <BionicArm.label>braço biónico</BionicArm.label>
+    <BionicArm.description>Uma das mais sofisticadas substituições para braço. Oferece uma extrema força ao utilizador.</BionicArm.description>
+    
+    <BionicLeg.label>perna biónica</BionicLeg.label>
+    <BionicLeg.description>Perna biónica usa tecnologia de ponta para dar ao utilizador extrema força e conforto ao andar.</BionicLeg.description>
+    
+    <PowerClaw.label>garra poderosa</PowerClaw.label>
+    <PowerClaw.description>Um poderoso substituto para a mão que consiste em três garras mortíferas.</PowerClaw.description>
+    
+    <ScytherKnifeProtrusion.label>scyther knife protrusion</ScytherKnifeProtrusion.label>
+    <ScytherKnifeProtrusion.description>Substituto para a mão com uma lâmina imbutida. Não é muito confortável, mas é bastante eficiente como arma corpo-a-corpo.</ScytherKnifeProtrusion.description>
+    
+</LanguageData>

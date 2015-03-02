@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <PowerConduit.label>Condutor elétrico</PowerConduit.label>
+    
+    <SolarGenerator.label>Gerador solar</SolarGenerator.label>
+    <SolarGenerator.description>Produz electricidade apartir da luz do sol. Não funciona na escuridão.</SolarGenerator.description>
+    
+    <GeothermalGenerator.label>Gerador geotérmico</GeothermalGenerator.label>
+    <GeothermalGenerator.description>Produz electricidade apartir do vapor dos géisers. Tem de ser colocado num géiser.</GeothermalGenerator.description>
+    
+    <Battery.label>Bateria</Battery.label>
+    <Battery.description>Armazena electricidade quando há em excesso e fornece quando há em falta. Atenção - baterias carregadas tendem a explodir quando aquecidas ou molhadas.</Battery.description>
+    
+</LanguageData>

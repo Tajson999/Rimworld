@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<LanguageData>
+
+
+
+  <Confirm>Conferma</Confirm>
+  <GoBack>Indietro</GoBack>
+  <OK>OK</OK>
+  
+  <!-- Save/load -->
+  <SaveGameButton>Salva</SaveGameButton>
+  <OverwriteButton>Sovrascrivi</OverwriteButton>
+  <LoadGameButton>Carica</LoadGameButton>
+  <ConfirmDelete>Vuoi veramente cancellare {0}?</ConfirmDelete>
+  <DeleteThisSavegame>Cancella questo salvataggio.</DeleteThisSavegame>
+  <SavedAs>Salvato come {0}.</SavedAs>
+  <NeedAName>Inserisci il tuo nome.</NeedAName>
+  <LoadingLongEvent>Caricamento...</LoadingLongEvent>
+  
+  
+  <!-- Colony naming-->
+  <NameColonyMessage>Tutti sanno che non vuoi restare su questa roccia per molto. Ma {0} suggerisce di dare un nome alla colonia.\n\nCome vorresti chiamarla?</NameColonyMessage>
+  <ColonyGainsName>La colonia è ora conosciuta come {0}.</ColonyGainsName>
+  <ColonyNameIsInvalid>Questo non va bene, scegline un altro.</ColonyNameIsInvalid>
+
+  <!-- Zone naming -->
+  <ZoneGainsName>La zona è ora chiamata {0}.</ZoneGainsName>
+  <ZoneNameIsInvalid>Questo nome non va bene, usane un altro.</ZoneNameIsInvalid>
+  
+  <!-- Pawn naming -->
+  <PawnGainsName>Il soprannome del colono è ora {0}.</PawnGainsName>
+
+  <!-- Save game incompatible warning -->
+  <SaveGameIncompatibleWarningText>Versioni differenti: la mappa è stata salvata alla versione {0}, tu stai giocando alla {1}.\n\n Caricarla potrebbe causare bug e crash.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningTitle>Incompatibilità del salvataggio</SaveGameIncompatibleWarningTitle>
+  
+  <!-- Resolution change dialog -->
+  <ConfirmResolutionChange>Hai appena cambiato risoluzione. Funziona a dovere?\n\nAuto-annulla in {0}...</ConfirmResolutionChange>
+  <ResolutionKeep>Mantieni</ResolutionKeep>
+  <ResolutionRevert>Annulla</ResolutionRevert>
+
+  <!-- Overview -->
+  <OverviewOf>Panoramica di {0}</OverviewOf>
+
+  <!-- Research -->
+  <Research>Ricerca</Research>
+  <Researched>Ricercato</Researched>
+  <Unresearched>Non ricercato</Unresearched>
+  <Finished>Completato</Finished>
+  <InProgress>In ricerca</InProgress>
+  <ResearchMenuWithoutBench>Finchè non costruisci un tavolo da ricerca, i tuoi coloni non potranno fare ricerche.\n\nIntanto puoi comunque scegliere cosa ricercare.</ResearchMenuWithoutBench>
+  
+  
+  <!-- Advanced game start options -->
+  <MapSizePerformanceWarning>ATTENZIONE: Le prestazioni potrebbero calare su pc poco potenti con mappe grandi.\n\nSe hai un pc scarso, scegli PICCOLO.\n\nLa dimensione Ludeonicrous non è stata testata, e potrebbe non funzionare a dovere.</MapSizePerformanceWarning>
+  <MapSize>Dimensioni mappa</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} quadrati)</MapSizeDesc>
+  <MapSizeSmall>Piccola</MapSizeSmall>
+  <MapSizeMedium>Media</MapSizeMedium>
+  <MapSizeLarge>Grande</MapSizeLarge>
+  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
+
+
+
+  <!-- Bill config -->
+  <Suspended>Sospeso</Suspended>
+  <NotSuspended>Non sospeso</NotSuspended>
+  <SuspendedAllCaps>SOSPESO</SuspendedAllCaps>
+  <RepeatCount>Ripeti: {0}</RepeatCount>
+  <Forever>Per sempre</Forever>
+  <IngredientSearchRadius>Raggio ricerca ingredienti</IngredientSearchRadius>
+  <TargetCount>Continua finchè non ne hai: {0}</TargetCount>
+  <Infinite>Infinito</Infinite>
+  <RecipeCannotHaveTargetCount>(Questa ricetta non può avere un conteggio, perché può produrre un numero multiplo o imprevedibile di prodotti.)</RecipeCannotHaveTargetCount>
+  <PermittedIngredients>Ingredienti permessi</PermittedIngredients>
+  <MinimumSkills>Abilità minime:</MinimumSkills>
+  <DoXTimes>Fallo X volte</DoXTimes>
+  <DoUntilYouHaveX>Fallo finchè non ne hai X</DoUntilYouHaveX>
+  <DoForever>Fallo per sempre</DoForever>
+  <BillRepeatTargetCountShort>Fino a {0}</BillRepeatTargetCountShort>
+  <BillStoreMode_DropOnFloor>Lascia a terra</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>Porta a riserva più importante</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>Porta a riserva più vicina</BillStoreMode_NearestStockpileAnyPriority>
+  
+  <!-- Def Card -->
+  <Type>Tipo</Type>
+  <GunType>Arma</GunType>
+  <PlantType>Pianta</PlantType>
+  <FoodType>Cibo</FoodType>
+  <HumanType>Umano</HumanType>
+  <AnimalType>Animale</AnimalType>
+  <MechanoidType>Meccanoide</MechanoidType>
+  <Damage>Danno</Damage>
+  <Accuracy>Precisione</Accuracy>
+  <BurstShotCount>Colpi in raffica</BurstShotCount>
+  <WarmupTime>Preparazione</WarmupTime>
+  <CooldownTime>Raffreddamento</CooldownTime>
+  <BurstShotFireRate>Rateo di fuoco</BurstShotFireRate>
+  <Range>Portata</Range>
+  <GrowsWild>Cresce spontaneamente</GrowsWild>
+  <Harvestable>Da raccolta</Harvestable> <!-- richiede test -->
+  <LimitedLifespan>Aspettativa di vita limitata</LimitedLifespan>
+  <GrowingTime>Tempo di crescita</GrowingTime>
+  <Days>giorni</Days>
+  <FertilityRequirement>Fertilità richiesta</FertilityRequirement>
+  <LightRequirement>Luce richiesta</LightRequirement>
+  <Attributes>Attributi</Attributes>
+  <LifeSpan>Aspettativa di vita</LifeSpan>
+  <Nutrition>Valore nutritivo</Nutrition>
+  <FoodQuality>Qualità di cibo</FoodQuality>
+  <WalkSpeedProperty>Velocità di movimento</WalkSpeedProperty>
+  <MeleeDamage>Danno corpo a corpo</MeleeDamage>
+  <MeatAmount>Quantità di carne</MeatAmount>
+  <MinFoodQuality>Qualità minima di cibo</MinFoodQuality>
+  <Diet>Dieta</Diet>
+  <RecruitDifficulty>Difficoltà di reclutamento</RecruitDifficulty>
+  <BasePrice>Prezzo base</BasePrice>
+
+
+  
+  
+  <!-- Trade -->
+  <YourTradeableSilver>Il tuo argento scambiabile: {0}</YourTradeableSilver>
+  <YourTradeableSilverTip>Puoi scambiare solo l'argento vicino agli aereofari orbitali e che non sta sotto un tetto.</YourTradeableSilverTip>
+
+  <!-- Comms -->
+  <SocialSkillIs>Abilità sociale: {0}</SocialSkillIs>
+
+	
+  <!--Other-->
+  <ResearchFinished>Ricerche finite: {0}</ResearchFinished>
+  <ResearchScreen>Schermata di ricerca</ResearchScreen>
+  
+  <!--HistoryUpload-->
+  <HistoryUploadMessage>Vuoi inviare le tue informazioni di gioco al server di RimWorld per aiutare gli sviluppatori a bilanciare il gioco? Se acconsenti, le tue informazioni verranno inviate ogni {0} giorni del gioco (e in altri rari casi come la fine della partita). Le preferenze sulla privacy potranno essere modificate in seguito nel menù delle opzioni.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Anche se le informazioni sono inviate in modo anonimo, puoi allegare il tuo nome.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>Consenti l'invio dei dati di gioco</HistoryUploadYes>
+  <HistoryUploadNo>Non consentire l'invio dei dati di gioco</HistoryUploadNo>
+  <HistoryUploadYesOnce>Invia solamente questa volta</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>Non inviare adesso, chiedimelo più tardi</HistoryUploadNoOnce>
+
+	
+</LanguageData>

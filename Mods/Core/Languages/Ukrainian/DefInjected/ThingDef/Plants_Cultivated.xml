@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--=========================== Crops ==============================-->
+
+	<PlantPotato.label>картопля</PlantPotato.label>
+	<PlantPotato.description>Проста, дуже живильна культура. Добре росте й в бідних грунтах.</PlantPotato.description>
+
+	<PlantStrawberry.label>полуниця</PlantStrawberry.label>
+	<PlantStrawberry.description>Хрупка, але дуже смачна ягода. Чудова навіть в сирому вигляді, потребує багатий грунт для зростання.</PlantStrawberry.description>
+
+	<PlantCotton.label>бавовна</PlantCotton.label>
+	<PlantCotton.description>Дає бавовну - тонке рослинне волокно, що використовується для пошиву одягу.</PlantCotton.description>
+
+	<PlantDevilstrand.label>гриб-диявлик</PlantDevilstrand.label>
+	<PlantDevilstrand.description>Це генетично модифікований гриб, що використовується для виробництва волокон найвищого гатунку. Кажуть, що його так називають через містичні властивості та жадібність, яку він пробуджує в людях.</PlantDevilstrand.description>
+
+<!-- xerigium ~= zerigium (i-um = і-я) рожева тому, що радіола рожева -->
+
+	<PlantXerigium.label>зерігія рожева</PlantXerigium.label>
+	<PlantXerigium.description>Ця рослина впродовж тисячоріч виводилася місцевми жителями. Аборігени називають її "долонь лікаря" через те, що вона має п'ять лікарських властивостей.</PlantXerigium.description>
+
+	<!--=========================== Decorative ==============================-->
+
+	<PlantRose.label>роза</PlantRose.label>
+	<PlantRose.description>Красива квітка.</PlantRose.description>
+
+	<PlantDaylily.label>лілія</PlantDaylily.label>
+	<PlantDaylily.description>Красива квітка.</PlantDaylily.description>
+
+</LanguageData>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!--============================ Simple mineables ===============================-->
+    
+    <Sandstone.label>arenito</Sandstone.label>
+    <Sandstone.description>Uma rocha sedimentar composta por partículas de areia comprimidas juntas.</Sandstone.description>
+    
+    <Limestone.label>calcário</Limestone.label>
+    <Limestone.description>Uma rocha sedimentar formada dos restos compactados de conchas antigas.</Limestone.description>
+    
+    <Granite.label>granito</Granite.label>
+    <Granite.description>Uma rocha dura e resistente.</Granite.description>
+    
+    <Slate.label>ardósia</Slate.label>
+    <Slate.description>Uma rocha metamórfica escura. As suas camadas são emblemáticas de clivagem xistosa.</Slate.description>
+	
+    <Marble.label>mármore</Marble.label>
+    <Marble.description>Uma rocha metamórfica suave.</Marble.description>
+    
+    <CollapsedRocks.label>rochas desmoronadas</CollapsedRocks.label>
+    <CollapsedRocks.description>Rochas, desabadas e empacotadas estreitas o suficiente para suportar um telhado.</CollapsedRocks.description>
+    
+    <!--============================ Resource rocks ===============================-->
+    
+    <MineableMetal.label>minério de metal</MineableMetal.label>
+    <MineableMetal.description>Mina isto para obteres metal.</MineableMetal.description>
+    
+    <MineableSilver.label>minério de prata</MineableSilver.label>
+    <MineableSilver.description>Mina isto para obteres prata.</MineableSilver.description>
+    
+    <MineableGold.label>minério de ouro</MineableGold.label>
+    <MineableGold.description>Mina isto para obteres ouro.</MineableGold.description>
+    
+    <MineablePlasteel.label>plasteel compactado</MineablePlasteel.label>
+    <MineablePlasteel.description>Cascalho antigo compactado rico em plasteel.</MineablePlasteel.description>
+
+    <SteamGeyser.label>géiser</SteamGeyser.label>
+    <SteamGeyser.description>Fonte natural de vapor.</SteamGeyser.description>
+    
+</LanguageData>

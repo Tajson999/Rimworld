@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- Beam -->
+    
+    <Ship_Beam.label>Viga estrutural (nave)</Ship_Beam.label>
+    <Ship_Beam.description>Uma viga estrutural que serve de base para construir a nave.</Ship_Beam.description>
+    
+    <!-- Cryptosleep pod -->
+    
+    <Ship_CryptosleepPod.label>Cápsula de crypto-sono (nave)</Ship_CryptosleepPod.label>
+    <Ship_CryptosleepPod.description>Uma cápsula de crypto-sono endurecido contra os perigos do espaço. Capaz de sustentar uma pessoa em crypto-sono durante séculos em ambiente espacial e a sobreviver a re-entradas atmosféricas.</Ship_CryptosleepPod.description>
+    
+    <!-- Computer core -->
+    
+    <Ship_ComputerCore.label>Núcleo de computador (nave)</Ship_ComputerCore.label>
+    <Ship_ComputerCore.description>Um núcleo de computador capaz de alojar uma IA superhumana para guiar a nave por qualquer desafio.</Ship_ComputerCore.description>
+    
+    <!-- Reactor -->
+    
+    <Ship_Reactor.label>Reator (nave)</Ship_Reactor.label>
+    <Ship_Reactor.description>Dá energia à nave na sua jornada pelo espaço.</Ship_Reactor.description>
+    
+    <!-- Engine -->
+    
+    <Ship_Engine.label>Motor (nave)</Ship_Engine.label>
+    <Ship_Engine.description>Um motor antimatéria capaz de lançar a nava para órbita e para trajectórias interestrelares.</Ship_Engine.description>
+    
+</LanguageData>

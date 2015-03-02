@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!--======================= Wild plants - carpets ========================-->
+    
+    <PlantTallGrass.label>erva alta</PlantTallGrass.label>
+    <PlantTallGrass.description>Erva selvagem alta.</PlantTallGrass.description>
+    
+    <!--============================ Wild - Trees ============================-->
+    
+    <PlantTreeCecropia.label>árvore embaúba</PlantTreeCecropia.label>
+    <PlantTreeCecropia.description>Uma das masi comuns árvores de floresta. Cresce muito rápido.</PlantTreeCecropia.description>
+    
+</LanguageData>

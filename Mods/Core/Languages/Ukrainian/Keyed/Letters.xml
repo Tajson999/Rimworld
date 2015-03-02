@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <JumpToLocation>Перейти до місця розташування</JumpToLocation>
+
+  <FirstSummerWarning>Прийшло літо! Але зима ще попереду.\n\nЇстівні рослини не будуть рости взимку через холод. Переконайтеся, що ви маєте кількомісячний запас їжі доки ще є час.\n\nВи можете побудувати охолоджену кімнату для зберігання швидкопсувних продуктів.\n\nТакож всіляко роздобудьте (купіть, вкрадіть або зробіть) зимовий одяг, щоб не замерзнути пізніше.</FirstSummerWarning>
+
+  <RelationsBrokenDown>Стосунки з {0} прининені. Тепер вони та ви - вороги.</RelationsBrokenDown>
+  <RelationsWarmed>Стосунки з {0} покращилися. Вони та ви більше не вороги.</RelationsWarmed>
+
+  <RelationsBrokenCapture>Ви взяли {0} в полон, тепер {1} ваші вороги.</RelationsBrokenCapture>
+
+  <ColonyGoodwill>Репутація колонії</ColonyGoodwill>
+  <Neutral>Нейтрально</Neutral>
+
+  <ShortCircuitRain>{0} замкнуло через дощ і почалася пожежа.</ShortCircuitRain>
+  <AreaRevealed>Нова область була відкрита випадково.</AreaRevealed>
+
+  <RoofCollapsed>Дах завалився, через те, що знаходиться занадто далеко від підтримуючих конструкцій.</RoofCollapsed>
+  <TheseThingsCrushed>Ці речі/люди були роздавлені:</TheseThingsCrushed>
+  <NothingCrushed>Нічого не було роздавлено.</NothingCrushed>
+  
+  <MentalBreakRampage>{0} зірвався й у нестямі від люті.</MentalBreakRampage>
+  <MentalBreakDaze>{0} здався та тікає з колонії.</MentalBreakDaze>
+  <MentalBreakLeave>{0} здався та йде геть у трансі.</MentalBreakLeave>
+
+  <MentalBreakRecoveryRampage>{0} заспокоївся.</MentalBreakRecoveryRampage>
+  <MentalBreakRecoveryDaze>{0} вирішив повернутися.</MentalBreakRecoveryDaze>
+  <MentalBreakRecoveryLeave>{0} заспокоївся та вертається у колонію</MentalBreakRecoveryLeave>
+
+  <RecruitSuccess>{0} вдало завербував {1} (з шансом {2}).</RecruitSuccess>
+  <RecruitFail>{0} не вдалось завербувати {1} (шанс {2}).</RecruitFail>
+
+  <Birthday>В {0} сьогодні день народження! {1} стає {2}.</Birthday>
+  <BirthdayWithInjuries>У {0} сьогодні день народження! {1} став {2}.\n\nНа жаль, через свій вік {0} захворів(ла) на:\n{3}</BirthdayWithInjuries>
+
+  <NewDisease>{0} захворів ({1}). Переконайтеся, що {0} отримає належне лікування та проводить якнайбільше часу в ліжку, щоб швидше одужати.</NewDisease>
+  <NewPartDisease>{0} інфікован {1}. Переконайтеся, що {0} отримає належне лікування та проводить якнайбільше часу в ліжку, щоб швидше одужати.</NewPartDisease>
+  
+  
+</LanguageData>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+ 
+  <MessageSiegersAssaulting>Belägrande {0} från {1} attackerar kolonin.</MessageSiegersAssaulting>
+
+  <MessageRaidersBeginningAssault>{0} från {1} startar sin attack.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} från {1} har upptäckt dig och har startat sin attack tidigt.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} från {1} har bestämt sig för att kidnappa den de kan och sedan lämna.</MessageRaidersKidnapping>
+
+  <MessageRaidersLeaving>{0} från {1} lämnar.</MessageRaidersLeaving>
+	<MessageRaidersGivenUpLeaving>{0} från {1} har gett upp och lämnar.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} från {1} är nöjda med den skada de införde och lämnar.</MessageRaidersSatisfiedLeaving>
+
+  
+  <MessageFightersFleeing>{0} från {1} flyr.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>Vänlig {0} från {1} lämnar.</MessageFriendlyFightersLeaving>
+
+
+
+  <MessageShipHasLeftCommsRange>{0} har lämnat räckvidden för kommunikation.</MessageShipHasLeftCommsRange>
+	
+	<MessageNeedBeaconToTradeWithShip>Du behöver en orbital förhandlingssignalerare för att förhandla med ett skepp.</MessageNeedBeaconToTradeWithShip>
+	
+  <MessageBillComplete>Order avklarad: {0}.</MessageBillComplete>
+  
+  <MessageFullyHealed>{0} är fullt helad.</MessageFullyHealed>
+
+  <MessagePrisonerIsEscaping>Fånge {0} flyr.</MessagePrisonerIsEscaping>
+
+  <MessageRecruitSuccess>{0} har rekryterat {1} ({2} chans).</MessageRecruitSuccess>
+	<MessageRecruitFail>{0} har inte rekryterat {1} ({2} chans).</MessageRecruitFail>
+	<MessageRecruitFailBecauseLoyalty>{0} har inte rekryterat {1} ({2} chans) (fången är unde lojalitetströskeln).</MessageRecruitFailBecauseLoyalty>
+	
+  <MessageTraderCannotAfford>Förhandlaren har inte råd med det här erbjudandet.</MessageTraderCannotAfford>
+  <MessageColonyCannotAfford>Kolonin har inte råd med det här erbjutandet.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>Du har inte nog med silver redo för förhandling.</MessageColonyNotEnoughSilver>
+  <MessageTraderNotEnoughSilver>Förhandlaren har inte nog med silver.</MessageTraderNotEnoughSilver>
+
+  <MessageCriticalAlert>Kritisk varning: {0}</MessageCriticalAlert>
+
+  <MessageMustDesignateHarvestableFood>Måste designera plantor som ger mat och har växt tillräckligt.</MessageMustDesignateHarvestableFood>
+  <MessageMustDesignateHarvestableWood>Måste designera träd som ger trä och har växt tillräckligt.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>Måste designera växter.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Måste designera dragbara saker.</MessageMustDesignateHaulable>
+  
+  
+</LanguageData>

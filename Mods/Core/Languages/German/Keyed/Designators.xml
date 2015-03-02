@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <DesignatorCancel>Abbrechen</DesignatorCancel>
+  <DesignatorCancelDesc>Bricht das Bauen von Gebäuden, das Abbauen, das Tragen, das Ernten und alle anderen Aufgaben ab.</DesignatorCancelDesc>
+
+  <DesignatorCutPlants>Pflanzen schneiden</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>Markiert Pflanzen, die entfernt werden sollen. Die Pflanze wird komplett entfernt. Eventuell vorhandene Nahrung wird geerntet.</DesignatorCutPlantsDesc>
+
+  <DesignatorDeconstruct>Abreißen</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Reiße Gebäude ab. Du erhälst einen Teil der Ressourcen zurück.</DesignatorDeconstructDesc>
+
+  <DesignatorHarvest>Ernten</DesignatorHarvest>
+  <DesignatorHarvestDesc>Markiert Pflanzen, um die Nahrung oder andere Produkte zu ernten.</DesignatorHarvestDesc>
+
+  <DesignatorHarvestWood>Holz hacken</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Markiert Bäume die gefällt werden sollen, um Holz zu bekommen.</DesignatorHarvestWoodDesc>
+  
+  <DesignatorHaulThings>Objekte entfernen</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Markiert Felsbrocken und andere Gegenstände die weggetragen werden sollen. Nicht erforderlich für Gegenstände wie z.B. Nahrung, Leichen usw.</DesignatorHaulThingsDesc>
+  <MustHaulHaulables>Es können nur Gegenstände markiert werden, die nicht automatisch weggetragen werden (z.B. Felsbrocken).</MustHaulHaulables>
+
+  <DesignatorHunt>Jagen</DesignatorHunt>
+  <DesignatorHuntDesc>Markiert Tiere, die vom Jäger gejagt werden sollen.</DesignatorHuntDesc>
+
+  <DesignatorMine>Abbauen</DesignatorMine>
+  <DesignatorMineDesc>Markiert Gestein u.ä., das abgebaut werden soll.</DesignatorMineDesc>
+  
+  <DesignatorSmoothFloor>Boden glätten</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Markiert rauhen Steinboden, damit er geglättet wird.</DesignatorSmoothFloorDesc>
+
+  <DesignatorPlan>Planen</DesignatorPlan>
+  <DesignatorPlanDesc>Platziert Planungsmarkierungen. Die Markierungen machen nichts, außer dass sie dir helfen zukünftige Erweiterungen zu planen.</DesignatorPlanDesc>
+
+  <DesignatorPlanRemove>Plan entfernen</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Entfernt Planungsmarkierungen.</DesignatorPlanRemoveDesc>
+
+  <DesignatorHomeRegionAdd>Heimzone erstellen</DesignatorHomeRegionAdd>
+  <DesignatorHomeRegionAddDesc>Kolonisten löschen Feuer und säubern in dieser Zone.</DesignatorHomeRegionAddDesc>
+
+  <DesignatorHomeRegionRemove>Heimzone entfernen</DesignatorHomeRegionRemove>
+  <DesignatorHomeRegionRemoveDesc>Entfernt Heimzone. Kolonisten löschen hier kein Feuer und säuber auch nicht mehr.</DesignatorHomeRegionRemoveDesc>
+
+  <DesignatorRegionNoRoofAdd>'Kein Dach' erstellen</DesignatorRegionNoRoofAdd>
+  <DesignatorRegionNoRoofAddDesc>Erstellt eine Zone, in der keine Dächer generiert werden. Kolonisten reißen bereits bestehende Dächer ab.</DesignatorRegionNoRoofAddDesc>
+
+  <DesignatorRegionNoRoofRemove>'Kein Dach' entfernen</DesignatorRegionNoRoofRemove>
+  <DesignatorRegionNoRoofRemoveDesc>Entfernt eine 'Kein Dach' Zone. Dächer werden hier wieder generiert.</DesignatorRegionNoRoofRemoveDesc>
+
+  <DesignatorRegionSnowClearAdd>'Schnee räumen' erstellen</DesignatorRegionSnowClearAdd>
+  <DesignatorRegionSnowClearAddDesc>Erstellt eine Zone, in der die Kolonisten Schnee räumen werden.</DesignatorRegionSnowClearAddDesc>
+
+  <DesignatorRegionSnowClearRemove>'Schnee räumen' entfernen</DesignatorRegionSnowClearRemove>
+  <DesignatorRegionSnowClearRemoveDesc>Entfernt eine 'Schnee räumen' Zone. Kolonisten werden hier nicht mehr versuchen den Bereich Schneefrei zu halten.</DesignatorRegionSnowClearRemoveDesc>
+  
+  <DesignatorGrowingZoneDesc>Erstellt eine Zone, in der Kolonisten Pflanzen anbauen können.</DesignatorGrowingZoneDesc>
+
+  <DesignatorZoneCreateStorageResourcesDesc>Erstellt eine Zone in der Ressourcen gelagert werden.\nDieses Werkzeug kann auch bereits bestehende Lager erweitern.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <DesignatorZoneCreateStorageDumpingDesc>Erstellt eine Zone in der Abfälle gelagert werden.\nDieses Werkzeug kann auch bereits bestehende Lager erweitern.</DesignatorZoneCreateStorageDumpingDesc>
+
+  <DesignatorZoneDelete>Zonen entfernen</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Entfernt Zonen, wie z.B. Lager- und Abfallzonen.</DesignatorZoneDeleteDesc>
+    
+  <DesignatorClaim>In Besitz nehmen</DesignatorClaim>
+  <DesignatorClaimDesc>Nimm neutrale Strukturen für deine Kolonie in Anspruch. Hierunter fallen z.B. Antike Ruinen oder verlassene Belagerungsstrukturen. Beanspruchte Strukturen können von den Kolonisten repariert und benutzt werden.</DesignatorClaimDesc>
+  
+  
+  <!-- placement of blueprints -->
+  <UnchosenStuff>Nicht ausgewähltes Material</UnchosenStuff>
+  <TooCloseToMapEdge>Zu nah am Kartenrand.</TooCloseToMapEdge>
+  <OutOfBounds>Außerhalb der Karte.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Platzierung von Objekten in unentdeckten Gebieten nicht möglich.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Interaktionspunkt blockert durch {0}.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Interaktionspunkt ist außerhalb der Begrenzungen.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Interaktionspunkt wird blockiert durch {0}.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} wird den Interaktionspunkt von {1} blockieren.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>Dieser Boden ist schon {0}.</TerrainIsAlready>
+  <TerrainBeingSmoothed>Dieser Boden ist bereits zum Glätten markiert.</TerrainBeingSmoothed>
+  <IdenticalThingExists>Hier ist bereits ein identischer Gegenstand.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Dieser Plan besteht bereits.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>Dieser Boden ist zu instabil.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Diese Art von Gegenstand befindet sich bereits an dieser Stelle.</SpaceAlreadyOccupied>
+
+  
+  <!-- placement of zones -->
+  <ExpandOrCreateZone>Erweitert {0} oder\nErstellt {1}</ExpandOrCreateZone>
+  <CreateNewZone>Erstellt {0}</CreateNewZone>
+  
+  
+  <!-- desc helpers -->
+  <TransmitsPower>Leitet Strom</TransmitsPower>
+
+
+</LanguageData>

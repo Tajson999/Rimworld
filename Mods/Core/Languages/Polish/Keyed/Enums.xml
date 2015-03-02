@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- glow -->
+  <Dark>Ciemno</Dark>
+  <Lit>Szaro</Lit>
+  <LitBrightly>Jasno</LitBrightly>
+  
+  <!-- food quality -->
+  <NoneQuality>Brak</NoneQuality>
+  <PlantQuality>Roślina</PlantQuality>
+  <RawQuality>Surowe</RawQuality>
+  <MealAwfulQuality>Okropne danie</MealAwfulQuality>
+  <MealSimpleQuality>Proste danie</MealSimpleQuality>
+  <MealFineQuality>Dobre danie</MealFineQuality>
+  <MealLavishLavish>Obfite danie</MealLavishLavish>
+  
+  <!-- diet type -->
+  <NeverEats>Nigdy nie je</NeverEats>
+  <Omnivorous>Wszystkożerny</Omnivorous>
+  <Herbivorous>Roślinożerny</Herbivorous>
+  <Carnivorous>Mięsożerny</Carnivorous>
+  
+  <!-- history upload pref -->
+  <Unspecified>Nie zdecydowano</Unspecified>
+  <Always>Zezwalaj</Always>
+  <Never>Nie zezwalaj</Never>
+  
+  <!-- Price types -->
+  <PriceTypeVeryCheap>bardzo tanio</PriceTypeVeryCheap>
+  <PriceTypeCheap>tanio</PriceTypeCheap>
+  <PriceTypeNormal>normalnie</PriceTypeNormal>
+  <PriceTypeExpensive>drogo</PriceTypeExpensive>
+  <PriceTypeExorbitant>skrajnie drogo</PriceTypeExorbitant>
+
+  <!-- stat category -->
+  <StatCategory_General>Ogólne</StatCategory_General>
+  <StatCategory_GeneralNonPawn>Ogólne</StatCategory_GeneralNonPawn>
+  <StatCategory_Armor>Pancerz</StatCategory_Armor>
+  <StatCategory_PawnPrimary>Podstawowy</StatCategory_PawnPrimary>
+  <StatCategory_PawnWork>Praca</StatCategory_PawnWork>
+  <StatCategory_PawnCombat>Walka</StatCategory_PawnCombat>
+  <StatCategory_PawnSocial>Społeczne</StatCategory_PawnSocial>
+  <StatCategory_PawnMisc>Różne</StatCategory_PawnMisc>
+  <StatCategory_Building>Budowanie</StatCategory_Building>
+  
+  <EquippedStatOffsets>Zmiany kiedy wyposażone</EquippedStatOffsets>
+  <StuffOfEquipmentStatModifiers>Współczynniki ekwipunku z tego materiału</StuffOfEquipmentStatModifiers>
+  
+</LanguageData>

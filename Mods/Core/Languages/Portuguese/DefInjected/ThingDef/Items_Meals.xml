@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <MealSurvivalPack.label>refeição compacta</MealSurvivalPack.label>
+    <MealSurvivalPack.description>Uma refeição compacta de alta qualidade, feita para uso em situações de sobrevivência.</MealSurvivalPack.description>
+    
+    <MealNutrientPaste.label>pasta nutritiva</MealNutrientPaste.label>
+    <MealNutrientPaste.description>Uma mistura sintética de proteína, carboidratos, vitaminas, aminoácidos e minerais. Tudo o que o corpo precisa, e absolutamente repugnante.</MealNutrientPaste.description>
+    
+    <MealSimple.label>refeição simples</MealSimple.label>
+    <MealSimple.description>Uma refeição simples, rapidamente cozinhada com alguns ingredientes.</MealSimple.description>
+    
+    <MealFine.label>refeição requintada</MealFine.label>
+    <MealFine.description>Um prato complexo feito com carinho apartir de uma larga selecção de ingredientes.</MealFine.description>
+    
+    <MealLavish.label>Refeição exuberante</MealLavish.label>
+    <MealLavish.description>Uma obra-prima da arte culinária, esta refeição nutre o corpo, mente e alma.</MealLavish.description>
+    
+</LanguageData>

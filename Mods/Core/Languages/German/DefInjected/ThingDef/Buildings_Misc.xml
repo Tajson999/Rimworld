@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<SunLamp.label>Künstl. Sonne</SunLamp.label>
+	<SunLamp.description>Beleuchtet eine Fläche so stark, dass Pflanzen wachsen können.</SunLamp.description>
+	
+	<OrbitalTradeBeacon.label>Orbitales Funkfeuer</OrbitalTradeBeacon.label>
+	<OrbitalTradeBeacon.description>Für orbitalen Handel benötigt.\nDu kannst nur Waren verkaufen, die in der Nähe eines Funkfeuers sind. Orbital Händler senden gekaufte Waren hier hin.</OrbitalTradeBeacon.description>
+	
+	<CommsConsole.label>Funkanlage</CommsConsole.label>
+	<CommsConsole.description>Kommuniziere mit nahen Raumschiffen oder anderen Fraktionen zum Tauschen und Handeln.</CommsConsole.description>
+	
+	<Grave.label>Grab</Grave.label>
+	<Grave.description>Lege die Toten in Gräber und gib ihnen eine gebührende Ruhestätte.</Grave.description>
+	
+  <!-- Cryptosleep casket -->
+	
+	<CryptosleepCasket.label>Kryoschlaf Kapsel</CryptosleepCasket.label>
+	<CryptosleepCasket.description>Eine selbstversorgende Kapsel, die darauf ausgelegt ist, den Insassen Jahrzehntelang in einem künstlichen Winterschlaf zu versetzen.</CryptosleepCasket.description>
+	
+	<AncientCryptosleepCasket.label>Antike Kryoschlaf Kapsel</AncientCryptosleepCasket.label>
+	<AncientCryptosleepCasket.description>Diese Kryoschlafkapsel sieht aus, als ob sie schon eine sehr lange Zeit hier ist. Was sie wohl enthalten mag?</AncientCryptosleepCasket.description>
+	
+</LanguageData>

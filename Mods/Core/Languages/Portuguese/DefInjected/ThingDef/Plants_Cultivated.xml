@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!--=========================== Crops ==============================-->
+    
+    <PlantPotato.label>planta de batata</PlantPotato.label>
+    <PlantPotato.description>Um tubérculo simples e altamente nutritivo. Cresce bem em solos relativamente pobres.</PlantPotato.description>
+    
+    <PlantStrawberry.label>morangueiro</PlantStrawberry.label>
+    <PlantStrawberry.description>Uma fruta frágil, mas saborosa. Deliciosa mesmo quando crua.</PlantStrawberry.description>
+    
+    <PlantCotton.label>algodoeiro</PlantCotton.label>
+    <PlantCotton.description>Produz algodão, uma fibra fina usada para fazer roupa.</PlantCotton.description>
+    
+    <PlantDevilstrand.label>fio do diabo</PlantDevilstrand.label>
+    <PlantDevilstrand.description>Este frágil cogumelo foi alterado geneticamente para produzir uma rede de seda da maior qualidade.  Dizem que tem propriedades místicas, e o seu nome vem da ganância que causa nas pessoas.</PlantDevilstrand.description>
+    
+    <!--=========================== Decorative ==============================-->
+    
+    <PlantRose.label>rosa</PlantRose.label>
+    <PlantRose.description>Uma bela flor cultivada.</PlantRose.description>
+    
+    <PlantDaylily.label>lírio-de-um-dia</PlantDaylily.label>
+    <PlantDaylily.description>Uma bela flor cultivada.</PlantDaylily.description>
+    
+</LanguageData>

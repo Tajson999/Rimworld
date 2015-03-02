@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!--===========================  Wild - clustering bushes (some harvestable) ==============================-->
+    
+    <PlantAgave.label>agave</PlantAgave.label>
+    <PlantAgave.description>Planta desértica de grande folhagem com flores e caule comestíveis.</PlantAgave.description>
+    
+    <!--============================ Wild - Cacti ============================-->
+    
+    <PlantSaguaroCactus.label>cacto saguaro</PlantSaguaroCactus.label>
+    <PlantSaguaroCactus.description>Cacto grande nativo de ambientes desertos.</PlantSaguaroCactus.description>
+    
+    <PlantPincushionCactus.label>cacto escobaria</PlantPincushionCactus.label>
+    <PlantPincushionCactus.description>Cacto pequeno.</PlantPincushionCactus.description>
+    
+</LanguageData>

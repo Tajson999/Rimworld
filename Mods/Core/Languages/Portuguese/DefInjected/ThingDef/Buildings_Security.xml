@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Sandbags.label>sacos de areia</Sandbags.label>
+    
+    <!--=============== Improvised turret ===============-->
+    
+    <TurretGun.label>Torre de tiro improvisada</TurretGun.label>
+    
+    <!--=============== Mortar turret ===============-->
+    
+    <Turret_MortarIncendiary.label>Morteiro incendiário</Turret_MortarIncendiary.label>
+    
+    <!--=============== Mortar turret ===============-->
+    
+    <Turret_MortarBomb.label>Morteiro</Turret_MortarBomb.label>
+    
+    <!--=============== Mortar turret ===============-->
+    
+    <Turret_MortarEMP.label>Morteiro EMP</Turret_MortarEMP.label>
+    
+</LanguageData>

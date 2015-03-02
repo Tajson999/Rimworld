@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- ================= Wood floor ================= -->
+  	
+	<WoodPlankFloor.label>Drewniana podłoga</WoodPlankFloor.label>
+	<WoodPlankFloor.description>Podłoga zbita z drewnianych desek. Przytulnie jak w domu.</WoodPlankFloor.description>
+
+	<!-- ================= Tile ================= -->
+	
+	<MetalTile.label>Metalowe płytki</MetalTile.label>
+	<MetalTile.description>Metalowe płytki, nadadzą trochę kosmicznego wyglądu.</MetalTile.description>
+	
+	<PavedTile.label>Betonowe płytki</PavedTile.label>
+	<PavedTile.description>Utylitarne betonowe płytki. Niezbyt ładne, ale za to dobre do szybkiego do poruszania się.</PavedTile.description>
+	
+	<StoneTile.label>Kamienne płytki</StoneTile.label>
+    <StoneTile.description>Solidne kamienne płytki przywodzące na myśl zamek.</StoneTile.description>
+	
+	
+	<!-- ================= Carpets ================= -->
+	
+	<CarpetRed.label>Czerwona wykładzina</CarpetRed.label>
+	<CarpetRed.description>Włochata wykładzina w pięknym czerwonym odcieniu.</CarpetRed.description>
+	
+	<CarpetGreen.label>Zielona wykładzina</CarpetGreen.label>
+	<CarpetGreen.description>Wyglądająca naturalnie zielona wykładzina.</CarpetGreen.description>
+	
+	<CarpetBlue.label>Niebieska wykładzina</CarpetBlue.label>
+	<CarpetBlue.description>Miła dla stóp włochata wykładzina w niezłym niebieskim odcieniu.</CarpetBlue.description>
+	
+	
+	<!-- ================= Foundation solids ================= -->
+	
+	<Concrete.label>Beton</Concrete.label>
+    <Concrete.description>Szybkoschnący beton. Dobry do szybkiego poruszania się, ale trochę brzydki. Będziesz musiał wykopać trochę ziemi, aby go położyć.</Concrete.description>
+	
+	<SmoothStone.label>Gładki kamień</SmoothStone.label>
+    <SmoothStone.description>Wygładzony naturalny kamień. Dobry do szybkiego poruszania się i ładny w wyglądzie.</SmoothStone.description>
+	
+	<RoughHewnRock.label>Wykuty kamień</RoughHewnRock.label>
+
+</LanguageData>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <NutrientPasteDispenser.label>Dispensador de pasta nutritiva</NutrientPasteDispenser.label>
+    <NutrientPasteDispenser.description>Sintetiza pasta nutritiva apartir de matéria-prima orgânica.</NutrientPasteDispenser.description>
+    
+    <Hopper.label>funil</Hopper.label>
+    
+    <!-- ========================= Work tables ==========================-->
+    
+    <TableButcher.label>Mesa de talhante</TableButcher.label>
+    <TableButcher.description>Uma mesa pesada para matar e fatiar animais em pedaços de carne crua.</TableButcher.description>
+    
+    <TableTailor.label>Bancada de alfaiate</TableTailor.label>
+    <TableTailor.description>Uma bancada equipada com utensílios para refinar e produzir roupa.</TableTailor.description>
+    
+    <TableMachining.label>Mesa de usinagem</TableMachining.label>
+    <TableMachining.description>Uma mesa e ferramentas para montar e desmontar componentes de máquinas.</TableMachining.description>
+    
+    <CookStove.label>Fogão de cozinha</CookStove.label>
+    <CookStove.description>Um simples fogão para preparar refeições com ingredientes simples.</CookStove.description>
+    
+    <TableStonecutter.label>Mesa de lapidação</TableStonecutter.label>
+    <TableStonecutter.description>Permite cortar pedra em blocos úteis.</TableStonecutter.description>
+    
+    <ElectricSmelter.label>Fundidor elétrico</ElectricSmelter.label>
+    <ElectricSmelter.description>Extrai metal de pedaços de escombros e de outros items metálicos. Consume muita energia.</ElectricSmelter.description>
+    
+    <Crematorium.label>crematório</Crematorium.label>
+    <Crematorium.description>Crema os corpos.</Crematorium.description>
+    
+    <!-- ========== Hydroponics ==============-->
+    
+    <HydroponicsBasin.label>base hidropónica</HydroponicsBasin.label>
+    <HydroponicsBasin.description>Para cultivar alimentos. Bases hidropónicas aceleram o crescimento das plantas.</HydroponicsBasin.description>
+    
+</LanguageData>

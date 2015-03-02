@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ClickToJumpToProblem>Tryck för att hoppa till problem</ClickToJumpToProblem>
+
+
+
+
+  <AlertNeedStockpile>Behöver förråd</AlertNeedStockpile>
+  <AlertNeedStockpileDesc>Dina kolonister behöver någonstans att förvara saker på. Ange ett FÖRRÅD för dem att förvara saker i. \n\nHitta förrådet i sektionen ZONER i ARKITEKT menyn nere i det vänstra hörnet.</AlertNeedStockpileDesc>
+
+  <AlertUnforbidStartingResources>Upphäv förbjudning på resurser</AlertUnforbidStartingResources>
+  <AlertUnforbidStartingResourcesDesc>Startresurserna på kartan är FÖRBJUDNA.\n\nFör att kolonisterna ska kunna ta dem måste du upphäva förbjudningen genom att klicka på dem och klicka på kommandot UPPHÄV FÖRBJUDNING länst ner på skärmen.</AlertUnforbidStartingResourcesDesc>
+
+  <AlertEquipStartingWeapons>Använd vapen</AlertEquipStartingWeapons>
+  <AlertEquipStartingWeaponsDesc>Dina kolonister anlände med några vaoen. Utrusta dem!\n\nTryck på varje kolonist och högerklicka på vapnet du vill att de ska använda.</AlertEquipStartingWeaponsDesc>
+  
+  <NeedSawmill>Behöver sågverk</NeedSawmill>
+  <NeedSawmillDesc>Du behöver något sorts sågverk för att kunna hugga stockar till mer användbara plankor.\n\nBygg ett HAND SÅGVERK eller ett ELEKTRISK SÅGVERK.</NeedSawmillDesc>
+
+  <EquipStartingEquipment>Ta din utrusting.</EquipStartingEquipment>
+  <EquipStartingEquipmentDesc>Du landade med några vapen. Ta dem från din landningsplats.\n\nFör att utrusta en kolonist med något, klicka på kolonisten och högerklicka sedan på saken du vill använda.</EquipStartingEquipmentDesc>
+
+  <MentalBreakSoon>Mentalt sammanbrott snart</MentalBreakSoon>
+  <MentalBreakSoonDesc>Dessa kolonister håller på att få ett mentalt sammanbrott:\n\n{0}\nFörbättra dessa kolonisters psykologi snart, annars kommer dåliga saker att hända.</MentalBreakSoonDesc>
+
+  <MentalBreakImminent>Mentalt sammanbrott överhängande</MentalBreakImminent>
+  <MentalBreakImminentDesc>Dessa kolonister är kritiskt stressade och kan ha ett mentalt sammanbrott när som helst:\n\n{0}</MentalBreakImminentDesc>
+
+  <ColonistNeedsRescue>Kolonister behöver räddning</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Kolonister behöver räddning</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>  Dessa kolonister ligger handikappade på marken:\n\n{0}\nSkicka en annan kolonist för att rädda och bära tillbaka dem till sina sängar.\n\n(För att rädda någon, klicka på en annan kolonist och högerklicka sedan på offret och klicka på Rädda.</ColonistsNeedRescueDesc>
+
+  <BuildARoom>Bygg ett rum</BuildARoom>
+  <BuildARoomDesc>Ett rum är komposerat av separata väggdelar med en dörr.\n\nAnvänd ARKITEKT menyn nere i det vänstra hörnet för att designera vart du vill att saker ska byggas. När du har designerat något för konstruktion kommer dina kolonister göra det jobb de kan.</BuildARoomDesc>
+
+  <NeedGrowingZone>Behöver tillväxtzon.</NeedGrowingZone>
+  <NeedGrowingZoneDesc>Du har inga tillväxtzoner.\n\nPlacera en tillväxtzon på bördig jord genom ARKITEKT menyn.</NeedGrowingZoneDesc>
+
+  <NeedDefenses>Behöver försvar</NeedDefenses>
+  <NeedDefensesDesc>Du har varit här ett tag nu och har troligen blivit sedd av andra. Pirater kommer snart på plundringståg.\n\nDu borde förbereda försvar.\n\nBygg några torn.</NeedDefensesDesc>
+
+  <NeedDoctor>Behöver doktor</NeedDoctor>
+  <NeedDoctorDesc>Dessa patienter är handikappade i sina sängar och hungriga. De behöver matas, men du har inte tilldelat arbetstypen Doktor till någon av dina friska kolonister.\n\n{0}\nTilldela arbetstypen Doktor till någon av dina friska kolonister.</NeedDoctorDesc>
+
+  <NeedMiner>Behöver gruvarbetare</NeedMiner>
+  <NeedMinerDesc>Du har angett att några stenar ska bli utgrävnar, men ingen kolonist är tilldelad arbetstypen Gruvarbetare. \n\nTilldela arbetstypen Gruvarbetare till någon av dina kolonister.</NeedMinerDesc>
+
+  <NeedWarden>Behöver övervakare</NeedWarden>
+  <NeedWardenDesc>Du har en fånge, men ingen kolonist är tilldelad arbetstypen Övervakare.\n\nTilldela arbetstypen Övervakare till någon av dina kolonister.</NeedWardenDesc>
+
+  <LowFood>Låg mat</LowFood>
+  <LowFoodDesc>Du har bara {0} näring kvar i ditt matförvar. Detta är farligt lågt.\n\nVäx, köp, hitta, eller döda för att skaffa mat.</LowFoodDesc>
+
+  <NeedColonistBeds>Behöver kolonistsängar.</NeedColonistBeds>
+  <NeedColonistBedsDesc>Du har fler kolonister än vad du har kolonistsängar. Någon kommer sakna en plats att sova på.\n\nDu kan antingen skapa fler sängar, eller ändra en fångesäng till en kolonistsäng.\n\nOm du inte har några resurser så kan du placera ut sovplatser direkt, gratis.</NeedColonistBedsDesc>
+  
+  <Starvation>Svält</Starvation>
+  <StarvationDesc>Dessa kolonister svälter:\n\n{0}\nSkaffa mat åt dem. Du behövber en matkälla som en näringsmassmaskin och lite mat för att använda den. Se också till att de inte är utarbetade.</StarvationDesc>
+
+  <Exhaustion>Utmattning</Exhaustion>
+  <ExhaustionDesc>Dessa kolonister är utmattade och behöver vila:\n\n{0}\nLåt dem vila ett tag. De behöver en säng som är markerad för kolonisters användning. Se också till att de inte är utarbetade.</ExhaustionDesc>
+
+  <NeedFoodHopper>Behöver mattratt</NeedFoodHopper>
+  <NeedFoodHopperDesc>Du har en näringsmassutdelare som saknar en tratt bredvid sig.\n\nFör att fungera behöver näringsmassmaskinen tappa från en närliggande tratt fylld med rå mat.\n\nBygg en tratt närliggande näringsmassmaskinen.</NeedFoodHopperDesc>
+
+  <BuildingNeedsPower>Byggnad behöver ström</BuildingNeedsPower>
+  <BuildingsNeedPower>Byggnad behöver ström</BuildingsNeedPower>
+  <BuildingsNeedPowerDesc>Dessa strömanvändande byggnader saknar anslutning till en strömkälla:\n\n{0}\nAnslut dem till en strömgenerator eller ett batteri.</BuildingsNeedPowerDesc>
+  <AndMore>och mer</AndMore>
+
+  <NeedMealSource>Behöver måltidskälla</NeedMealSource>
+  <NeedMealSourceDesc>Du saknar möjlighet att producera ätbara måltider.\n\nBygg en näringsmassmaskin eller en spis.\n\n(Det kan inte vara i en fängelsecell, då kan inte kolonister använda den.)</NeedMealSourceDesc>
+  
+
+  <NeedHomeRegion>Behöver hemområde</NeedHomeRegion>
+  <NeedHomeRegionDesc>Du måste definiera ett HEMOMRÅDE där dina kolonister kommer att städa, släcka bränder, och reparera saker.\n\nDefinera ett hemområde genom att använda ZONER-sektionen av ARKITEKT menyn.</NeedHomeRegionDesc>
+
+  <NeedBatteries>Behöver batterier</NeedBatteries>
+  <NeedBatteriesDesc>Du har bara solgeneratorer och inga batterier. Detta betyder att du kommer att förlora ström varje gång solen går ner.\n\nBygg ett batteri eller två för att klara dig under natten.</NeedBatteriesDesc>
+
+  <NoTradingCapacity>Ingen handlingsförmåga</NoTradingCapacity>
+  <NoTradingCapacityDesc>Du saknar förmågan att förhandla med förbipasserande skepp.\n\nBygg en kommunikationskonsoll.</NoTradingCapacityDesc>
+
+  <NeedResearchProject>Behöver forskningsprojekt.</NeedResearchProject>
+  <NeedResearchProjectDesc>Du har utrustnignen för att forska men har inte valt ut ett projekt.\n\nÖppna forskningsmenyn och välj ett projekt.</NeedResearchProjectDesc>
+
+  <NeedDump>Behöver dumpningsplats</NeedDump>
+  <NeedDumpDesc>Du har stenbitar som dina kolonister vill dra bort, men de har ingenstans att ta det.\n\nDesignera ett förrod och sätt dess förvaringsinställningar till att acceptera stenbitar.</NeedDumpDesc>
+
+  <NeedGrave>Behöver grav</NeedGrave>
+  <NeedGraveDesc>Det ligger en död kropp på marken och det finns ingenstans för dina kolonister att ta det.\n\nBygg en grav eller dumpningsplats och sött dess förvaringsinställningar.</NeedGraveDesc>
+
+  <ColonistsIdle>{0} kolonister inaktiva</ColonistsIdle>
+  <ColonistsIdleDesc>Dessa kolonister vandrar inaktivt:\n\n{0}\nDu borde ge dem något produktivt att göra.</ColonistsIdleDesc>
+
+  <HaltedConstructions>{0} konstruktioner saknar material</HaltedConstructions>
+  <HaltedConstructionsDesc>Dessa konstruktioner saknar material:\n\n{0}\nDu borde tillgängliggöra de material som krävs för dina kolonister.</HaltedConstructionsDesc>
+
+  <TableNeedsChairs>Bord behöver stolar</TableNeedsChairs>
+  <TableNeedsChairsDesc>Du har ett bord som inte har några stolar bredvid det. Bord är värdelösa om kolonisterna inte kan sitta vid dem.</TableNeedsChairsDesc>
+
+
+
+
+</LanguageData>

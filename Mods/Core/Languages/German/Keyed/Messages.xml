@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <MessageSiegersAssaulting>Belagerer {0} der {1} greifen die Kolonie an.</MessageSiegersAssaulting>
+
+  <MessageRaidersBeginningAssault>{0} der {1} starten ihren Angriff.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} der {1} haben dich gesehen und greifen an.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} der {1} haben sich entschlossen wen sie erwischen können zu entführen und dann zu verschwinden.</MessageRaidersKidnapping>
+  
+  <MessageRaidersLeaving>{0} der {1} verlassen das Gebiet.</MessageRaidersLeaving>
+  <MessageRaidersGivenUpLeaving>{0} der {1} haben aufgegeben und verlassen das Gebiet.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} der {1} sind zufrieden mit dem Schaden, den sie angerichtet haben und ziehen ab.</MessageRaidersSatisfiedLeaving>
+
+  <MessageFightersFleeing>{0} der {1} fliehen.</MessageFightersFleeing>
+
+  <MessageFriendlyFightersLeaving>Freundliche {0} der {1} verlassen das Gebiet.</MessageFriendlyFightersLeaving>
+ 
+  <MessageWornApparelDeterioratedAway>Die Ausrüstung {0} von {1} ist zerfallen.</MessageWornApparelDeterioratedAway>
+  
+  <MessageSeasonBegun>{0} hat angefangen.</MessageSeasonBegun>
+  
+  <MessageShipHasLeftCommsRange>{0} ist jetzt außer Reichweite.</MessageShipHasLeftCommsRange>
+	
+  <MessageNeedBeaconToTradeWithShip>Du brauchst ein orbitales Funkfeuer um mit einem Raumschiff zu handeln.</MessageNeedBeaconToTradeWithShip>
+	
+  <MessageBillComplete>Aufgabe beendet: {0}.</MessageBillComplete>
+  
+  <MessageFullyHealed>{0} ist vollständig geheilt.</MessageFullyHealed>
+
+  <MessagePrisonerIsEscaping>Gefangener {0} bricht aus.</MessagePrisonerIsEscaping>
+  
+  <MessageOutOfNearbyShellsFor>{0} hat keine Geschosse für {1} in der Nähe gefunden.</MessageOutOfNearbyShellsFor>
+
+  <MessageRecruitSuccess>{0} hat erfolgreich {1} angeworben ({2} Chance).</MessageRecruitSuccess>
+  <MessageRecruitFail>{0} konnte {1} nicht anwerben ({2} Chance).</MessageRecruitFail>
+  	<MessageRecruitFailBecauseLoyalty>{0} konnte {1} nicht anwerben (Loyalität des Gefangenen ist zu niedrig).</MessageRecruitFailBecauseLoyalty>
+
+  <MessagePoorlyTreated>{1} hat {0} behandelt (Schlechte Qualität, {2} Wahrscheinlichkeit für gute Qualität)</MessagePoorlyTreated>
+  <MessageWellTreated>{1} hat {0} behandelt (Gute Qualität, {2} Wahrscheinlichkeit für gute Qualität)</MessageWellTreated>
+	
+  <MessageTraderCannotAfford>Der Händler kann sich das nicht leisten.</MessageTraderCannotAfford>
+  <MessageColonyCannotAfford>Die Kolonie kann sich das nicht leisten.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>Du hast nicht genug Silber bereit stehen.</MessageColonyNotEnoughSilver>
+  <MessageTraderNotEnoughSilver>Händler hat nicht genug Silber.</MessageTraderNotEnoughSilver>
+
+  <MessageCriticalAlert>Kritischer Alarm: {0}</MessageCriticalAlert>
+
+  <MessageMustDesignateHarvestable>Muss erntbaren Pflanzen zugewiesen sein, die ausreichend gewachsen sind.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestableWood>Muss holzspendenden Pflanzen zugewiesen sein, die ausreichend gewachsen sind.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>Muss Pflanzen zugewiesen sein.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Muss tragbaren Gegenständen zugewiesen sein.</MessageMustDesignateHaulable>
+  
+  <MessageMustDesignateMineable>Muss abbaubaren unpassierbaren Felsen zugewiesen sein.</MessageMustDesignateMineable>
+  <MessageMustDesignateHuntable>Muss jagbaren Tieren zugewiesen sein.</MessageMustDesignateHuntable>
+  <MessageMustDesignateClaimable>Muss aufgegebenen künstlichen Strukturen zugewiesen sein.</MessageMustDesignateClaimable>
+  <MessageMustDesignateSmoothableFloor>Muss rauhem Steinboden zugewiesen sein.</MessageMustDesignateSmoothableFloor>
+ 
+  
+  <MessageNoMedicalBeds>Es sind keine medizinischen Betten verfügbar.</MessageNoMedicalBeds>
+  
+  <PawnDiedBecauseOf>{0} ist an {1} gestorben.</PawnDiedBecauseOf>
+
+  <MessageNoLongerDowned>{0} kann wieder laufen.</MessageNoLongerDowned>
+  
+  <MessageMedicalOperationFailureCatastrophic>{0} hat bei der Operation an {1} katastrophal versagt.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureMinor>{0} hat bei der Operation an {1} einen kleinen Fehler gemacht.</MessageMedicalOperationFailureMinor>
+  
+  
+</LanguageData>

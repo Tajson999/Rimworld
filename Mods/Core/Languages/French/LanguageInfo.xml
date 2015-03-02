@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageInfo>
+  <friendlyNameNative>Français</friendlyNameNative>
+  <friendlyNameEnglish>French</friendlyNameEnglish>
+  <canBeTiny>true</canBeTiny>
+  <credits>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Hiztaar</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+	    <creditee>Walewein</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+	    <creditee>Raphaël Bouterige</creditee>
+    </li>
+  </credits>
+</LanguageInfo>
+

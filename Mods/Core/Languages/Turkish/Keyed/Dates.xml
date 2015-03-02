@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ClockTime>Saat</ClockTime>
+  <ClockDate>Tarih</ClockDate>
+  <ClockYear>Yıl</ClockYear>
+  <DateReadoutTip>Geldiğin günden beri geçen zaman: {0}\n Her ayda {1} gün var.</DateReadoutTip>
+
+
+
+  <FullDate>{0} {1}, yıl {2}</FullDate>
+  <MonthFullDate>{0} {1}</MonthFullDate>
+  
+  <MonthFullJanuary>Ocak</MonthFullJanuary>
+  <MonthFullFebruary>Şubat</MonthFullFebruary>
+  <MonthFullMarch>Mart</MonthFullMarch>
+  <MonthFullApril>Nisan</MonthFullApril>
+  <MonthFullMay>Mayıs</MonthFullMay>
+  <MonthFullJune>Haziran</MonthFullJune>
+  <MonthFullJuly>Temmuz</MonthFullJuly>
+  <MonthFullAugust>Ağustos</MonthFullAugust>
+  <MonthFullSeptember>Eylül</MonthFullSeptember>
+  <MonthFullOctober>Ekin</MonthFullOctober>
+  <MonthFullNovember>Kasım</MonthFullNovember>
+  <MonthFullDecember>Aralık</MonthFullDecember>
+
+  <MonthShortJanuary>Oca</MonthShortJanuary>
+  <MonthShortFebruary>Şub</MonthShortFebruary>
+  <MonthShortMarch>Mar</MonthShortMarch>
+  <MonthShortApril>Nis</MonthShortApril>
+  <MonthShortMay>May</MonthShortMay>
+  <MonthShortJune>Haz</MonthShortJune>
+  <MonthShortJuly>Tem</MonthShortJuly>
+  <MonthShortAugust>Agu</MonthShortAugust>
+  <MonthShortSeptember>Eyl</MonthShortSeptember>
+  <MonthShortOctober>Ekm</MonthShortOctober>
+  <MonthShortNovember>Kas</MonthShortNovember>
+  <MonthShortDecember>Ara</MonthShortDecember>
+    
+    
+</LanguageData>

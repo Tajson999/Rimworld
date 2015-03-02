@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<CommandForbiddenDesc>Yasaklanmış - koloniciler bunla etkileşime giremez.</CommandForbiddenDesc>
+	<CommandNotForbiddenDesc>Yasaklanmamış - koloniciler bunla etkileşime girebilir.</CommandNotForbiddenDesc>
+
+  <!-- Power -->
+  <CommandTogglePowerLabel>Gücü aç/kapa</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>Gücü aç/kapa.</CommandTogglePowerDesc>
+
+  <CommandTryReconnectLabel>Yeniden bağla</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Benim bağlantı alanımda olan başka bir güç kaynağına bağlan. Güç olmayan bir kaynağa bağlıyım. Fakat yakınımda çalışan bir güç kaynağı var.</CommandTryReconnectDesc>
+
+
+  <CommandGatherSpotToggleLabel>Toplama alanı</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Aktif - koloniciler bu alanda toplama yapacak.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Pasif - koloniciler bu alanda toplama yapmayacak.</CommandGatherSpotToggleDescInactive>
+  
+  
+  <!-- Drafting -->
+  <CommandDraftLabel>Taslak</CommandDraftLabel>
+  <CommandUndraftLabel>Taslak İptal</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Askeri taslak işaretle.\n\nİşaretkli kişiler emir alır ve savaşır. Çalışmazlar, yemezler ve dinlenmezler.</CommandToggleDraftDesc>
+  <IsIncapped>{0} aciz durumda.</IsIncapped>
+
+  
+  <CommandCancelConstructionLabel>İptal et</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Bu inşayı iptal et.</CommandCancelConstructionDesc>
+
+  <CommandGetOutOfBedLabel>Yataktan çık</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Mevcut yataktan çık.</CommandGetOutOfBedDesc>
+
+  <CommandBedSetOwnerLabel>Sahip belirle.</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Bu yatağı bir koloniciye ata.</CommandBedSetOwnerDesc>
+  <BedAssign>Atamak</BedAssign>
+  <CommandBedSetForPrisonersLabel>Mahkumlar için belirle.</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>Bu odadaki yatakların kullanımını mahkumlara belirle.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>Açıkhavadaki yataklar mahkumlara verilemez.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetForColonistsLabel>Kolonicilar için işaretle</CommandBedSetForColonistsLabel>
+  <CommandBedSetForColonistsDesc>Bu odadaki yatakları koloniciler için belirle.</CommandBedSetForColonistsDesc>
+  <CommandBedSetAsMedicalLabel>Medikal yatak olarak belirle</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc> Bu yatağı medikal kullanım için belirle.</CommandBedSetAsMedicalDesc>
+  <CommandBedSetAsNonMedicalLabel>Medikal olmamasını belirle</CommandBedSetAsNonMedicalLabel>
+  <CommandBedSetAsNonMedicalDesc>Bu yatağı medikal olmamasını belirle.</CommandBedSetAsNonMedicalDesc>
+  <TurningOnPrisonerBedWarning>Mahkum moduna çevirmek bütün odayı etkileyecek (mahkumlar ve koloniciler aynı odada uyuyamayacağından).\n\nŞu kişiler yataklarının sahipliğini kaybedecek:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Mahkum modunu iptal etmek tüm odayı etkileyecek (mahkumlar ve koloniciler aynı odada uyuyamayacağından).\n\nŞu kişiler yataklarının sahipliğini kaybedecek:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Bunu yapmak istediğinden emin misin?</AreYouSure>
+
+  
+  
+  <CommandDetonateDesc>Patlamaya geri sayımı başlat.</CommandDetonateDesc>
+  <CommandDetonateLabel>Patlat</CommandDetonateLabel>
+
+  <CommandRenameZoneDesc>Bölgeyi yeniden adlandır.</CommandRenameZoneDesc>
+  <CommandRenameZoneLabel>Yeniden adlandır</CommandRenameZoneLabel>
+
+  <CommandHideZoneDesc>Bu alanı Gizle/Gizleme </CommandHideZoneDesc>
+  <CommandHideZoneLabel>Gizle</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Gizleme</CommandUnhideZoneLabel>
+
+  <CommandDeleteZoneDesc>Bölgeyi sil.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneLabel>Sil</CommandDeleteZoneLabel>
+  
+  
+  <!-- Artillery -->
+  <CommandSetForceAttackTarget>Zorunlu hedef belirle</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>Taretin olabildiğince saldırmak zorunda olduğu bir hedef belirler.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>Zorunlu saldırıyı durdur</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Zorunlu saldırıyı durdurur ve taretin istediği hedefe saldırmasına izin verir.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Şu an zorunlu saldırı yapmıyor.</CommandStopAttackFailNotForceAttacking>
+  <MessageTargetBeyondMaximumRange>Hedef maksimum menzil ötesinde.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Hedef minimum menzilden yakın.</MessageTargetBelowMinimumRange>
+  
+  
+  <!-- Ship computer core -->
+  <CommandShipLaunch>Gemiyi fırlat</CommandShipLaunch>
+  <CommandShipLaunchDesc>Mevcut ayarlarla fırlatma sekansını başlat.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Fırlatma raporunu göster</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>Geminin fırlatmaya hazırlık kapasitesi ile ilgili bir rapor göster.</CommandShipLaunchReportDesc>
+
+
+  <!-- Pod -->
+  <CommandPodEject>Uyuyanı Çıkar</CommandPodEject>
+  <CommandPodEjectDesc>CryptoUykucuyu uyandır ve çıkar.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>Kimseyi barındırmıyor.</CommandPodEjectFailEmpty>
+
+  <!-- Door -->
+  <CommandToggleDoorLock>Kilit</CommandToggleDoorLock>
+  <CommandToggleDoorLockDesc>Kapıyı kitle ya da aç.Kapalı kapılar bir daha açılmayacak.</CommandToggleDoorLockDesc>
+
+
+</LanguageData>

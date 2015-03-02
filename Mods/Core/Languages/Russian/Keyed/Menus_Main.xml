@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--=========== Главное меню ==========-->
+  <CreateWorld>Создать мир</CreateWorld>
+  <NewColony>Новая колония</NewColony>
+  <BackToGame>Назад в игру</BackToGame>
+  <Save>Сохранить</Save>
+  <Load>Загрузить</Load>
+  <Options>Настройки</Options>
+  <Mods>Моды</Mods>
+  <Credits>Создатели</Credits>
+  <QuitToMainMenu>Выйти в главное меню</QuitToMainMenu>
+  <QuitToOS>Выйти в систему</QuitToOS>
+  <FictionPrimer>О сюжете</FictionPrimer>
+  <LudeonBlog>Блог Ludeon</LudeonBlog>
+  <Forums>Форумы</Forums>
+  <OfficialWiki>Официальная вики</OfficialWiki>
+  <TynansTwitter>Твиттер Тайнена</TynansTwitter>
+  <TynansDesignBook>Книга Тайнена</TynansDesignBook>
+  <HelpTranslate>Помощь в переводе RimWorld</HelpTranslate>
+
+  <!--=========== Создать/просмотреть мир ================-->
+  <ReviewWorld>Просмотр мира</ReviewWorld>
+  <WorldGenerate>Создать</WorldGenerate>
+  <WorldSaveAndFinish>Сохранить и закрыть</WorldSaveAndFinish>
+  <Reset>Сбросить</Reset>
+  <WorldSize>Размер</WorldSize>
+  <WorldSeed>Базовое зерно</WorldSeed>
+  <RandomizeSeed>Случайное зерно</RandomizeSeed>
+
+
+  <!--=========== Select world ===================-->
+  <SelectWorld>Выбор мира</SelectWorld>
+  <WorldChooseButton>Выбрать</WorldChooseButton>
+  <NoWorldsFilesFound>Нет ни одного созданного мира. Сперва создайте мир.</NoWorldsFilesFound>
+
+  <!--=========== Version info ==========-->
+  <BuildNowAvailable>Доступна новая версия {0}. Зайдите на ludeon.com для получения информации.</BuildNowAvailable>
+  <BuildUpToDate>У вас последняя версия.</BuildUpToDate>
+  <ErrorGettingVersionInfo>Ошибка получения данных о версии: {0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>Загрузка данных о версии...</LoadingVersionInfo>
+
+  <!--=========== World generator =========-->
+  <GenerateWorld>Создать мир</GenerateWorld>
+
+  <!--=========== Mods screen ==========-->
+  <GetMods>Скачать моды</GetMods>
+  <OpenModsDataFolder>Открыть папку модов</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Вы уверены, что хотите отключить ядро игры? Игра полностью перестанет работать, если у вас нет другого мода, который заменит все основные возможности.\n\nПомните, другие модификации могут переопределять значения ядра с помощью таких же значений.</ConfirmDisableCoreMod>
+  <Author>Автор</Author>
+
+
+  <!--=========== Выбрать разказчик ==========-->
+    <ChooseAIStoryteller>Выбор ИИ рассказчика</ChooseAIStoryteller>
+  <HowStorytellersWork>ИИ Рассказчик создаёт события, такие как пиратские рейды, падения ресурсов или нападения животных. Его выбор будет влиять на историю вашей колонии.</HowStorytellersWork>
+  <MustChooseChallengeScale>Пожалуйста, выберите сложность.</MustChooseChallengeScale>
+  <ChallengeScale>Сложность</ChallengeScale>
+  <ChallengeScaleTip>Уровень угроз, создаваемых ИИ, будет составлять {0} от сложности "Вызов".</ChallengeScaleTip>
+  <ChallengeScale_BuilderMode>Режим строителя</ChallengeScale_BuilderMode>
+  <ChallengeScale_Casual>Обычный</ChallengeScale_Casual>
+  <ChallengeScale_Rough>Сложный</ChallengeScale_Rough>
+  <ChallengeScale_Challenge>Вызов</ChallengeScale_Challenge>
+  <ChallengeScale_SeriousChallegne>Серьёзный вызов </ChallengeScale_SeriousChallegne>
+  <ChallengeScale_ExtremeChallenge>Экстремальное испытание</ChallengeScale_ExtremeChallenge>
+
+
+  <!--=========== Landing site select =========-->
+  <SelectLandingSite>Выбор места посадки</SelectLandingSite>
+  <SelectSite>Выбрать место</SelectSite>
+  <MustSelectLandingSite>Пожалуйста, выберите место посадки.</MustSelectLandingSite>
+  <CannotLandBiome>Вы не можете приземлиться в этом регионе: {0}</CannotLandBiome>
+  <WorldRenderMode>Режим</WorldRenderMode>
+  <WorldRenderModeFull>Полный</WorldRenderModeFull>
+  <WorldRenderModeTemperature>Температура</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>Высота</WorldRenderModeElevation>
+  <WorldRenderModeFertility>Плодородность</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>Осадки</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>Регионы</WorldRenderModeBiomes>
+  <BiomeNotImplemented>Регион не реализован</BiomeNotImplemented>
+  <BaseAlreadyThere>{0} уже разместили там базу.</BaseAlreadyThere>
+  <Biome>Регион</Biome>
+  <Terrain>Поверхность</Terrain>
+  <Elevation>Высота</Elevation>
+  <Fertility>Плодородность</Fertility>
+  <AvgTemp>Ср. температура</AvgTemp>
+  <AvgJanTemp>Ср. темп. (Янв): {0}</AvgJanTemp>
+  <AvgJulTemp>Ср. темп. (Июл): {0}</AvgJulTemp>
+  <Rainfall>Осадки</Rainfall>
+  <HasCoast0>Побережье с севера</HasCoast0>
+  <HasCoast1>Побережье с востока</HasCoast1>
+  <HasCoast2>Побережье с юга</HasCoast2>
+  <HasCoast3>Побережье с запада</HasCoast3>
+  <FactionBase>База фракции</FactionBase>
+  <StoneTypesHere>Типы пород</StoneTypesHere>
+
+
+  <!--=========== Character chooser ==========-->
+  <CreateCharacters>Создание персонажей</CreateCharacters>
+  <FirstNameDesc>Имя персонажа.\n\nОтображается только в некоторых меню.</FirstNameDesc>
+  <ShortIdentifierDesc>Короткий идентификатор персонажа.\n\nОтображается везде. Может быть именем, фамилией или прозвищем.</ShortIdentifierDesc>
+  <LastNameDesc>Фамилия персонажа.\n\nОтображается только в некоторых меню.</LastNameDesc>
+  <Randomize>Случайно</Randomize>
+  <AgeIndicator>возраст {0}</AgeIndicator>
+  <Backstory>Предыстория</Backstory>
+  <IncapableOf>Некомпетентность</IncapableOf>
+  <Traits>Черты</Traits>
+  <TraitsDoNothing>Просто часть забавной истории, большинство из них ни на что не влияют. Это изменится в будущих версиях.</TraitsDoNothing>
+  <PermanentMoodEffect>Постоянный эффект настроения</PermanentMoodEffect>
+  <Skills>Навыки</Skills>
+  <NoneLower>отсутствует</NoneLower>
+  <Adulthood>Зрелость</Adulthood>
+  <Childhood>Детство</Childhood>
+  <Male>Он</Male>
+  <Female>Она</Female>
+  <Pain>Боль</Pain>
+
+
+  <!--=========== Misc ==========-->
+  <Start>Начать</Start>
+  <Advanced>Дополнительно</Advanced>
+  <Next>Дальше</Next>
+  <Back>Назад</Back>
+
+   <Gameplay>Игра</Gameplay>
+
+  <ConfirmQuit>Действительно выйти? Вы потеряете весь несохранённый прогресс.</ConfirmQuit>
+
+  <EveryoneNeedsValidName>Каждому человеку нужно корректное имя.</EveryoneNeedsValidName>
+
+  <GeneratingWorld>Создание мира...</GeneratingWorld>
+  <GeneratingMap>Создание карты...</GeneratingMap>
+
+</LanguageData>

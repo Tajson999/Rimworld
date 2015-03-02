@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Names -->
+  <Credit_Ludomancer>Yapımcı</Credit_Ludomancer>
+  <Credit_MusicAndSound>Müzik ve Ses</Credit_MusicAndSound>
+  <Credit_AdditionalProgramming>Programlama</Credit_AdditionalProgramming>
+  <Credit_GameArt>Oyun Tasarım</Credit_GameArt>
+  <Credit_MenuArt>Menü Tasarım</Credit_MenuArt>
+
+  <Credits_TitleTesting>Test Ekibi</Credits_TitleTesting>
+  <Credit_Tester>Tester</Credit_Tester>
+
+  <Credits_TitleLanguage>{0} dil</Credits_TitleLanguage>
+  <Credit_Writer>Yazar</Credit_Writer>
+  <Credit_Translator>Çevirmen</Credit_Translator>
+  <Credit_OpenSourceLibraries>Açık kaynak kütüphaneler</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Gürültü oluşturma</Credit_NoiseGeneration>
+
+    
+</LanguageData>

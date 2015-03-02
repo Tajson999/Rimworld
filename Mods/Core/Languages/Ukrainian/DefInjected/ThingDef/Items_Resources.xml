@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--=============== Pure stuffs: Basics ====================-->
+
+	<Silver.label>срібло</Silver.label>
+	<Silver.description>Власне не дуже корисний метал, в основному використовується в якості грошей.</Silver.description>
+	<Silver.stuffProps.stuffAdjective>срібла</Silver.stuffProps.stuffAdjective>
+
+	<Gold.label>золото</Gold.label>
+	<Gold.description>Найбільш привабливий з усіх металів. Мільйони загинули намагаючись вгамувати нескінчену жагу золота. Цей м'який метал, власне, не дуже корисний, але надзвичайно красивий і дуже рідкісний.</Gold.description>
+  	<Gold.stuffProps.stuffAdjective>золота</Gold.stuffProps.stuffAdjective>
+
+	<Steel.label>Метал</Steel.label>
+	<Steel.description>Використовується в будівництві конструкцій.</Steel.description>
+	<Steel.stuffProps.stuffAdjective>металу</Steel.stuffProps.stuffAdjective>
+
+
+	<Plasteel.label>плазметал</Plasteel.label>
+	<Plasteel.description>Передовий матеріал для космічних технологій. Плазметал має найвищу міцність завдяки своїй унікальній молекулярній структурі.</Plasteel.description>
+<!-- 	<Plasteel.stuffProps.stuffAdjective>плазметалу</Plasteel.stuffProps.stuffAdjective>	
+
+	<StoneBlocks.label>Цегла</StoneBlocks.label>
+	<StoneBlocks.description>Використовується в будівництві конструкцій.</StoneBlocks.description>
+	<StoneBlocks.stuffProps.stuffAdjective>цегли</StoneBlocks.stuffProps.stuffAdjective>
+-->
+	<WoodLog.label>Дерев'яні колоди</WoodLog.label>
+	<WoodLog.description>Використовується в будівництві. Можуть бути розпилені на дошки.</WoodLog.description>
+	<WoodLog.stuffProps.stuffAdjective>дерева</WoodLog.stuffProps.stuffAdjective>
+
+	<Uranium.label>уран</Uranium.label>
+	<Uranium.description>Живить реактори.</Uranium.description>
+  	<Uranium.stuffProps.stuffAdjective>урану</Uranium.stuffProps.stuffAdjective>
+
+	<!--<WoodPlank.label>Дошки</WoodPlank.label>
+	<WoodPlank.description>Використовується в будівництві конструкцій.</WoodPlank.description>-->
+
+  <!--=============== Pure stuffs: Fabric, leather, etc  ====================-->
+
+	<Cloth.label>тканина</Cloth.label>
+	<Cloth.description>Полотно, виткане з органічних волокон.</Cloth.description>
+<!--  	<Cloth.stuffProps.stuffAdjective>тканини</Cloth.stuffProps.stuffAdjective>
+-->
+	<Synthread.label>синтетика</Synthread.label>
+	<Synthread.description>Синтетичена тканина, що була розроблена для виробництва одягу космонавтів. Легка, м'яка, міцна й добре ізолює.</Synthread.description>
+<!--  	<Synthread.stuffProps.stuffAdjective>синтетики</Synthread.stuffProps.stuffAdjective>
+-->
+	<DevilstrandCloth.label>дияволокніт</DevilstrandCloth.label>
+	<DevilstrandCloth.description>Надзвичайно міцна тканина, зроблена з волокон грибів-диявликів.</DevilstrandCloth.description>
+<!--  	<DevilstrandCloth.stuffProps.stuffAdjective>дияволокніту</DevilstrandCloth.stuffProps.stuffAdjective>
+-->
+	<Hyperweave.label>гіпертканина</Hyperweave.label>
+	<Hyperweave.description>Композитні нановолокна, вплетені в звичайну тканину. Трохи важка, але надзвичайно міцна.</Hyperweave.description>
+<!--  	<Hyperweave.stuffProps.stuffAdjective>гіпертканина</Hyperweave.stuffProps.stuffAdjective>	
+-->
+	<!--=============== Raw foods ====================-->
+
+	<RawPotatoes.label>Картопля</RawPotatoes.label>
+	<RawPotatoes.description>Сира картопля.</RawPotatoes.description>
+
+	<RawBerries.label>Ягоди</RawBerries.label>
+	<RawBerries.description>Ассорті з ягід. Гарне навіть для того, щоб їсти в сирому вигляді.</RawBerries.description>
+
+	<RawAgave.label>Агава</RawAgave.label>
+	<RawAgave.description>Сирі листя та стебло агави.</RawAgave.description>
+
+	<!--=============== Special ====================-->
+
+	<HerbalMedicine.label>Гомеопатичні ліки</HerbalMedicine.label>
+    <HerbalMedicine.description>Трав'яний збір, наприклад - збір-екстракт зерігії. Звісно, це не антибіотики, але все ж досить ефективно.</HerbalMedicine.description>
+
+	<Medicine.label>Ліки</Medicine.label>
+	<Medicine.description>Лікарі використовують цей ресурс, щоб лікувати поранених.</Medicine.description>
+
+	<GlitterworldMedicine.label>Ліки з Блискосвіту</GlitterworldMedicine.label>
+    <GlitterworldMedicine.description>Передові лікарскі препарати з технологічно розвиненого Блискосвіту.</GlitterworldMedicine.description>
+
+	<!--=============== Unused resources ====================-->
+
+	<Shells.label>Снаряди</Shells.label>
+	<Shells.description>Для стрільби з гармат.</Shells.description>
+
+	<!--
+	<Missiles.label>Ракети</Missiles.label>
+	<Missiles.description>Запускаються з ракетних установок.</Missiles.description>
+-->
+
+</LanguageData>

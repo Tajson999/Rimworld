@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+	
+	<WorkSpeedGlobal.label>전역 작업 속도</WorkSpeedGlobal.label>
+	<WorkSpeedGlobal.description>대상의 모든 작업 속도에 대한 계수입니다.</WorkSpeedGlobal.description>
+
+	<MiningSpeed.label>채굴 속도</MiningSpeed.label>
+	<MiningSpeed.description>대상의 채굴 속도에 대한 계수입니다.</MiningSpeed.description>
+
+	<SmoothingSpeed.label>바닥 닦는 속도</SmoothingSpeed.label>
+	<SmoothingSpeed.description>대상이 거친 돌바닥을 얼마나 빠르게 부드럽게 하는지에 대한 계수입니다.</SmoothingSpeed.description>
+	
+	<ResearchSpeed.label>연구 속도</ResearchSpeed.label>
+	<ResearchSpeed.description>대상의 연구 속도에 대한 계수입니다.</ResearchSpeed.description>
+	
+	<ConstructionSpeed.label>건설 속도</ConstructionSpeed.label>
+	<ConstructionSpeed.description>대상이 얼마나 빠르게 짓고 수리하는지에 대한 계수입니다.</ConstructionSpeed.description>
+	
+	<PlantWorkSpeed.label>재배 속도</PlantWorkSpeed.label>
+	<PlantWorkSpeed.description>대상의 재배 속도에 대한 계수입니다.</PlantWorkSpeed.description>
+
+	
+</LanguageData>

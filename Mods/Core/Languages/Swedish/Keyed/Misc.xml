@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <GameStartDialog>Ni tre vaknar från er cryptosömn av ljudet från sirener och gnisslande metal. Ni hinner precis till nödkapslarna innan ert skepp slits isär. \n\nEn tid senare landar ni på denna, för er okända värld.\n\nMedan delarna från ert sönderslitna skepp faller runt er, börjar ni att planera för att överleva.</GameStartDialog>
+
+  <Colony>Koloni</Colony>
+  
+  <ChangeLanguageFromMainMenu>Du kan bara ändra språket från inställningarna från startmenyn.</ChangeLanguageFromMainMenu>
+
+  <AndLower>och</AndLower>
+  <DisabledLower>avstängd</DisabledLower>
+
+  <CloseButton>Stäng</CloseButton>
+
+
+  <VersionIndicator>Version {0}</VersionIndicator>
+  <DevelopmentBuildLower>utvecklings version</DevelopmentBuildLower>
+  <CompiledOn>Kompillerad {0}</CompiledOn>
+
+	<MeatLabel>{0} kött</MeatLabel>
+  <MeatDesc>Rått kött av en {0}.</MeatDesc>
+
+	<CorpseLabel>{0} kadaver</CorpseLabel>
+	<CorpseDesc>{0}'s döda kropp.</CorpseDesc>
+
+
+	<BlueprintLabelExtra> (ritning)</BlueprintLabelExtra>
+  <FrameLabelExtra> (byggnad)</FrameLabelExtra>
+  
+  
+  <!-- History events -->
+  <ColonistDied>Kolonist dog</ColonistDied>
+  
+  
+  
+</LanguageData>

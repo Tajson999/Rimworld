@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CommandForbiddenDesc>Förbjudet - kolonister kommer inte att interagera med detta.</CommandForbiddenDesc>
+	<CommandNotForbiddenDesc>Inte förbjudet - kolonister kommer att interagera med detta.</CommandNotForbiddenDesc>
+
+  <CommandTogglePowerDesc>Växla ström.</CommandTogglePowerDesc>
+  <CommandTogglePowerLabel>Växla ström</CommandTogglePowerLabel>
+
+  <CommandGatherSpotToggleLabel>Samlingsplats</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Aktivt - kolonister kommer att samlas runt detta objekt.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Inaktivt - kolonister kommer inte att samlas runt detta objekt.</CommandGatherSpotToggleDescInactive>
+  
+  
+  
+  <CommandDraftLabel>Inkalla</CommandDraftLabel>
+  <CommandUndraftLabel>Ta bort inkallning</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Växla militär inkallning.\n\nInkallade personer tar direkta order och slåss. De kommer inte arbera, äta eller vila.</CommandToggleDraftDesc>
+  <IsIncapped>{0} är handikappad.</IsIncapped>
+
+  
+  <CommandCancelConstructionLabel>Avbryt</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Avbryt denna konstruktion.</CommandCancelConstructionDesc>
+
+  
+  <CommandBedSetForPrisonersLabel>Sätt för fångar</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>Tilldela sängar i detta rum för användning av fångar.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>Kan inte sätta utomhussängar att användas av fångar.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetForColonistsLabel>Sätt för kolonister</CommandBedSetForColonistsLabel>
+  <CommandBedSetForColonistsDesc>Tilldela sängar i detta för användning av kolonister.</CommandBedSetForColonistsDesc>
+  <TurningOnPrisonerBedWarning>Påsättning av fångeläge påverkar hela rummet (eftersom fångar och kolonister inte kan sova i samma rum).\n\nDessa personer kommer att förlora äganderätt till sina sängar:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Avstängning av fångeläge påverkar hela rummet (eftersom fångar och kolonister inte kan sova i samma rum).\n\nDessa personer kommer att förlora äganderätt till sina sängar:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Är du säker på att du vill göra detta?</AreYouSure>
+
+  
+  
+  <CommandDetonateDesc>Starta nedräkningen för detonation.</CommandDetonateDesc>
+  <CommandDetonateLabel>Detonera</CommandDetonateLabel>
+
+  <CommandRenameZoneDesc>Byt namn på denna zon.</CommandRenameZoneDesc>
+  <CommandRenameZoneLabel>Byt namn</CommandRenameZoneLabel>
+
+  <CommandHideZoneDesc>Göm/visa denna zon.</CommandHideZoneDesc>
+  <CommandHideZoneLabel>Göm</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Visa</CommandUnhideZoneLabel>
+
+  <CommandDeleteZoneDesc>Ta bort denna zon.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneLabel>Ta bort</CommandDeleteZoneLabel>
+  
+  
+  <!-- Artillery -->
+  <CommandSetForceAttackTarget>Sätt tvingat mål</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>Sätter ett mål som detta torn måste attackera kontinuerligt så länge det kan.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>Stäng av tvingat mål</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Stänger av tvingat mål och låter tornet skjuta där det vill.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Har inget tvingat mål.</CommandStopAttackFailNotForceAttacking>
+  <MessageTargetBeyondMaximumRange>Mål utanför räckvidd.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Mål för nära.</MessageTargetBelowMinimumRange>
+  
+  
+  <!-- Ship computer core -->
+  <CommandShipLaunch>Starta skepp</CommandShipLaunch>
+  <CommandShipLaunchDesc>Startar skeppets startsekvens med den aktuella konfigurationen.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Visa startrapport</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>Visar en rapport som beskriver skeppets startkapabilitet.</CommandShipLaunchReportDesc>
+
+
+  <!-- Pod -->
+  <CommandPodEject>Skjut ut sovkapsel</CommandPodEject>
+  <CommandPodEjectDesc>Väck crypto-sovaren och skjut ut dem.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>Innehåller ingen.</CommandPodEjectFailEmpty>
+
+</LanguageData>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+    <!--============================== Beds ==============================-->
+	
+	<SleepingSpot.label>Saco de dormir</SleepingSpot.label>
+	<SleepingSpot.description>Designa um ponto no chão, onde os colonos dormirão. Nada confortável. Eficácia de descanso: 8/10</SleepingSpot.description>
+
+	<Bed.label>Cama</Bed.label>
+    <Bed.description>Um colchão confortável com lençóis numa armação para descansar. Eficácia de descanso: 10/10</Bed.description>
+ 
+    <RoyalBed.label>cama luxuosa</RoyalBed.label>
+    <RoyalBed.description>Uma cama luxuosa feita para a realeza.</RoyalBed.description>
+    
+    <HospitalBed.label>cama hospitalar</HospitalBed.label>
+    <HospitalBed.description>Uma cama feita especialmente para pessoas feridas. Melhora a chance de conseguir tratamento médico.</HospitalBed.description>
+    
+    <!--======================= Basic domestic furniture ==============================-->
+	
+	<Stool.label>banco</Stool.label>
+	<Stool.description>Pessoas sentam aqui.</Stool.description>
+
+	<TableShort.label>Mesa (curta)</TableShort.label>
+	<TableShort.description>As pessoas comem sobre as mesas quando as cadeiras são colocadas de frente para elas.</TableShort.description>
+
+	<TableLong.label>Mesa (longa)</TableLong.label>
+	<TableLong.description>As pessoas comem sobre as mesas quando as cadeiras são colocadas de frente para elas.</TableLong.description>
+
+	<!-- ======================== Lighting ======================= -->
+
+	<StandingLamp.label>Candeeiro vertical</StandingLamp.label>
+	<StandingLamp.description>Um candeeiro com suporte para iluminar uma área.</StandingLamp.description>
+	
+	<StandingLamp_Red.label>Candeeiro vertical (vermelho)</StandingLamp_Red.label>
+    <StandingLamp_Red.description>Um candeeiro com suporte para iluminar a vermelho uma área.</StandingLamp_Red.description>
+    
+    <StandingLamp_Green.label>Candeeiro vertical (verde)</StandingLamp_Green.label>
+    <StandingLamp_Green.description>Um candeeiro com suporte para iluminar a verde uma área.</StandingLamp_Green.description>
+    
+    <StandingLamp_Blue.label>Candeeiro vertical (azul)</StandingLamp_Blue.label>
+    <StandingLamp_Blue.description>Um candeeiro com suporte para iluminar a azul uma área.</StandingLamp_Blue.description>
+	
+	<!--============================== Storage ==============================-->
+
+	<EquipmentRack.label>Prateleira</EquipmentRack.label>
+	<EquipmentRack.description>Colonos transportam os equipamentos aqui para armazenamento.</EquipmentRack.description>
+
+</LanguageData>

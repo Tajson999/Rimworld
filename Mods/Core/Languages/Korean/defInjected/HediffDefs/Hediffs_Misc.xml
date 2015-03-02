@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+	
+	<!-- Diseases -->
+	<Anesthetic.label>마취</Anesthetic.label>
+	
+	<Concussion.label>뇌진탕</Concussion.label>
+
+	<CryptosleepSickness.label>동면병</CryptosleepSickness.label>
+
+	<FoodPoisoning.label>식중독</FoodPoisoning.label>
+	
+</LanguageData>

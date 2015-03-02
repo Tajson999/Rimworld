@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha566 -->
+<LanguageData>
+
+  <ClockTime>Heure</ClockTime>
+  <ClockDate>Date</ClockDate>
+  <ClockYear>Année</ClockYear>
+  <DateReadoutTip>Jours passés depuis votre arrivée : {0}\nIl y a {1} jours par mois.</DateReadoutTip>
+
+
+
+  <FullDate>{0} {1}, année {2}</FullDate>
+  <MonthFullDate>{0} {1}</MonthFullDate>
+  
+  <MonthFullJanuary>Janvier</MonthFullJanuary>
+  <MonthFullFebruary>Février</MonthFullFebruary>
+  <MonthFullMarch>Mars</MonthFullMarch>
+  <MonthFullApril>Avril</MonthFullApril>
+  <MonthFullMay>Mai</MonthFullMay>
+  <MonthFullJune>Juin</MonthFullJune>
+  <MonthFullJuly>Juillet</MonthFullJuly>
+  <MonthFullAugust>Aout</MonthFullAugust>
+  <MonthFullSeptember>Septembre</MonthFullSeptember>
+  <MonthFullOctober>Octobre</MonthFullOctober>
+  <MonthFullNovember>Novembre</MonthFullNovember>
+  <MonthFullDecember>Décembre</MonthFullDecember>
+  
+  <MonthShortJanuary>Jan</MonthShortJanuary>
+  <MonthShortFebruary>Fev</MonthShortFebruary>
+  <MonthShortMarch>Mar</MonthShortMarch>
+  <MonthShortApril>Avr</MonthShortApril>
+  <MonthShortMay>Mai</MonthShortMay>
+  <MonthShortJune>Jui</MonthShortJune>
+  <MonthShortJuly>Juil</MonthShortJuly>
+  <MonthShortAugust>Aou</MonthShortAugust>
+  <MonthShortSeptember>Sept</MonthShortSeptember>
+  <MonthShortOctober>Oct</MonthShortOctober>
+  <MonthShortNovember>Nov</MonthShortNovember>
+  <MonthShortDecember>Déc</MonthShortDecember>
+    
+    
+</LanguageData>

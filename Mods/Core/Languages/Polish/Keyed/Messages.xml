@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  
+   <MessageSiegersAssaulting>{0} z {1} oblegają kolonie.</MessageSiegersAssaulting>
+ 
+  <MessageRaidersBeginningAssault>{0} z {1} rozpoczynają atak.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} z {1} zauważyli kolonię i rozpoczęli atak wcześniej.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} z {1} postanowili porwać kogo się da i odejść.</MessageRaidersKidnapping>
+
+	<MessageRaidersLeaving>{0} z {1} opuszczają kolonię.</MessageRaidersLeaving>
+    <MessageRaidersGivenUpLeaving>{0} z {1} poddali się i opuszczają kolonię.</MessageRaidersGivenUpLeaving>
+    <MessageRaidersSatisfiedLeaving>{0} z {1} są zadowoleni ze spowodowanych zniszczeń i odchodzą.</MessageRaidersSatisfiedLeaving>
+
+	
+  <MessageFightersFleeing>{0} z {1} uciekają.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>Przyjaźni {0} z {1} opuszczają kolonię.</MessageFriendlyFightersLeaving>
+
+  
+
+  <MessageShipHasLeftCommsRange>{0} opuścił zasięg komunikatora.</MessageShipHasLeftCommsRange>
+
+  <MessageNeedBeaconToTradeWithShip>Potrzebujesz nadajnika handlu orbitalnego aby wymieniać dobra ze statkiem.</MessageNeedBeaconToTradeWithShip>
+	
+  <MessageBillComplete>Zlecenie gotowe: {0}.</MessageBillComplete>
+  
+  <MessageFullyHealed>{0} jest w pełni wyleczony.</MessageFullyHealed>
+
+<MessagePrisonerIsEscaping>Więzień {0} ucieka.</MessagePrisonerIsEscaping>
+
+  <MessageRecruitSuccess>{0} zrekrutował {1} ({2} szansy).</MessageRecruitSuccess>
+  <MessageRecruitFail>{0} nie dał rady zrekrutować {1} ({2} szansy).</MessageRecruitFail>
+<MessageRecruitFailBecauseLoyalty>{0} nie dał rady zrekrutować {1} (zbyt niska lojalność więźnia).</MessageRecruitFailBecauseLoyalty>
+	
+  <MessagePoorlyTreated>{0} otrzymał pomoc lekarską słabej jakości od {1} ({2} szansy).</MessagePoorlyTreated>
+  <MessageWellTreated>{0} otrzymał pomoc lekarską dobrej jakości od {1} ({2} szansy).</MessageWellTreated>
+  
+  <MessageTraderCannotAfford>Handlarza nie stać na tą transakcję.</MessageTraderCannotAfford>
+  <MessageColonyCannotAfford>Kolonii nie stać na tą transakcję.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>Nie masz wystarczającej ilości srebra przygotowanego do handlu.</MessageColonyNotEnoughSilver>
+  <MessageTraderNotEnoughSilver>Handlarz nie ma wystarczająco srebra.</MessageTraderNotEnoughSilver>
+
+  <MessageCriticalAlert>Alarm krytyczny: {0}</MessageCriticalAlert>
+
+  <MessageMustDesignateHarvestableFood>Należy wskazać do zbierania dojrzałe, rodzące owoce rośliny.</MessageMustDesignateHarvestableFood>
+  <MessageMustDesignateHarvestableWood>Należy wskazać do wycinania wyrośnięte drzewa.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>Należy wskazać rośliny.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Należy wskazać przedmioty do przetransportowania.</MessageMustDesignateHaulable>
+  
+  <MessageNoMedicalBeds>Nie ma dostępnych łóżek medycznych.</MessageNoMedicalBeds>
+  
+  <PawnDiedBecauseOf>{0} nie żyje z powodu {1}.</PawnDiedBecauseOf>
+
+  <MessageNoLongerDowned>{0} może już chodzić.</MessageNoLongerDowned>
+  
+  </LanguageData>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AnimalInsanitySingle>Yerel bir {0} çılgına döndü. Gördüğü herkese saldıracak.</AnimalInsanitySingle>
+  <AnimalInsanityMultiple>Bir çeşit psişik dalga bölgenin üzerinden geçti. Kolonicilerin durumu iyi, ama..\n\nbölgedeki bir çok {0} çıldırmış gibi gözüküyor.</AnimalInsanityMultiple>
+
+  <CropBlight>Esrarengiz bir mantar ekinlerini mahvetti. </CropBlight>
+
+  <EclipseIncident>Bu gezegenin Aylarından biri Güneşin önüne geçti. Bir Güneş tutulması başladı.</EclipseIncident>
+
+  <MiracleHeal>{0}, mucizevi bir şekilde iyileşti!</MiracleHeal>
+
+  
+  <!-- Enemy raids -->
+  <EnemyRaidWalkIn>{1}'den gelen bir grup {0}, gezegene ulaştı.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>{1}'den gelen bir grup {0}, fırlatma kapsülleri içinde gezegene indi.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>{1}'den gelen bir grup {0}, koloninin tam üstüne indi!</EnemyRaidCenterDrop>
+  <EnemyRaidStageThenAttack>Bir süre hazırlanıp, sonra saldıracaklar.\n\nSavunmanı hazırla ya da hemen saldır.</EnemyRaidStageThenAttack>
+  <EnemyRaidImmediateAttack>Hemen saldırıyorlar.</EnemyRaidImmediateAttack>
+  <EnemyRaidBesiege>Görünüşe göre koloniyi kuşatmak istiyorlar.</EnemyRaidBesiege>
+
+
+  <!-- Friendly raids -->
+  <FriendlyRaidWalkIn>{1}'den gelen bir grup dost {0}, gezegene ulaştı.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>{1}'den gelen bir grup dost {0}, yörüngeden gezegene iniş yaptı.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>{1}'den gelen bir grup dost {0}, koloninin tam üstüne indi!</FriendlyRaidCenterDrop>
+  <FriendlyRaidStageThenAttack>Yardım etmeden önce bir süre hazırlanacaklar.</FriendlyRaidStageThenAttack>
+  <FriendlyRaidImmediateAttack>Yardım etmek için aceleyle geliyorlar.</FriendlyRaidImmediateAttack>
+  <FriendlyRaidBesiege>Görünüşe göre sana yardım etmek için kuşatma taktiklerini kullanacaklar.</FriendlyRaidBesiege>
+
+  <RefugeePodCrash>Yakınlarda parçalanmış bir kaçış kapsülü tespit ettin. \n\nÇarpışmadan kurtulan olduysa, ağır yaralı olacak.</RefugeePodCrash>
+
+  <CargoPodCrash>Yakınlarda bir grup parçalanmış kargo kapsülü tespit ettin. \n\nEnkazda işine yarayacak bir şeyler bulabilirsin.</CargoPodCrash>
+
+  <AnElectricalConduit>bir elektrik borusu</AnElectricalConduit>
+  <AWallsPowerConduit>bir duvarın güç borusu</AWallsPowerConduit>
+  <ShortCircuit>{0}.\n\nBağlı akülerdeki bütün {1} Watt-gün enerji elektriksel bir patlamada deşarj oldu.</ShortCircuit>
+  <ShortCircuitWasLarge>Bu büyüklükte bir güç hayli fazla büyüklükte bir patlamaya yol açtı.</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge>Bu gerçekten büyük bir patlama. Wow.</ShortCircuitWasHuge>
+
+  <LetterSolarFlare>Bir güneş patlaması başladı. \n\nYoğun radyasyon bütün elektrikli aletleri devre dışı bırakacak. \n\nGüneş patlaması bir gün sürecek.</LetterSolarFlare>
+
+  <TraderArrival>Yakınlardan bir takas gemisi geçiyor. \n\n{0} olarak biliniyorlar. Onlar bir {1}.</TraderArrival>
+
+  <SingleTravelerPassing>{1}'den gelen bir {0} yakınlardan geçiyor. HECAP {2} olarak adlandırıldı.</SingleTravelerPassing>
+  <GroupTravelersPassing>{0}'dan gelen bir grup yakınlardan geçiyor.</GroupTravelersPassing>
+
+  <SingleVisitorArrives>{1}'den gelen bir {0} kolonini ziyaret ediyor. \n\nHECAP {2} olarak adlandırıldı.</SingleVisitorArrives>
+  <GroupVisitorsArrive>{0}'dan gelen bir grup kolonini ziyaret ediyor.</GroupVisitorsArrive>
+  <VisitorsLeaving>{0}'dan gelen ziyaretçiler kolonini terk ediyor.</VisitorsLeaving>
+
+  <WandererJoin>NAME isimli bir {0} geldi ve kolonine katılıyor. HECAP bir {1}.</WandererJoin>
+  
+  
+  <!-- Crashed ship part-->
+  <SpaceshipPartCrash>Kadim bir geminin büyük bir parçası yakınlarına düştü. \n\nKolonicilerin bunu hissedebiliyor. Bu kadim gemide psişik yansıtma yeteneği olan bir yapay zeka maskesi olmalı.Ve bu yapay zeka maskesi düşmanca davranıyor.\n\nMümkün olan en kısa zamanda yok et.</SpaceshipPartCrash>
+  <MessageAnimalInsanityPulse>Kadim yapı yakınındaki hayvanları çıldırtan bir psişik dalga yaydı.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>Parçalanmış gemi parçası kolonicin {0}'ı çıldırtan yoğun bir psişik dalga yaydı.</LetterShipPartDroveColonistInsane>
+  <AwokeDaysAgo>{0} gün önce uyandı.</AwokeDaysAgo>
+  <PsychicDroneLevel>Psişik drone seviyesi: {0}</PsychicDroneLevel>
+  <PsychicDroneLevelLow>Düşük</PsychicDroneLevelLow>
+  <PsychicDroneLevelMedium>Orta</PsychicDroneLevelMedium>
+  <PsychicDroneLevelHigh>Yüksek</PsychicDroneLevelHigh>
+  <PsychicDroneLevelExtreme>Çok yüksek</PsychicDroneLevelExtreme>
+  <LetterPsychicDroneLevelIncreased>Parçalanmış gemi parçası şimdi daha güçlü bir psişik drone ortaya çıkardı. Bölgedeki bütün insancıl varlıklar artık daha huzursuz,paranoyaklar ve korkuyorlar.</LetterPsychicDroneLevelIncreased>
+  
+  <!-- Agent revealed -->
+  <LetterAgentRevealed>{0}'ın düşmanın {1}'in bir casusu olduğu ortaya çıktı. \n\nKaçmaya çalışıyorlar.</LetterAgentRevealed>
+  
+  <!-- Distant psychic drone -->
+  <LetterIncidentPsychicDrone>{0} cinsiyetli bütün koloniciler acı içinde geri çekiliyor. \n\nKötücül bir motor harekete geçiyor. Bütün bölgenin üzerinde, sadece {0} cinsiyetinin etkilendiği frekansta çalışan güçlü bir psişik drone fırlatıyor. Bazı insanların ruh sağlığı bir kaç gün boyunca daha kötü olacak.</LetterIncidentPsychicDrone>
+  
+</LanguageData>

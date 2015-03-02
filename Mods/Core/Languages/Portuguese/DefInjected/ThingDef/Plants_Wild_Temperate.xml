@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!--===========================  Wild - clustering bushes (some harvestable) ==============================-->
+    
+    <PlantRaspberry.label>framboeseira</PlantRaspberry.label>
+    <PlantRaspberry.description>Planta arbustosa com deliciosas framboesas.</PlantRaspberry.description>
+    
+    <PlantBush.label>arbusto</PlantBush.label>
+    <PlantBush.description>Pequeno arbusto. Tipicamente não fala.</PlantBush.description>
+    
+    <!--======================= Wild plants - carpets ========================-->
+    
+    <PlantGrass.label>erva</PlantGrass.label>
+    <PlantGrass.description>Erva selvagem. Cresce em qualquer lado que tenha um pouco de luz e chão minimamente fértil.</PlantGrass.description>
+    
+    <PlantDandelion.label>dente-de-leão</PlantDandelion.label>
+    <PlantDandelion.description>Flor pequena comum. Embora seja muitas vezes considerada uma erva daninha devido à sua fecundidade, é uma planta agradável de se ver.</PlantDandelion.description>
+    
+    <!--============================ Wild - Trees ============================-->
+    
+    <PlantTreeOak.label>carvalho</PlantTreeOak.label>
+    <PlantTreeOak.description>Uma árvore de tronco forte. Cresce lentamente, mas a sua madeira é bastante forte.</PlantTreeOak.description>
+    
+    <PlantTreePoplar.label>árvore choupo</PlantTreePoplar.label>
+    <PlantTreePoplar.description>Uma árvore de tronco fraco. Cresce rápido mas a sua madeira não é muito forte.</PlantTreePoplar.description>
+    
+</LanguageData>

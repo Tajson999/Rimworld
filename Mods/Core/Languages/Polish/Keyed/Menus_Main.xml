@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--=========== Main menu ==========-->
+  <CreateWorld>Stwórz Świat</CreateWorld>
+  <NewColony>Nowa kolonia</NewColony>
+  <BackToGame>Wróć do gry</BackToGame>
+  <Save>Zapisz</Save>
+  <Load>Wczytaj</Load>
+  <Options>Opcje</Options>
+  <Mods>Modyfikacje</Mods>
+  <Credits>Autorzy</Credits>
+  <QuitToMainMenu>Wróć do menu</QuitToMainMenu>
+  <QuitToOS>Wyjście z gry</QuitToOS>
+  <FictionPrimer>Info o świecie</FictionPrimer>
+  <LudeonBlog>Blog Ludeon</LudeonBlog>
+  <Forums>Forum</Forums>
+  <OfficialWiki>Oficjalna wiki</OfficialWiki>
+  <TynansTwitter>Twitter Tynan'a</TynansTwitter>
+  <TynansDesignBook>Książka Tynan'a</TynansDesignBook>
+  <HelpTranslate>Pomóż tłumaczyć RimWorld</HelpTranslate>
+ 
+    <!--=========== Create/review world ================-->
+  <ReviewWorld>Mapa świata</ReviewWorld>
+  <WorldGenerate>Twórz</WorldGenerate>
+  <WorldSaveAndFinish>Zapisz i zakończ</WorldSaveAndFinish>
+  <Reset>Resetuj</Reset>
+  <WorldSize>Wielkość</WorldSize>
+  <WorldSeed>Ziarno</WorldSeed>
+  <RandomizeSeed>Losuj ziarno</RandomizeSeed>
+
+
+  <!--=========== Select world ===================-->
+  <SelectWorld>Wybierz świat</SelectWorld>
+  <WorldChooseButton>Wybierz</WorldChooseButton>
+  <NoWorldsFilesFound>Nie znaleziono plików świata. Najpierw stwórz świat.</NoWorldsFilesFound>
+  
+  <!--=========== Version info ==========--> 
+  <BuildNowAvailable>Wersja {0} jest dostępna. Powinieneś ją pobrać.</BuildNowAvailable>
+	<BuildUpToDate>Wersja jest aktualna.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Błąd pobierania wersji: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Ładowanie wersji...</LoadingVersionInfo>
+	
+  <!--=========== World generator =========-->
+  <GenerateWorld>Twórz świat</GenerateWorld>
+  
+  <!--=========== Mods screen ==========--> 
+  <GetMods>Pobierz modyfikacje</GetMods>
+  <OpenModsDataFolder>Otwórz folder z modami</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Czy jesteś pewien, że chcesz wyłączyć zawartość podstawową? Gra nie będzie działać prawidłowo, jeśli nie jest uruchomiona inna modyfikacja zawierająca wszystkie główne funkcje.\n\nPamiętaj, że inne modyfikacje mogą nadpisywać podstawową zawartość, zwyczajnie używając defName.</ConfirmDisableCoreMod>
+  <Author>Autor</Author>
+  
+  
+  <!--=========== Select storyteller ==========-->
+  <ChooseAIStoryteller>Wybierz swojego pisarza SI</ChooseAIStoryteller>
+  <HowStorytellersWork>Pisarz SI tworzy zdarzenia takie jak atak piratów, zrzut surowców czy atak zwierząt. Jego wybór ma wpływ na twoją kolonię.</HowStorytellersWork>
+  <MustChooseChallengeScale>Wybierz poziom wyzwania.</MustChooseChallengeScale>
+  <ChallengeScale>Poziom wyzwania</ChallengeScale>
+  <ChallengeScaleTip>Kiedy Pisarz SI będzie tworzył zagrożenia, będą stanowiły {0} zagrożenia z poziomu Wyzwanie.</ChallengeScaleTip>
+  <ChallengeScale_BuilderMode>Budowniczy</ChallengeScale_BuilderMode>
+  <ChallengeScale_Casual>Swobodnie</ChallengeScale_Casual>
+  <ChallengeScale_Rough>Dokuczliwy</ChallengeScale_Rough>
+  <ChallengeScale_Challenge>Wyzwanie</ChallengeScale_Challenge>
+  <ChallengeScale_SeriousChallegne>Trudny</ChallengeScale_SeriousChallegne>
+  <ChallengeScale_ExtremeChallenge>Próba sił</ChallengeScale_ExtremeChallenge>
+  
+
+
+
+
+
+
+
+
+
+
+  <!--=========== Landing site select =========-->
+  <SelectLandingSite>Wybierz miejsce zrzutu</SelectLandingSite>
+  <SelectSite>Dalej</SelectSite>
+  <MustSelectLandingSite>Proszę, wybierz miejsce zrzutu.</MustSelectLandingSite>
+  <CannotLandBiome>Nie możesz wylądować w tej strefie klimatycznej: {0}</CannotLandBiome>
+  <WorldRenderMode>Tryb</WorldRenderMode>
+  <WorldRenderModeFull>Pełny</WorldRenderModeFull>
+  <WorldRenderModeTemperature>Temperatura</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>Wysokość</WorldRenderModeElevation>
+  <WorldRenderModeFertility>Żyzność</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>Opad deszczu</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>Strefa</WorldRenderModeBiomes>
+  <BiomeNotImplemented>Klimat nie zaimplementowany</BiomeNotImplemented>
+  <BaseAlreadyThere>{0} już mają tam bazę.</BaseAlreadyThere>
+  <Biome>Klimat</Biome>
+  <Terrain>Teren</Terrain>
+  <Elevation>Wysokość</Elevation>
+  <Fertility>Żyzność</Fertility>
+  <AvgTemp>Średnia temp.</AvgTemp>
+  <Rainfall>Opad deszczu</Rainfall>
+  <HasCoast0>Północne wybrzeże</HasCoast0>
+  <HasCoast1>Wschodnie wybrzeże</HasCoast1>
+  <HasCoast2>Południowe wybrzeże</HasCoast2>
+  <HasCoast3>Zachodnie wybrzeże</HasCoast3>
+  <FactionBase>Osada</FactionBase>
+  
+   <!--=========== Character chooser ==========-->
+  <CreateCharacters>Stwórz postacie</CreateCharacters>
+  <FirstNameDesc>Pierwsze imię postaci.\n\nWyświetlane tylko w wybranych miejscach.</FirstNameDesc>
+  <ShortIdentifierDesc>Krótkie określenie postaci.\n\nJest ono pokazywane przez cały czas. Może być imieniem, nazwiskiem lub kompletnie odrębnym pseudonimem.</ShortIdentifierDesc>
+  <LastNameDesc>Nazwisko postaci.\n\nWyświetlane tylko w wybranych miejscach.</LastNameDesc>
+  <Randomize>Losuj</Randomize>
+  <AgeIndicator>wiek {0}</AgeIndicator>
+  <Backstory>Historia</Backstory>
+  <IncapableOf>Niezdolny do wykonywania</IncapableOf>
+  <Traits>Cechy</Traits>
+  <TraitsDoNothing>Cechy to tylko zabawne fakty z historii postaci. Większość z nich nic nie robi. Zmieni się to w przyszłych wersjach.</TraitsDoNothing>
+  <PermanentMoodEffect>Stały efekt nastroju</PermanentMoodEffect>
+  <Skills>Umiejętności</Skills>
+  <NoneLower>brak</NoneLower>
+  <Adulthood>Dorosłość</Adulthood>
+  <Childhood>Dzieciństwo</Childhood>
+  <Male>Mężczyzna</Male>
+  <Female>Kobieta</Female>
+  <Pain>Ból</Pain>
+ 
+
+ <!--=========== Misc ==========-->
+  <Start>Start</Start>
+  <Advanced>Zaawansowane</Advanced>
+  <Next>Dalej</Next>
+  <Back>Wstecz</Back>
+
+  <Gameplay>Rozgrywka</Gameplay>
+ 
+  <ConfirmQuit>Czy na pewno chcesz wyjść z gry? Stracisz niezapisany postęp.</ConfirmQuit>
+  
+  <EveryoneNeedsValidName>Każda postać musi posiadać poprawne imię.</EveryoneNeedsValidName>
+
+  <GeneratingWorld>Tworzenie świata...</GeneratingWorld>
+  <GeneratingMap>Tworzenie mapy...</GeneratingMap>
+  
+</LanguageData>

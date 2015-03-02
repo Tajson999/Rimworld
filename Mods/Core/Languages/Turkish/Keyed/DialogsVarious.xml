@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+
+  <Confirm>Onayla</Confirm>
+  <GoBack>Geri Dön</GoBack>
+  <OK>Tamam</OK>
+  
+  <!-- Save/load -->
+  <SaveGameButton>Kaydet</SaveGameButton>
+  <OverwriteButton>Üstüne Kaydet</OverwriteButton>
+  <LoadGameButton>Oyunu Yükle</LoadGameButton>
+  <ConfirmDelete> {0} dosyayı gerçekten silmek istiyor musun?</ConfirmDelete>
+  <DeleteThisSavegame>Bu kayıt dosyasını sil.</DeleteThisSavegame>
+  <SavedAs>{0} olarak kaydedildi .</SavedAs>
+  <NeedAName>Lütfen isim girin.</NeedAName>
+  <LoadingLongEvent>Yükleniyor...</LoadingLongEvent>
+  
+  
+  <!-- Colony naming-->
+  <NameColonyMessage>Herkes uzun süre bu kayanın üstünde kalmak istemediğinizi biliyor. Ama {0} koloninize isim vermenizi öneriyor.\n\nSizce nasıl adlandırılmalıdır?</NameColonyMessage>
+  <ColonyGainsName>Koloniniz {0} olarak biliniyor.</ColonyGainsName>
+  <ColonyNameIsInvalid>Koloni ismi geçerli değil.</ColonyNameIsInvalid>
+
+  <!-- Zone naming -->
+  <ZoneGainsName>Bu bölge artık {0} olarak adlandırılıyor.</ZoneGainsName>
+  <ZoneNameIsInvalid>Lütfen geçerli bir bölge ismi girin.</ZoneNameIsInvalid>
+  
+  <!-- Pawn naming -->
+  <PawnGainsName>Kolonicinin lakabı artık {0}.</PawnGainsName>
+
+  <!-- Save game incompatible warning -->
+  <SaveGameIncompatibleWarningText>Versiyon uyuşmazlığı: Harita {0} versiyonunda kaydedilmiş ama biz {1} versiyonunu kullanıyoruz.\n\n Bu kaydı yüklemek muhtemelen hatalara ve kapanmalara neden olacaktır.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningTitle>Kayıt dosyası uyumsuzluğu</SaveGameIncompatibleWarningTitle>
+  
+  <!-- Resolution change dialog -->
+  <ConfirmResolutionChange>Ekran ayarlarını değiştirdin.Yeni ayarlar iyi çalışıyor mu?\n\n{0} içinde ayarlarınız geri alınacak.</ConfirmResolutionChange>
+  <ResolutionKeep>Tut</ResolutionKeep>
+  <ResolutionRevert>Geri al</ResolutionRevert>
+
+  <!-- Overview -->
+  <OverviewOf>Overview of {0}</OverviewOf>
+
+  <!-- Research -->
+  <Research>Araştırma</Research>
+  <Researched>Araştırılmış</Researched>
+  <Unresearched>Araştırılmamış</Unresearched>
+  <Finished>Tamamlanmış</Finished>
+  <InProgress>Devam ediyor</InProgress>
+  <ResearchMenuWithoutBench>ARAŞTIRMA MASASI yapana kadar kolonicilerin araştırma yapamaz.\n\nYine de araştırma projelerine bakabilir ve seçebilirsin.</ResearchMenuWithoutBench>
+  
+  
+  <!-- Advanced game start options -->
+  <MapSizePerformanceWarning>UYARI: Bilgisayarınız oldukça güçlü olmadığı sürece büyük harita boyutlarında performansınız düşebilir.\n\nEğer güçsüz bir makineye sahipsen Küçük seç.\n\nLudeonicrous size is untested and will almost certainly not play well.</MapSizePerformanceWarning>
+  <MapSize>Harita Boyutu</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} kareler)</MapSizeDesc>
+  <MapSizeSmall>Küçük</MapSizeSmall>
+  <MapSizeMedium>Orta</MapSizeMedium>
+  <MapSizeLarge>Büyük</MapSizeLarge>
+  <MapSizeExtreme>Aşırı Büyük</MapSizeExtreme>
+
+
+
+  <!-- Bill config -->
+  <Suspended>Askıya alınmış</Suspended>
+  <NotSuspended>Askıya alınmamış</NotSuspended>
+  <SuspendedAllCaps>ASKIYA ALINMIŞ</SuspendedAllCaps>
+  <RepeatCount>{0} defa tekrar et.</RepeatCount>
+  <Forever>Sonsuz</Forever>
+  <IngredientSearchRadius>Malzeme arama yarıçağı</IngredientSearchRadius>
+  <TargetCount>{0} tane sahip olana kadar yap.</TargetCount>
+  <Infinite>Sonsuz</Infinite>
+  <RecipeCannotHaveTargetCount>(This recipe cannot have a target count because it has multiple or unpredictable products.)</RecipeCannotHaveTargetCount>
+  <PermittedIngredients>İzin verilmiş malzemeler</PermittedIngredients>
+  <MinimumSkills>En az beceri:</MinimumSkills>
+  <BillRequires>Requires {0} {1}</BillRequires>
+  <UsableIngredients>Kullanılabilir malzemeler</UsableIngredients>
+  <DoXTimes>Do X times</DoXTimes>
+  <DoUntilYouHaveX>X tane olana kadar yap</DoUntilYouHaveX>
+  <DoForever>Sonsuza kadar yap.</DoForever>
+  <BillRepeatTargetCountShort>To {0}</BillRepeatTargetCountShort>
+  <BillStoreMode_DropOnFloor>Yere bırak</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>En iyi stokalanına koy</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>En yakın stokalanına koy.</BillStoreMode_NearestStockpileAnyPriority>
+  
+  <!-- Def Card -->
+  <Type>Tür</Type>
+  <GunType>Silah</GunType>
+  <PlantType>Bitki</PlantType>
+  <FoodType>Yemek</FoodType>
+  <HumanType>İnsan</HumanType>
+  <AnimalType>Hayvan</AnimalType>
+  <MechanoidType>Mechanoid</MechanoidType>
+  <Damage>Hasar</Damage>
+  <Accuracy>İsabet</Accuracy>
+  <BurstShotCount>Burst shot count</BurstShotCount>
+  <WarmupTime>Isınma</WarmupTime>
+  <CooldownTime>Yeniden dolma</CooldownTime>
+  <BurstShotFireRate>Azami atış hızı</BurstShotFireRate>
+  <Range>Uzaklık</Range>
+  <GrowsWild>Grows wild</GrowsWild>
+  <Harvestable>Hasat edilebilir.</Harvestable>
+  <LimitedLifespan>Sınırlı yaşam süresi</LimitedLifespan>
+  <GrowingTime>Büyüme zamanı</GrowingTime>
+  <Days>Günler</Days>
+  <FertilityRequirement>Fertility requirement</FertilityRequirement>
+  <LightRequirement>Light requirement</LightRequirement>
+  <Attributes>Nitelikler</Attributes>
+  <LifeSpan>Yaşam süresi</LifeSpan>
+  <Nutrition>Beslenme</Nutrition>
+  <FoodQuality>Yemek kalitesi</FoodQuality>
+  <WalkSpeedProperty>Yürüme hızı</WalkSpeedProperty>
+  <MeleeDamage>Melee damage</MeleeDamage>
+  <MeatAmount>Et miktarı</MeatAmount>
+  <MinFoodQuality>En az yemek kalitesi</MinFoodQuality>
+  <Diet>Diyet</Diet>
+  <RecruitDifficulty>Elde etme zorluğu</RecruitDifficulty>
+  <baseMarketValue>Temel fiyat</baseMarketValue>
+  <Covers>Kapaklar</Covers>
+  <NaturalArmorCovers>Doğal zırh koruması</NaturalArmorCovers>
+  <BodyPartEfficiency>Beden kısım verimi</BodyPartEfficiency>
+  
+  <!-- Trade -->
+  <DragToTrade>Ticaret yapmak için sürükle</DragToTrade>
+  <BuyPriceDesc>Bunu almak için ödenecek fiyat.</BuyPriceDesc>
+  <SellPriceDesc>Bunu sattığın zaman alacağın ücret.</SellPriceDesc>
+  <PriceTypeDesc>For this item, this price is {0}.</PriceTypeDesc>
+  <ColonyCount>How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are outdoors and near an orbital trade beacon.</ColonyCount>
+  <TraderCount>Tüccarın elinde bu eşyadan ticaret için ne kadar var?</TraderCount>
+  <AcceptButton>Onayla</AcceptButton>
+  <ResetButton>Sıfırla</ResetButton>
+  <CancelButton>İptal et</CancelButton>
+  <YourTradeableSilver>Takas edilebilir gümüş: {0}</YourTradeableSilver>
+  <YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
+  <TraderHasNoMore>Tüccarın elinde daha fazla yok.</TraderHasNoMore>
+  <ColonyHasNoMore>Daha satacak şey yok.</ColonyHasNoMore>
+  <TraderWillNotTrade>Tüccar bu eşyayı takas etmek istemiyor.</TraderWillNotTrade>
+  
+  <!-- Comms -->
+  <SocialSkillIs>Sosyal beceri: {0}</SocialSkillIs>
+
+  <!-- Stats report -->
+  <StatsReport_BaseValue>Ana değer</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Özellikler</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Giysiler</StatsReport_RelevantGear>
+  <StatsReport_Material>Malzeme</StatsReport_Material>
+  <StatsReport_CharacterQuality>Karakter kalitesi</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Beceri faktörleri</StatsReport_Skills>
+  <StatsReport_OtherStats>Diğer özellik faktörleri</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>Sağlık faktörleri</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>{0} önemli</HealthFactorPercentImpact>
+  <StatsReport_PostProcessed>Önceden hesaplı veri</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Son değer</StatsReport_FinalValue>
+  
+  
+  <!--Research-->
+  <ResearchFinished>{0} araştırması bitti.</ResearchFinished>
+  <ResearchScreen>Araştırma ekranı.</ResearchScreen>
+  
+  <!--HistoryUpload-->
+  <HistoryUploadMessage>Geliştiricilere yardımcı olmak için oyun verilerini RimWorld sunucularına göndermek istiyor musun? Eğer onaylarsan verilerin her {0} günde bir gönderilecek.(ve oyunun sonu gibi bazı nadir olaylarda). Gizlilik tercihleri daha sonradan ayarlar menüsünden değiştirilebilir.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Geçmiş anonim olarak gönderilse de adınızı ekleyebilirsiniz.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>Oyun bilgilerimi göndermeye izin ver.</HistoryUploadYes>
+  <HistoryUploadNo>Oyun bilgilerimi göndermeye izin ver. </HistoryUploadNo>
+  <HistoryUploadYesOnce>Sadece bu sefer gönder.</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>Bu sefer göndermeyin, daha sonra sor.</HistoryUploadNoOnce>
+	
+</LanguageData>

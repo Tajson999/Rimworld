@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <DesignatorCancel>Отменить</DesignatorCancel>
+  <DesignatorCancelDesc>Отменить строительство, добычу, перенос, сбор урожая и другие указания.</DesignatorCancelDesc>
+
+  <DesignatorCutPlants>Срезать</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>Отметить растения для срезания и уничтожения. Растения будут полностью удалены, а любая еда собрана.</DesignatorCutPlantsDesc>
+
+  <DesignatorDeconstruct>Разобрать</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Разобрать постройки и вернуть часть ресурсов.</DesignatorDeconstructDesc>
+
+  <DesignatorHarvest>Собрать</DesignatorHarvest>
+  <DesignatorHarvestDesc>Отметить растения для сбора пищи или другой продукции.</DesignatorHarvestDesc>
+
+  <DesignatorHarvestWood>Срубить</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Отметить деревья, которые нужно срубить для получения брёвен.</DesignatorHarvestWoodDesc>
+
+  <DesignatorHaulThings>Убрать</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Отметить куски породы и другие объекты для переноса на свалку. Не требуется для предметов вроде еды или трупов, которые всегда переносимы.</DesignatorHaulThingsDesc>
+  <MustHaulHaulables>Можно отметить переносимые, но не автоматически собираемые предметы (например, обломки скалы).</MustHaulHaulables>
+
+  <DesignatorHunt>Охотиться</DesignatorHunt>
+  <DesignatorHuntDesc>Отметить животных для ваших охотников.</DesignatorHuntDesc>
+
+  <DesignatorMine>Копать</DesignatorMine>
+  <DesignatorMineDesc>Обозначить скалы для проведения горных работ.</DesignatorMineDesc>
+
+  <DesignatorSmoothFloor>Выровнять пол</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Обозначить каменистую поверхность для выравнивания.</DesignatorSmoothFloorDesc>
+
+  <DesignatorPlan>Планировка</DesignatorPlan>
+  <DesignatorPlanDesc>Разместить обозначения планировки. Они не служат ничему, кроме помощи в планировании ваших дальнейших расширений.</DesignatorPlanDesc>
+
+  <DesignatorPlanRemove>Удалить планировку</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Удалить обозначения планировки.</DesignatorPlanRemoveDesc>
+
+  <DesignatorHomeRegionAdd>Добавить домашнюю область</DesignatorHomeRegionAdd>
+  <DesignatorHomeRegionAddDesc>Колонисты будут заниматься уборкой, тушением пожаров и ремонтом объектов только в домашней области.</DesignatorHomeRegionAddDesc>
+
+  <DesignatorHomeRegionRemove>Удалить домашнюю область</DesignatorHomeRegionRemove>
+  <DesignatorHomeRegionRemoveDesc>Удаление домашней области. Колонисты больше не будут заниматься здесь уборкой, тушением пожаров и ремонтом объектов.</DesignatorHomeRegionRemoveDesc>
+
+  <DesignatorRegionNoRoofAdd>Добавить область без крыши</DesignatorRegionNoRoofAdd>
+  <DesignatorRegionNoRoofAddDesc>Обозначить область, в которой не будет крыши. Колонисты также снесут любую существующую здесь крышу.</DesignatorRegionNoRoofAddDesc>
+
+  <DesignatorRegionNoRoofRemove>Удалить область без крыши</DesignatorRegionNoRoofRemove>
+  <DesignatorRegionNoRoofRemoveDesc>Удалить область без крыши. На пустых участках появится крыша, а участки с крышей останутся не тронутыми.</DesignatorRegionNoRoofRemoveDesc>
+
+  <DesignatorRegionSnowClearAdd>Добавить область без снега</DesignatorRegionSnowClearAdd>
+  <DesignatorRegionSnowClearAddDesc>Создать область, которую колонисты будут чистить от снега.</DesignatorRegionSnowClearAddDesc>
+
+  <DesignatorRegionSnowClearRemove>Удалить область без снега</DesignatorRegionSnowClearRemove>
+  <DesignatorRegionSnowClearRemoveDesc>Удалить область чистки снега. Колонисты больше не будут чистить снег в данной области.</DesignatorRegionSnowClearRemoveDesc>
+
+  <DesignatorGrowingZoneDesc>Создать зону, где ваши колонисты будут выращивать определённый тип растений.</DesignatorGrowingZoneDesc>
+
+  <DesignatorZoneCreateStorageResourcesDesc>Создать зону для хранения различных ресурсов.\nТакже позволяет расширить уже существующий склад.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <DesignatorZoneCreateStorageDumpingDesc>Создать зону для хранения мусора.\nТакже, позволяет расширить уже существующую свалку.</DesignatorZoneCreateStorageDumpingDesc>
+
+  <DesignatorZoneDelete>Удалить зоны</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Удаление зон, таких как склад или посадки.</DesignatorZoneDeleteDesc>
+
+  <DesignatorClaim>Захватить</DesignatorClaim>
+  <DesignatorClaimDesc>Присоединить к колонии нейтральные строения, включая древние руины и заброшенные осадные базы. Ваши колонисты смогут отремонтировать и обслуживать захваченные строения.</DesignatorClaimDesc>
+
+  <!-- Failure messages -->
+  <UnchosenStuff>Невыбранный материал</UnchosenStuff>
+  <TooCloseToMapEdge>Слишком близко к краю карты.</TooCloseToMapEdge>
+  <OutOfBounds>За пределами.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Нельзя разместить в неразведанной зоне.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Точка взаимодействия заблокирована {0}.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Точка взаимодействия находится вне границ.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Место взаимодействия будет заблокировано {0}.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} будет блокировать точку взаимодействия {1}.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>Местность здесь уже {0}.</TerrainIsAlready>
+  <TerrainBeingSmoothed>Местность уже отмечена для выравнивания.</TerrainBeingSmoothed>
+  <IdenticalThingExists>Такой объект здесь уже есть.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Такой проект здесь уже есть.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>Местная почва не удержит такую конструцию.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Место уже занято.</SpaceAlreadyOccupied>
+
+  <!-- placement of zones -->
+  <ExpandOrCreateZone>Расширить {0} или\nСоздать {1}</ExpandOrCreateZone>
+  <CreateNewZone>Создать {0}</CreateNewZone>
+
+  <!-- desc helpers -->
+  <TransmitsPower>Передаёт энергию</TransmitsPower>
+
+</LanguageData>

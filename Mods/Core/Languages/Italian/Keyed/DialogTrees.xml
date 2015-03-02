@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<LanguageData>
+
+  <FactionGreetingHostile>Il rappresentante di {0} lancia degli epiteti allo schermo e si disconnette.</FactionGreetingHostile>
+  <FactionGreetingWary>Il rappresentante di {0} saluta con cautela {1} e parla dei fatti propri.</FactionGreetingWary>
+  <FactionGreetingWarm>Il rappresentante di {0} saluta calorosamente {1} e chiede come stia la colonia.</FactionGreetingWarm>
+
+  <Disconnect>Disconnettiti</Disconnect>
+
+  <OfferGift>Offri regalo</OfferGift>
+  <NeedSilverLaunchable>Servono altri {0} di argento lanciabile</NeedSilverLaunchable>
+  <NotEnoughSilver>Non hai abbastanza argento.</NotEnoughSilver>
+  <SilverForGoodwill>{0} di argento per {1} alle relazioni </SilverForGoodwill>
+  <SilverGiftSent>Il rappresentante di {0} ringrazia.\n\n(relazioni aumentate di {1}).</SilverGiftSent>
+
+
+  <RequestMilitaryAid>Richiedi intervento militare immediato ({0} alle relazioni)</RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy>{0} non ti aiuteranno a combattere contro fazioni loro amiche. Ciò include quelle che ti stanno minacciando, {1}. Vuoi comunque chiamare aiuto?</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>Si, chiamali comunque.</CallConfirm>
+  <CallCancel>No, fa niente.</CallCancel>
+  <MilitaryAidSent>Il rappresentante di {0} accetta di mandare dei combattenti ad aiutarti.</MilitaryAidSent>
+  
+  
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <FilthBlood.label>sangue</FilthBlood.label>
+    
+    <FilthDirt.label>terra</FilthDirt.label>
+    
+    <FilthSand.label>areia</FilthSand.label>
+    
+    <RockRubble.label>restos de pedra</RockRubble.label>
+    
+    <SlagRubble.label>restos de escombros</SlagRubble.label>
+
+    <SandbagRubble.label>sacos de areia espalhados</SandbagRubble.label>
+        
+</LanguageData>

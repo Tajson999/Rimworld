@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<SolarFlare.label>Sonnensturm</SolarFlare.label>
+	<SolarFlare.description>Die Strahlung einer Sonnenerruption trifft den Planeten. Sie verursacht extreme elektrische Störungen. Um sie zu schützen, müssen nahezu alle elektrischen Geräte deaktiviert werden.</SolarFlare.description>
+	
+	<Eclipse.label>Sonnenfinsternis</Eclipse.label>
+	<Eclipse.description>Eine Sonnenfinsternis verdunkelt die Oberfläche. Es wird selbst am Tag dunkel bleiben.</Eclipse.description>
+	
+	<PsychicDrone.label>Psychisches Brummen</PsychicDrone.label>
+	<PsychicDrone.description>Eine weit entfernte, starke KI sendet psychische Wellen aus. Dieses Brummen kann auf Dauer dazu führen, dass die Leute durchdrehen.</PsychicDrone.description>
+	
+	<HeatWave.label>Hitzewelle</HeatWave.label>
+	<HeatWave.description>Eine extreme Hitzewelle kocht die Region.</HeatWave.description>
+	
+	<ColdSnap.label>Kälteeinbruch</ColdSnap.label>
+	<ColdSnap.description>Ein ungewöhnlicher Kälteeinbruch gefriert die Region.</ColdSnap.description>
+	
+</LanguageData>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <DesignatorCancel>İptal et</DesignatorCancel>
+  <DesignatorCancelDesc>Belirlenen inşaat,maden kazma,taşıma,ekin biçme ve diğer tüm belirlenmiş işlemleri iptal et.</DesignatorCancelDesc>
+
+  <DesignatorCutPlants>Bitkileri kes.</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>Bitkileri kesmek ve yoketmek için işaretle.Bitki tamamen yokedilecek ve hasat edilecektir.</DesignatorCutPlantsDesc>
+
+  <DesignatorDeconstruct>Yık</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Binaları yık ve kaynaklarının bir kısmını geri al.</DesignatorDeconstructDesc>
+
+  <DesignatorHarvest>Hasat et</DesignatorHarvest>
+  <DesignatorHarvestDesc>Bitkileri gıda veya diğer ürünleri için hasat etmek üzere işaretle.</DesignatorHarvestDesc>
+
+  <DesignatorHarvestWood>Ağaç kes</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Ağaçları kesmek için işaretle.</DesignatorHarvestWoodDesc>
+
+  <DesignatorHaulThings>Eşyaları taşı</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Kaya parçalarını ve diğer öğeleri çöplüğe plan için işaretle.Her zaman taşınabilir olan yemek ve cesetler için gerek değildir.</DesignatorHaulThingsDesc>
+  <NothingToHaulHere>Burada taşınak birşey yok.</NothingToHaulHere>
+  <MustHaulHaulables>Sadece otomatik olmayan şeyleri taşıyabilirsiniz (kaya parçaları gibi).</MustHaulHaulables>
+
+  <DesignatorHunt>Avlan</DesignatorHunt>
+  <DesignatorHuntDesc>İşaretlenen hayvanlar avcılarınız tarafından avlanacak.</DesignatorHuntDesc>
+
+  <DesignatorMine>Maden kazmak</DesignatorMine>
+  <DesignatorMineDesc>Maden çıkarmak için kaya alanları belirle.</DesignatorMineDesc>
+
+  <DesignatorPlan>Plan</DesignatorPlan>
+  <DesignatorPlanDesc>Yer planlamasını belirleyin.Bu gelecekteki gelişmenizi planlamanıza yardım etmek dışında birşey yapmaz.</DesignatorPlanDesc>
+
+  <DesignatorPlanRemove>Planları sil</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Belirlenen planlamayı sil.</DesignatorPlanRemoveDesc>
+
+  <DesignatorHomeRegionAdd>Ev bölgesi ekle.</DesignatorHomeRegionAdd>
+  <DesignatorHomeRegionAddDesc>Kolonicilerin sadece ev bölgesinde binaları onarır, yerleri siler ve yangınları söndürür.</DesignatorHomeRegionAddDesc>
+
+  <DesignatorHomeRegionRemove>Ev bölgesini kaldır</DesignatorHomeRegionRemove>
+  <DesignatorHomeRegionRemoveDesc>Bir ev bölgesini sil. Kolonicilerin artık buradaki yangınları söndürmeyecek, yerleri temizlemeyecek ve binaları tamir etmeyecek.</DesignatorHomeRegionRemoveDesc>
+
+  <DesignatorRegionNoRoofAdd>Çatısız bölge oluştur</DesignatorRegionNoRoofAdd>
+  <DesignatorRegionNoRoofAddDesc>Çatının olmayacağı bir bölge oluştur.Koloniciler ayrıca burada olan çatıları da yıkacak.</DesignatorRegionNoRoofAddDesc>
+
+  <DesignatorRegionNoRoofRemove>Çatısız bölgeyi kaldır</DesignatorRegionNoRoofRemove>
+  <DesignatorRegionNoRoofRemoveDesc>Çatısız bölgeyi kaldırır. Çatılar burada oluşacak ve mevcut olan çatılar yıkılmayacak.</DesignatorRegionNoRoofRemoveDesc>
+
+  <DesignatorGrowingZoneDesc>Kolonicilerinin belirli bir tür bitki yetiştirmeye çalışacağı bir bölge oluştur</DesignatorGrowingZoneDesc>
+
+  <DesignatorZoneCreateStorageResourcesDesc>Kolonicilerinin kaynaklarını depolayacağı bir stokalanı oluştur.\nAyrıca bu araç mevcut olan stokalanını da genişletebilir.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <DesignatorZoneCreateStorageDumpingDesc>Kolonicilerinin değersiz şeyleri depolayacağı bir stokalanı oluştur.\nAyrıca bu araç mevcut olan stokalanını da genişletebilir.</DesignatorZoneCreateStorageDumpingDesc>
+
+
+  <DesignatorZoneDelete>Bölgeleri silin</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Stokalanı ve yetiştirme alanı gibi bölgeleri silin.</DesignatorZoneDeleteDesc>
+  
+  <DesignatorClaim>Ele geçir</DesignatorClaim>
+  <DesignatorClaimDesc>Antik kalıntılar ve terkedilmiş kuşatma merkezleri de dahil olmak üzere tarafsız yapıları kolonin için ele geçir.Ele geçirilmiş yapılar kolonicilerin tarafından tamir edilebilir ve korunabilir.</DesignatorClaimDesc>
+  
+  
+  <!-- placement of blueprints -->
+  <UnchosenStuff>Seçilmemiş malzeme</UnchosenStuff>
+  <TooCloseToMapEdge>Harita kenarına çok yakın.</TooCloseToMapEdge>
+  <OutOfBounds>Sınır dışı.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Keşfedilmemiş bölgelere yerleştirilemez.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Etkileşim noktası {0} tarafından bloke edilmiş.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Etkileşim noktası sınır dışında.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Etkileşm noktası {0} tarafından bloke edilecek.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} {1}'in etkileşim alanını bloke edecek.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>Buradaki arazi zaten {0}.</TerrainIsAlready>
+  <IdenticalThingExists>Aynı şey zaten burada var.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Aynı plan zaten burada var.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>Buradaki arazi bunu destekleyemez.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Alan zaten kullanılıyor.</SpaceAlreadyOccupied>
+
+  
+  
+  <!-- placement of zones -->
+  <ExpandOrCreateZone>{0}'nı genişlet veya\n{1}'nın yenisini oluştur.</ExpandOrCreateZone>
+  <CreateNewZone>Yeni bir{0} oluştur.</CreateNewZone>
+  
+  
+  <!-- desc helpers -->
+  <TransmitsPower>Gücü iletiyor</TransmitsPower>
+
+
+</LanguageData>

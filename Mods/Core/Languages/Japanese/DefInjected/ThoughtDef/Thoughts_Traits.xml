@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<rep>
+		<path>MoodOffsetSanguine.stages[0].label</path>
+		<trans>能天気</trans>
+	</rep>
+	<rep>
+		<path>MoodOffsetSanguine.stages[0].description</path>
+		<trans>能天気のボーナス</trans>
+	</rep>
+
+	<rep>
+		<path>MoodOffsetOptimist.stages[0].label</path>
+		<trans>楽天主義者</trans>
+	</rep>
+	<rep>
+		<path>MoodOffsetOptimist.stages[0].description</path>
+		<trans>楽天主義者のボーナス</trans>
+	</rep>
+
+	<rep>
+		<path>MoodOffsetPessimist.stages[0].label</path>
+		<trans>悲観主義者</trans>
+	</rep>
+	<rep>
+		<path>MoodOffsetPessimist.stages[0].description</path>
+		<trans>悲観主義者のボーナス</trans>
+	</rep>
+
+
+	<rep>
+		<path>MoodOffsetDepressive.stages[0].label</path>
+		<trans>抑うつ病者</trans>
+	</rep>
+	<rep>
+		<path>MoodOffsetDepressive.stages[0].description</path>
+		<trans>抑うつ病者のボーナス</trans>
+	</rep>
+
+</LanguageData>

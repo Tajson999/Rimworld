@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <SunLamp.label>candeeiro solar</SunLamp.label>
+    <SunLamp.description>Ilumina uma área tão claramente que permite que as colheitas crescam.</SunLamp.description>
+    
+    <OrbitalTradeBeacon.label>farol de comércio orbital</OrbitalTradeBeacon.label>
+    <OrbitalTradeBeacon.description>Necessário para comércio orbital. Só podes vender bens que estejam perto de um farol de comércio orbital e ao ar livre. Faróis de comércio orbital também descarregam mercadorias perto deles.</OrbitalTradeBeacon.description>
+    
+    <ResearchBench.label>bancada de pesquisa</ResearchBench.label>
+    <ResearchBench.description>Investigadores trabalham aqui para discubrir novas coisas.</ResearchBench.description>
+    
+    <CommsConsole.label>consola de comunicação</CommsConsole.label>
+    <CommsConsole.description>Comunica com naves próximas para negociar e comercializar.</CommsConsole.description>
+    
+    <Grave.label>cova</Grave.label>
+    <Grave.description>Coloca os mortos em covas para lhes darem um sítio de descanso decente.</Grave.description>
+    
+    <FertilizerPump.label>bomba fertilizante</FertilizerPump.label>
+    <FertilizerPump.description>Expande lentamente um campo de solo fértil à sua volta.</FertilizerPump.description>
+    
+</LanguageData>

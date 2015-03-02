@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Autosaving>Otomatik kayıt</Autosaving>
+  
+  <GameStartDialog>Siz üçünüz uyandığınızda uyuma tüplerinin içindeydiniz sirenler ve parçalanmış metal sesleri vardı..  Hemen bir kaçış kabinlerine binip gemi parçalanmadan kaçtınız.\n\nOndan sonra , Bilinmiyen bir yer olan rimworlde ayak bastınız .\n\nGemiden kalan parçalar ile hayatta kalma planlarını yapmaya başladınız.</GameStartDialog>
+
+  <Colony>Koloni</Colony>
+  
+  <ChangeLanguageFromMainMenu>Dili sadece oyunun ana ekranında bulunan ayarlardan değiştirebilirsin .</ChangeLanguageFromMainMenu>
+
+  <AndLower>ve</AndLower>
+  <DisabledLower>Devre Dışı</DisabledLower>
+
+  <CloseButton>Kapat</CloseButton>
+
+
+  <VersionIndicator>{0} Versiyon</VersionIndicator>
+  <DevelopmentBuildLower>Gelişmiş bina</DevelopmentBuildLower>
+  <CompiledOn>{0} Derli </CompiledOn>
+
+	<MeatLabel>{0}'nin Eti</MeatLabel>
+  <MeatDesc>{0} 'nin çiğ eti</MeatDesc>
+
+  <LeatherLabel>{0} 'nin derisi </LeatherLabel>
+  <LeatherDesc>{0} ' nin cildinden yapılmış deri .</LeatherDesc>
+
+  <CorpseLabel>{0} 'nin cesedi </CorpseLabel>
+	<CorpseDesc>{0} 'nin Ölü bedeni.</CorpseDesc>
+  <DeadLabel>{0} (ölü) </DeadLabel>
+
+
+	<BlueprintLabelExtra> (plan)</BlueprintLabelExtra>
+  <FrameLabelExtra> (bina)</FrameLabelExtra>
+  
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
+  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+
+  <VariousLabel>(Çeşit)</VariousLabel>
+
+  <!-- History events -->
+  <ColonistDied>Kolonici öldü</ColonistDied>
+  
+  
+  
+</LanguageData>

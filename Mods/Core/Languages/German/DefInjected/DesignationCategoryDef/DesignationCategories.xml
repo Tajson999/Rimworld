@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Orders.label>Befehle</Orders.label>
+    <Orders.description>Markierungen, um bestimmte Aufgaben ausführen zu lassen.</Orders.description>
+	
+	<Zone.label>Zone</Zone.label>
+    <Zone.description>Verschiedenen Zonen, in denen Kolonisten bestimmte Aufgaben erledigen, bzw. in denen Objekte gelagert werden.</Zone.description>
+	
+	<Structure.label>Strukturen</Structure.label>
+    <Structure.description>Strukturen, wie z.B. Wände und Türen.</Structure.description>
+	
+	<Production.label>Produktion</Production.label>
+    <Production.description>Gegenstände, die etwas produzieren.</Production.description>
+	
+	<Furniture.label>Möbel</Furniture.label>
+    <Furniture.description>Kleine wohnliche Gegenstände.</Furniture.description>
+	
+	<Power.label>Strom</Power.label>
+    <Power.description>Erzeugung elektr. Energie, sowie deren Transport und Management.</Power.description>
+	
+	<Security.label>Sicherheit</Security.label>
+    <Security.description>Sicherheits- und Kampforientierte Strukturen.</Security.description>
+	
+	<Misc.label>Verschiedenes</Misc.label>
+    <Misc.description>Verschiedene Konstruktionen.</Misc.description>
+	
+	<Floors.label>Böden</Floors.label>
+    <Floors.description>Unterschiedliche Fußböden.</Floors.description>
+	
+	<Decoration.label>Dekoration</Decoration.label>
+    <Decoration.description>Objekte, die zum Verbessern der Stimmung unter den Kolonisten beitragen.</Decoration.description>
+	
+	<Ship.label>Raumschiff</Ship.label>
+    <Ship.description>Einzelne Komponenten des neuen Raumschiffes.</Ship.description>
+	
+	<Temperature.label>Temperatur</Temperature.label>
+    <Temperature.description>Objekte, zum Regulieren der Temperatur.</Temperature.description>
+
+</LanguageData>

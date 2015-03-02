@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+  
+	<CallOnRadio>Ara {0}</CallOnRadio>
+	<CannotUseSolarFlare>Kullanılamaz(güneş patlaması)</CannotUseSolarFlare>
+	<CannotUseNoPower>Kullanılamaz (güç yok)</CannotUseNoPower>
+	<CannotUseNoPath>Kullanılamaz (yol yok)</CannotUseNoPath>
+  <CannotUseReserved>Kullanılamaz (rezerve edilmiş)</CannotUseReserved>
+  <CannotUseFull>Kullanılamaz (dolu)</CannotUseFull>
+  
+  <FireAt>Ateş et {0}</FireAt>
+
+  <OutOfRange>menzil dışında</OutOfRange>
+  <CannotHitTarget>hedefe vuramaz</CannotHitTarget>
+  <CannotFight>{0} savaşamaz</CannotFight>
+
+  <OrderManThing>Erkek {0}</OrderManThing>
+  
+  <MeleeAttack>Yakın saldırı {0}</MeleeAttack>
+  <MeleeAttackToDeath>{0} Yakın saldırı ile öldürüldü</MeleeAttackToDeath>
+  <NoPath>Yol yok</NoPath>
+
+	<ForbiddenLower>Yasak</ForbiddenLower>
+	<SociallyImproperLower>sosyal uygunsuz</SociallyImproperLower>
+  <PrisonerRoomLower>mahkum odası</PrisonerRoomLower>
+	<BurningLower>yanıyor</BurningLower>
+	<NoEmptyPlaceLower>bunu depolamak için boş alan yok</NoEmptyPlaceLower>
+	<AlreadyFilledLower>yeterince dolu</AlreadyFilledLower>
+	<MissingMaterials>malzeme eksik</MissingMaterials>
+	
+	
+  <CannotGoNoPath>Buraya gidilemez(yol yok)</CannotGoNoPath>
+  <GoHere>Buraya git</GoHere>
+  
+  <Arrest>{0}'ı tutukla</Arrest>
+  <CannotArrest>Tutuklanamaz</CannotArrest>
+
+  <Capture>{0}'ı ele geçir</Capture>
+  <CannotCapture>Ele geçirilemez.</CannotCapture>
+
+  <Rescue>{0}'ı kurtar</Rescue>
+  <CannotRescue>Kurtarılamaz</CannotRescue>
+
+  <NoPrisonerBed>Mahkum için uygun yatak yok.</NoPrisonerBed>
+  <NoNonPrisonerBed>Mahkum için uygun yatak yok.</NoNonPrisonerBed>
+  <Reserved>Başkası tarafından rezerve edilmiş.</Reserved>
+  <ReservedBy>{0} tarafından rezerve edilmiş..</ReservedBy>
+  <IsReservedBy>{0} için {1} ayrılmış.</IsReservedBy>
+
+  <NoManipulationSkill>yetersiz</NoManipulationSkill>
+
+  <Equip>Donan {0}</Equip>
+  <EquipWarningBrawler>(kavgacı mutsuz olacak)</EquipWarningBrawler>
+  <CannotEquip>Taşıyamaz {0}</CannotEquip>
+  
+  <Wear>Giy {0}</Wear>
+  <CannotWear>Giyemez {0}</CannotWear>
+  
+  <Strip>{0}'ı Soy</Strip>
+  <CannotStrip>{0}'ı Soyamam</CannotStrip>
+
+  <Deposit>Boşalt {0} için {1}</Deposit>
+  <CannotDeposit>Boşaltılamaz {0} için {1}</CannotDeposit>
+
+  <Drop>Bırak {0}</Drop>
+  
+  <UseMedicalBed>Tamamen iyileşene kadar dinlen.</UseMedicalBed>
+  <NotInjured>Yaralı değil</NotInjured>
+  <SomeoneElseSleeping>Müsait değil</SomeoneElseSleeping>
+
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepPod>CryptoUyku kapsülüne gir.</EnterCryptosleepPod>
+  
+  
+  
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <CannotGenericWork>Yapamaz {0} {1}</CannotGenericWork>
+
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotGenericAlreadyAm>Zate {0} {1}</CannotGenericAlreadyAm>
+
+  <CannotPrioritizeIsNotA>Önceliklendiremez ({0} için {1})</CannotPrioritizeIsNotA>
+
+  <CannotPrioritizeResearch>Önceliklendirilemez (araştırma uzun vadeli bir görev)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Önceliklendirilemez ({0} yasaklı)</CannotPrioritizeForbidden>
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <PrioritizeGeneric>Önceliklendir {0} {1}</PrioritizeGeneric>
+  
+</LanguageData>

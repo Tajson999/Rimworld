@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ConceptText_MoveCamera>Mouse'un orta tusu veya WASD kullanarak kamerayı hareket ettirebilirsin. </ConceptText_MoveCamera>
+
+  <ConceptText_RescueColonist>Yaralı koloniste yardım etmek için sağlıklı kolonist tıkla ve yaralı kolonistin üstüne sağ tıkla.</ConceptText_RescueColonist>
+
+  <ConceptText_Capture1>Düşman alı koyulmus durumda. Onu ele geçirebilirsin!</ConceptText_Capture1>
+  <ConceptText_Capture2>Alı koymak için , kolonistine tıklayıp alı koyulmus düsmana sağ tıklayıp ele geçiri seç !\n\nEle geçirmek için bir de tutsak yatağına ihtiyacın var.</ConceptText_Capture2>
+
+  <ConceptText_Draft1>To control colonists directly for combat, Draft them by selecting them and hitting the Draft button.</ConceptText_Draft1>
+  <ConceptText_Draft2>A drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy.</ConceptText_Draft2>
+
+  <ConceptText_Forbid>Kolonistler YASAKLANMIŞ olarak işaretlenmiş eşyalarla etkileşime girmezler.\n\nYasağı kaldırmak için eşyayı seçip F tuşuna bas.</ConceptText_Forbid>
+
+  <ConceptText_BillsTab>Kolonistleri bir masada çalıştırmak için, Masayı seç ve İŞLER sekmesini aç. Burada, hangi yemeklerin pişeceğini, hangi eşyaların zanaat edileceğini,hangi yaratıkların kesileceğini söyleyebilirsin.</ConceptText_BillsTab>
+
+  <ConceptText_GrowingFood>Yiyecek yetiştirmek için, MÜHENDİSLİK menüsündeki YETİŞTİRME BÖLGESİNİ yerleştir.\n\nSadece bereketli topraklara yerleştirilebilirler.</ConceptText_GrowingFood>
+
+  <ConceptText_BuildOrbitalTradeBeacon>Hint:\n\nYörüngedeki tüccarlara gümüş veya eşya göndermek için dışarıdaki eşyaların yanına YÖRÜNGE TİCARET FENERİ yerleştirmek zorundasın.</ConceptText_BuildOrbitalTradeBeacon>
+
+  <ConceptText_ReadingAlerts>Eğer ne yapacağından emin olamıyorsan ekranın sağındaki UYARILARI kontrol et.</ConceptText_ReadingAlerts>
+
+  <ConceptText_CameraZoom>FARE TEKERLEĞİ veya T ve G tuşlarını kullanarak ileri ve geri zoom yapabilirsin.</ConceptText_CameraZoom>
+
+  <ConceptText_TimeControls>Sağ alttaki zaman kontrollerini kullanarak zamanı yavaşlatabilir , hızlandırabilir ve durdurabilirsin.</ConceptText_TimeControls>
+
+  <ConceptText_PrisonerTab>Bir mahkuma nasıl davranılacağını ayarlamak için bir mahkumun 'MAHKUM' sekmesine bak.\n\nBir mahkumla ilgilenebilmek için GARDİYANLIK işini yapan bir koloniste ihtiyacın var.</ConceptText_PrisonerTab>
+
+  <ConceptText_Mining>Nerenin kazılacağını göstermek için MÜHENDİSLİK MENÜSÜNÜ kullanabilirsin.\n\nMİNERAL kazmak sana METAL kazandırır.\n\nTAŞ kazmak sana hiçbir şey kazandırmaz.</ConceptText_Mining>
+
+  <ConceptText_WorkOverview1>Ekranın sağ altındaki GENEL BAKIŞ butonundan her kolonistin çalışma ayarlarını yapabilirsin.\n\nKolonistler her zaman bulabildikleri en yüksek öncelikli işi yaparlar.</ConceptText_WorkOverview1>
+  <ConceptText_WorkOverview2>Kolonistler görevlendirilmedikleri işleri yapmazlar.\n\nEğer kimsenin atandığı kesin bir işi yoksa, o iş asla yapılmayacaktır.</ConceptText_WorkOverview2>
+
+  <ConceptText_EquippingWeapons>To have your colonist equip a weapon, select the colonist and then right-click on the weapon.\n\nThere are weapons on the ground near your starting location.</ConceptText_EquippingWeapons>
+
+  <ConceptText_HomeRegion>HOME REGIONS tell your colonists which areas to clean and where to extinguish fires.\n\nDefine a HOME REGION with the Zones category under the Architect menu.</ConceptText_HomeRegion>
+
+  <ConceptText_StorageTabCategories>In the storage tab, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.</ConceptText_StorageTabCategories>
+
+  <ConceptText_StorageTab>You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.</ConceptText_StorageTab>
+
+  <ConceptText_SetGrowingZonePlant>You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button.</ConceptText_SetGrowingZonePlant>
+  
+  <ConceptText_SpacePause>Hit SPACE to pause or unpause the game.\n\nYou can give orders while paused.\n\nRemember this - if things get hectic, just hit SPACE!</ConceptText_SpacePause>
+
+  <ConceptText_RightClickClearLetter>You can quickly dismiss incoming letters by right-clicking them.</ConceptText_RightClickClearLetter>
+
+  <ConceptText_OpeningComms>To communicate, select a working colonist and right-click on the comms console.</ConceptText_OpeningComms>
+
+  <ConceptText_StoragePriority>You can change the PRIORITY of storage. Colonists will fill higher-priority storage first.</ConceptText_StoragePriority>
+
+  <ConceptText_Wiki>You can look up information in the WIKI.\n\nUse the link the bottom right of the screen.</ConceptText_Wiki>
+
+  <ConceptText_TradeGoodsMustBeNearBeacon>To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON outdoors and place a stockpile of items near it.</ConceptText_TradeGoodsMustBeNearBeacon>
+
+  <ConceptText_ArrestingCreatesEnemies>If you arrest someone, their entire faction will become your enemy.\n\nDon't arrest someone if you want to stay friends with their faction!</ConceptText_ArrestingCreatesEnemies>
+
+  <ConceptText_MedicalOperations>To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab.</ConceptText_MedicalOperations>
+
+</LanguageData>

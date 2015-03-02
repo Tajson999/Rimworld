@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--=========== Main menu ==========-->
+  <NewColony>Ny koloni</NewColony>
+  <BackToGame>Tillbaka till spelet</BackToGame>
+  <Save>Spara</Save>
+  <Load>Ladda</Load>
+  <Options>Inställningar</Options>
+  <Mods>Mods</Mods>
+  <Credits>Medverkare</Credits>
+  <QuitToMainMenu>Avsluta till huvudmenyn</QuitToMainMenu>
+  <QuitToOS>Anvsluta till OS</QuitToOS>
+  <FictionPrimer>Fiktionens grund</FictionPrimer>
+  <LudeonBlog>Ludeon blogg</LudeonBlog>
+  <Forums>Forum</Forums>
+  <OfficialWiki>Officiell wiki</OfficialWiki>
+  <TynansTwitter>Tynans twitter</TynansTwitter>
+  <TynansDesignBook>Tynans design bok</TynansDesignBook>
+  <HelpTranslate>Hjälp till att översätta RimWorld</HelpTranslate>
+
+  <!--=========== Version info ==========-->
+  <BuildNowAvailable>Struktur {0} finns tillgänglig. Kolla ludeon.com för mer information.</BuildNowAvailable>
+	<BuildUpToDate>Strukturen är aktuell.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Fel när versionsinformationen skulle hämtas: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Laddar versionsinformation...</LoadingVersionInfo>
+
+  <!--=========== Mods screen ==========-->
+  <GetMods>Skaffa mods</GetMods>
+  <OpenModsDataFolder>Öppna datamappen för mods</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Är du säker på att du vill stänga av kärn-moddet? Spelet kommer inte att funka alls om du inte har ett annat mod som ersätter all kärn-funktionalitet.\n\nKom ihåg, andra mods kan överskriva 'defs' i kärnmodet genom att använda samma 'defName'.</ConfirmDisableCoreMod>
+  <Author>Författare</Author>
+  
+
+  <!--=========== Storyteller chooser ==========-->
+  <ChooseAIStoryteller>Välj AI berättare</ChooseAIStoryteller>
+  <HowStorytellersWork>AI Berättaren skapar event som plundringståg av pirater, räddningsfall, eller djurattacker. Deras val kommer att påverka din kolonis historia.</HowStorytellersWork>
+
+  <!--=========== Character chooser ==========-->
+  <CreateCharacters>Skapa karaktärer</CreateCharacters>
+  <FirstNameDesc>Karaktärens förnamn.\n\nDetta visas bara i vissa menyer.</FirstNameDesc>
+  <ShortIdentifierDesc>Karaktärens korta, identifierande namn.\n\nDetta visas hela tiden. Det kan vara för- eller efternamn, eller ett helt annat, separat namn.</ShortIdentifierDesc>
+  <LastNameDesc>Karaktärens efternamn.\n\nDetta visas bara i vissa menyer.</LastNameDesc>
+  <Randomize>Slumpa</Randomize>
+  <AgeIndicator>ålder {0}</AgeIndicator>
+  <Backstory>Bakgrundshistoria</Backstory>
+  <IncapableOf>Inkapabel av att</IncapableOf>
+  <Traits>Persondrag</Traits>
+  <TraitsDoNothing>Persondrag är bara roliga historiedelar just nu; dee flesta gör ingenting. Detta kommer att förändras i framtida versioner.</TraitsDoNothing>
+  <Skills>Förmågor</Skills>
+  <NoneLower>inga</NoneLower>
+  <Adulthood>Vuxen ålder</Adulthood>
+  <Childhood>Barndom</Childhood>
+  <Male>Man</Male>
+  <Female>Kvinna</Female>
+  
+  
+  <!--=========== Misc ==========-->
+  <Start>Börja</Start>
+  <Advanced>Avancerat</Advanced>
+  <Next>Nästa</Next>
+  <Back>Tillbaka</Back>
+  
+  <Gameplay>Spel</Gameplay>
+
+  <ConfirmQuit>Vill du verkligen avsluta? Du förlorar osparad framgång.</ConfirmQuit>
+  
+  <EveryoneNeedsValidName>Varje person behöver ett giltigt namn.</EveryoneNeedsValidName>
+
+  <GeneratingWorld>Genererar värld...</GeneratingWorld>
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Names -->
+  <Credit_Ludomancer>Ludomancer</Credit_Ludomancer>
+  <Credit_MusicAndSound>Музика та звук</Credit_MusicAndSound>
+  <Credit_AdditionalProgramming>Додаткове програмування</Credit_AdditionalProgramming>
+  <Credit_GameArt>Дизайн гри</Credit_GameArt>
+  <Credit_MenuArt>Дизайн меню</Credit_MenuArt>
+
+  <Credits_TitleTesting>Команда тестувальників</Credits_TitleTesting>
+  <Credit_Tester>Тестувальник</Credit_Tester>
+
+  <Credits_TitleLanguage>{0} мова</Credits_TitleLanguage>
+  <Credit_Writer>Автор</Credit_Writer>
+  <Credit_Translator>Перекладач</Credit_Translator>
+  <Credit_OpenSourceLibraries>Бібліотеки з відкритим кодом</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Генерація шуму</Credit_NoiseGeneration>
+
+
+</LanguageData>

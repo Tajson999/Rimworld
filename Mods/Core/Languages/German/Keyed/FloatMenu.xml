@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CallOnRadio>Rufe {0}</CallOnRadio>
+	<CannotUseSolarFlare>Kann nicht benutzt werden (Sonneneruption)</CannotUseSolarFlare>
+	<CannotUseNoPower>Kann nicht benutzt werden (kein Strom)</CannotUseNoPower>
+	<CannotUseNoPath>Kann nicht benutzt werden (kein Weg)</CannotUseNoPath>
+	<CannotUseReserved>Kann nicht benutzt werden (reserviert)</CannotUseReserved>
+	<CannotUseFull>Kann nicht benutzt werden (voll)</CannotUseFull>
+
+  <FireAt>Schieße auf {0}</FireAt>
+
+  <OutOfRange>Außer Reichweite</OutOfRange>
+  <CannotHitTarget>Kann das Ziel nicht treffen</CannotHitTarget>
+  <CannotFight>{0} kann nicht kämpfen</CannotFight>
+
+  <OrderManThing>Bemanne {0}</OrderManThing>
+  
+  <MeleeAttack>Nahkampf Angriff auf {0}</MeleeAttack>
+  <MeleeAttackToDeath>Nahkampf Angriff auf {0} bis zum Tod</MeleeAttackToDeath>
+  <NoPath>Kein Weg</NoPath>
+  
+ 	<ForbiddenLower>Verboten</ForbiddenLower>
+	<SociallyImproperLower>Gesellschaftlich unangebracht</SociallyImproperLower>
+	<PrisonerRoomLower>Gefängnis</PrisonerRoomLower>
+	<BurningLower>Brennt</BurningLower>
+	<NoEmptyPlaceLower>Kein leerer Lagerplatz verfügbar</NoEmptyPlaceLower>
+	<AlreadyFilledLower>Bereits gefüllt</AlreadyFilledLower>
+	<MissingMaterials>benötigt Materialien</MissingMaterials>
+
+
+  <ConsumeThing>Iss {0}</ConsumeThing>
+	
+
+  <CannotGoNoPath>Zielposition unerreichbar. (Fehlender Zugang)</CannotGoNoPath>
+  <GoHere>Gehe hier hin</GoHere>
+  
+  <Arrest>{0} einsperren</Arrest>
+  <CannotArrest>Einsperren nicht möglich</CannotArrest>
+
+  <Capture>{0} fangen</Capture>
+  <CannotCapture>Fangen nicht möglich</CannotCapture>
+
+  <Rescue>{0} retten</Rescue>
+  <CannotRescue>Rettung nicht möglich</CannotRescue>
+
+  <CarryToCryptosleepCasket>Trage {0} zu Kryoschlafkapsel</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Kann nicht zu Kryoschlafkapsel tragen</CannotCarryToCryptosleepCasket>
+
+  <NoCryptosleepCasket>Keine Kryoschlafkapsel verfügbar.</NoCryptosleepCasket>
+  <NoPrisonerBed>Keine Betten im Gefängnis-Modus verfügbar.</NoPrisonerBed>
+  <NoNonPrisonerBed>Keine Betten im Kolonisten-Modus verfügbar.</NoNonPrisonerBed>
+  <Reserved>Wird von jemand anderen verwendet.</Reserved>
+  <ReservedBy>Wird von {0} verwendet</ReservedBy>
+  <IsReservedBy>{0} wird von {1} verwendet.</IsReservedBy>
+
+  <NoManipulationSkill>unfähig</NoManipulationSkill>
+
+  <Equip>{0} ausrüsten</Equip>
+  <EquipWarningBrawler>(Der Raufbold wird darüber nicht glücklich sein)</EquipWarningBrawler>
+  <CannotEquip>Kann {0} nicht ausrüsten</CannotEquip>
+  
+  <Wear>Ziehe {0} an</Wear>
+  <CannotWear>Kann {0} nicht anziehen</CannotWear>
+  
+  <Strip>Ziehe {0} aus</Strip>
+  <CannotStrip>Kann {0} nicht ausziehen</CannotStrip>
+
+  <Deposit>Lagere {0} in {1}</Deposit>
+  <CannotDeposit>Kann {0} nicht in {1} lagern</CannotDeposit>
+
+  <SelfDestructHere>Selbstzerstörung hier</SelfDestructHere>
+
+  <Drop>Lass {0} fallen</Drop>
+  
+  <UseMedicalBed>Schlaf und heile</UseMedicalBed>
+  <NotInjured>Nicht verletzt</NotInjured>
+  <SomeoneElseSleeping>Belegt</SomeoneElseSleeping>
+
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepCasket>Betrete Kryoschlafkapsel</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Öffne Kryoschlafkapsel</OpenCryptosleepCasket>
+  
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <CannotGenericWork>Kann {1} nicht {0}.</CannotGenericWork>
+
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotMissingHealthActivities>Kann nicht priorisiert werden (Gesundheitsproblem: {0})</CannotMissingHealthActivities>
+  
+  <CannotGenericAlreadyAm>{1} wird bereits {0}</CannotGenericAlreadyAm>
+
+  <CannotPrioritizeIsNotA>Kann nicht priorisiert werden ({0} ist kein {1})</CannotPrioritizeIsNotA>
+
+  <CannotPrioritizeResearch>Kann nicht priorisiert werden (Forschung ist eine langfristige Aufgabe)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Kann nicht priorisiert werden ({0} ist verboten)</CannotPrioritizeForbidden>
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <PrioritizeGeneric>Priorisiere {0} {1}</PrioritizeGeneric>
+  
+</LanguageData>

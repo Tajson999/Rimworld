@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <IndefiniteArticle>ein</IndefiniteArticle>
+  <DefiniteArticle>das</DefiniteArticle>
+
+  <Proits>sein</Proits>
+  <Prohis>sein</Prohis>
+  <Proher>ihr</Proher>
+  <ProitsCap>Sein</ProitsCap>
+  <ProhisCap>Sein</ProhisCap>
+  <ProherCap>Ihr</ProherCap>
+
+  <ProitObj>es</ProitObj>
+  <ProhimObj>ihn</ProhimObj>
+  <ProherObj>ihr</ProherObj>
+  <ProitObjCap>Es</ProitObjCap>
+  <ProhimObjCap>Ihn</ProhimObjCap>
+  <ProherObjCap>Ihr</ProherObjCap>
+
+  <Prohe>er</Prohe>
+  <Proshe>sie</Proshe>
+  <Proit>es</Proit>
+  <ProheCap>Er</ProheCap>
+  <ProsheCap>Sie</ProsheCap>
+  <ProitCap>Es</ProitCap>
+
+
+
+</LanguageData>

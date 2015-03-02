@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<LanguageData>
+
+  <JumpToLocation>Raggiungi la posizione</JumpToLocation>
+
+  <RelationsBrokenDown>Le relazioni con {0} sono deteriorate. Sono tuoi nemici ora.</RelationsBrokenDown>
+  <RelationsWarmed>Le relazioni con {0} sono migliorate. Non sono più tuoi nemici ora.</RelationsWarmed>
+
+  <RelationsBrokenCapture>Visto che hai catturato {0}, {1} è tuo nemico.</RelationsBrokenCapture>
+  
+  <ColonyGoodwill>Relazioni</ColonyGoodwill>
+  <Neutral>Neutrale</Neutral>
+
+  <ShortCircuitRain>Un {0} è andato in cortocircuito sotto la pioggia e ha preso fuoco.</ShortCircuitRain>
+  <AreaRevealed>Una nuova area è stata scoperta.</AreaRevealed>
+
+  <RoofCollapsed>Un tetto è collassato perché era troppo lontano da qualche supporto.</RoofCollapsed>
+  <TheseThingsCrushed>Queste cose sono andate distrutte:</TheseThingsCrushed>
+  <NothingCrushed>Non è stato distrutto niente.</NothingCrushed>
+  
+  <MentalBreakRampage>{0} è impazzito ed è andato su tutte le furie.</MentalBreakRampage>
+  <MentalBreakDaze>{0} ha perso la speranza e ora vagabonda senza meta.</MentalBreakDaze>
+  <MentalBreakLeave>{0} ha perso la speranza e sta abbandonando la colonia.</MentalBreakLeave>
+  
+
+  <RecruitSuccess>{0} ha reclutato con successo {1} ({2} di possibilità).</RecruitSuccess>
+  <RecruitFail>{0} non è riuscito a reclutare {1} ({2} di possibilità).</RecruitFail>
+  
+  
+</LanguageData>

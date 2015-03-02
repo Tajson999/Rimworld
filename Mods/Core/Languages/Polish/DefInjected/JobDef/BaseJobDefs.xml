@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+  <!--========= General ============-->
+  
+	<Goto.reportString>Idzie.</Goto.reportString>
+	
+	<Wait.reportString>Czeka.</Wait.reportString>
+	
+	<AttackStatic.reportString>Atakuje TargetA.</AttackStatic.reportString>
+	
+    <AttackMelee.reportString>Walczy wręcz z TargetA.</AttackMelee.reportString>
+	
+	<UseVerbOnThing.reportString>Używa verb.</UseVerbOnThing.reportString>
+	
+	<Equip.reportString>Ekwipuje TargetA.</Equip.reportString>
+	
+    <!--============= Misc ============-->
+  
+	<Wear.reportString>Zakłada TargetA.</Wear.reportString>
+  
+	<Strip.reportString>Rozbiera TargetA.</Strip.reportString>
+	
+	<Hunt.reportString>Poluje na TargetA.</Hunt.reportString>
+	
+	<ManThing.reportString>Zajmuje pozycję.</ManThing.reportString>
+	
+	<EnterCryptosleepPod.reportString>Wchodzi do kapsuły hibernacyjnej.</EnterCryptosleepPod.reportString>
+	
+	<UseNeurotrainer.reportString>Używa neurotrenera.</UseNeurotrainer.reportString>
+	
+    <!--============ Fire ============-->
+	
+	<Ignite.reportString>Podpala TargetA.</Ignite.reportString>
+	
+	<BeatFire.reportString>Gasi pożar.</BeatFire.reportString>
+	
+	<ExtinguishSelf.reportString>Gasi ogień na sobie.</ExtinguishSelf.reportString>
+	
+    <!--============ Need satisfaction ============-->
+	
+	<EatFood.reportString>Je z TargetA.</EatFood.reportString>
+	
+	<LayDown.reportString>Odkłada.</LayDown.reportString>
+	
+    <!--============= Item hauling ===============-->
+	
+	<HaulToCell.reportString>Transportuje TargetA na ziemie.</HaulToCell.reportString>
+	
+	<HaulToContainer.reportString>Transportuje TargetA.</HaulToContainer.reportString>
+	
+    <!--============= Pawn hauling ===============-->
+	
+	<Rescue.reportString>Ratuje TargetA.</Rescue.reportString>
+	
+	<Capture.reportString>Łapie TargetA.</Capture.reportString>
+	
+	<Arrest.reportString>Aresztuje TargetA.</Arrest.reportString>
+	
+	<EscortPrisonerToBed.reportString>Eskortuje więźnia TargetA do łóżka.</EscortPrisonerToBed.reportString>
+	
+	<TakeWoundedPrisonerToBed.reportString>Niesie rannego więźnia TargetA do łóżka.</TakeWoundedPrisonerToBed.reportString>
+	
+	<TakeToBedToOperate.reportString>Niesie TargetA na operacje.</TakeToBedToOperate.reportString>
+	
+	<Kidnap.reportString>Porywa TargetA.</Kidnap.reportString>
+	
+	
+	
+	
+	<DeliverFood.reportString>Niesie TargetB dla TargetA.</DeliverFood.reportString>
+	
+	<FeedPatient.reportString>Karmi TargetB używając TargetA.</FeedPatient.reportString>
+	
+	<HealPatient.reportString>Leczy TargetA.</HealPatient.reportString>
+	
+	<PlaceNoCostFrame.reportString>Buduje TargetA.</PlaceNoCostFrame.reportString>
+	
+	<DoBill.reportString>Wykonuje zlecenie w TargetA.</DoBill.reportString>
+	
+	<Clean.reportString>Czyści TargetA.</Clean.reportString>
+	
+	<Research.reportString>Prowadzi badania.</Research.reportString>
+	
+	<UseCommsConsole.reportString>Używa konsoli łączności.</UseCommsConsole.reportString>
+	
+	<Mine.reportString>Kopie TargetA.</Mine.reportString>
+	
+	<Repair.reportString>Naprawia TargetA.</Repair.reportString>
+	
+	<FinishFrame.reportString>Buduje TargetA.</FinishFrame.reportString>
+	
+	<Sow.reportString>Sadzi TargetA.</Sow.reportString>
+	
+	<Harvest.reportString>Zbiera TargetA.</Harvest.reportString>
+	
+	<CutPlant.reportString>Wycina TargetA.</CutPlant.reportString>
+	
+	<Deconstruct.reportString>Demontuje TargetA.</Deconstruct.reportString>
+	
+	<PrisonerFriendlyChat.reportString>Rozmawia z więźniem TargetA.</PrisonerFriendlyChat.reportString>
+	
+	<PrisonerBeatingMild.reportString>Bije TargetA.</PrisonerBeatingMild.reportString>
+	
+	<PrisonerBeatingVicious.reportString>Brutalnie bije TargetA.</PrisonerBeatingVicious.reportString>
+	
+	<PrisonerExecution.reportString>Przeprowadza egzekucję TargetA.</PrisonerExecution.reportString>
+	
+	
+	
+	
+</LanguageData>
