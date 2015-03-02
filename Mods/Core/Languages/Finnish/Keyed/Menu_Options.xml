@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <Audiovisuals>Äänet ja kuva</Audiovisuals>
+  <GameVolume>Peliäänien voimakkuus</GameVolume>
+  <MusicVolume>Musiikin voimakkuus</MusicVolume>
+  <GraphicsQuality>Grafiikoiden laatu</GraphicsQuality>
+  <GraphicsQualityNormal>Normaali</GraphicsQualityNormal>
+  <GraphicsQualityGreat>Hieno</GraphicsQualityGreat>
+
+  
+  <!-- Gameplay -->
+  <EdgeScreenScroll>Liikuta kameraa reunoista</EdgeScreenScroll>
+  <CustomCursor>Mukautettu kursori</CustomCursor>
+  <KeyboardConfig>Näppäinasetukset</KeyboardConfig>
+  <ChooseLanguage>Valitse kieli</ChooseLanguage>
+  <AdaptiveTutor>Mukautuva opastaja</AdaptiveTutor>
+  <ResetAdaptiveTutor>Palauta mukautuva opastaja</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Mukautuva opastaja on nyt palautettu. Hän opettaa sinua nyt alusta alkaen.</AdaptiveTutorIsReset>
+  <RunInBackground>Jatka suoritusta taustalla</RunInBackground>
+  <DevelopmentMode>Kehitystila</DevelopmentMode>
+  <LogVerbose>Runsassanainen lokitiedosto</LogVerbose>
+  <OpenSaveGameDataFolder>Avaa tallennuskansio</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Syötä tähän niiden "Name in Game" tai "Backstory in Game" -hahmojen sukunimet jotka haluat nähdä pelissä:</NamesYouWantToSee>
+  <ChangeStoryteller>Valitse tarinankertoja</ChangeStoryteller>
+  
+  <!-- Resolution -->
+  <Resolution>Resoluutio</Resolution>
+  <Fullscreen>Koko näytön tila</Fullscreen>
+  <CurrentRes>Nykyinen on {0}</CurrentRes>
+  <ChooseResolution>Valitse resoluutio</ChooseResolution>
+
+  
+  <!-- Privacy-->
+  <Privacy>Yksityisyys</Privacy>
+  <UserName>Käyttäjänimi</UserName>
+  <ChooseHistoryUploadPref>Salli pelitietojen lähetys</ChooseHistoryUploadPref>
+  <CurrentHistoryUploadPref>Tällä hetkellä: {0}</CurrentHistoryUploadPref>
+  <AboutHistoryUpload>Käyttäjien pelaamistiedot auttavat kehittäjiä tasapainottamaan peliä. Jos hyväksyt, tietosi lähetetään {0} pelissä kuluvan päivän välein (ja joissain harvoissa tapauksissa, kuten pelin lopussa) RimWorldin palvelimille analysoitavaksi. Lähetetyt pelaamistiedot koostuvat vain tilastoista ja historiasta peliin liittyen - mitään henkilökohtaisia tietoja ei lähetetä, antamaasi käyttäjänimeä lukuunottamatta, mikä tarkoittaa että se on täysin anonyymiä.</AboutHistoryUpload>
+  
+</LanguageData>

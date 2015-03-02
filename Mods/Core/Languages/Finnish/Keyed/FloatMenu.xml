@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+  
+	<CallOnRadio>Soita ryhmälle {0}</CallOnRadio>
+	<CannotUseSolarFlare>Ei voi käyttää (aurinkopurkaus)</CannotUseSolarFlare>
+	<CannotUseNoPower>Ei voi käyttää (ei virtaa)</CannotUseNoPower>
+	<CannotUseNoPath>Ei voi käyttää (ei reittiä)</CannotUseNoPath>
+  <CannotUseReserved>Ei voi käyttää (varattu)</CannotUseReserved>
+  <CannotUseFull>Ei voi käyttää (täynnä)</CannotUseFull>
+  
+  <FireAt>Ammu {0}</FireAt>
+
+  <OutOfRange>kantaman ulkopuolella</OutOfRange>
+  <CannotHitTarget>ei ole mahdollista osua kohteeseen</CannotHitTarget>
+  <CannotFight>{0} ei voi taistella</CannotFight>
+
+  <OrderManThing>Mies {0}</OrderManThing>
+  
+  <MeleeAttack>Lähitaistele kohteen {0} kanssa</MeleeAttack>
+  <MeleeAttackToDeath>Hakkaa {0} kuoliaaksi</MeleeAttackToDeath>
+  <NoPath>ei reittiä</NoPath>
+
+	<ForbiddenLower>kielletty</ForbiddenLower>
+	<SociallyImproperLower>sosiaalisesti väärää</SociallyImproperLower>
+  <PrisonerRoomLower>vangin huone</PrisonerRoomLower>
+	<BurningLower>palaa</BurningLower>
+	<NoEmptyPlaceLower>ei tyhjää tilaa asetettu varastoimaan sitä</NoEmptyPlaceLower>
+	<AlreadyFilledLower>tarpeeksi täysi</AlreadyFilledLower>
+	<MissingMaterials>tarvitaan rakennustarpeita</MissingMaterials>
+	
+	
+  <CannotGoNoPath>Ei voi mennä tänne (ei reittiä)</CannotGoNoPath>
+  <GoHere>Mene tänne</GoHere>
+  
+  <Arrest>Pidätä {0}</Arrest>
+  <CannotArrest>Ei voi pidättää</CannotArrest>
+
+  <Capture>Kaappaa {0}</Capture>
+  <CannotCapture>Ei voi kaapata</CannotCapture>
+
+  <Rescue>Pelasta {0}</Rescue>
+  <CannotRescue>Ei voi pelastaa</CannotRescue>
+
+  <CarryToCryptosleepCasket>Kanna {0} salauniarkkuun</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Ei voi kantaa salauniarkkuun</CannotCarryToCryptosleepCasket>
+
+  <NoCryptosleepCasket>Ei saatavilla olevaa salauniarkkua.</NoCryptosleepCasket>
+  <NoPrisonerBed>Ei vapaana olevaa suljetussa huoneessa olevaa vangin sänkyä.</NoPrisonerBed>
+  <NoNonPrisonerBed>Ei vapaana olevaa käytettävää ei-vangin sänkyä.</NoNonPrisonerBed>
+  <Reserved>Joku muu on varannut tämän.</Reserved>
+  <ReservedBy>{0} on varannut tämän.</ReservedBy>
+  <IsReservedBy>{0} on  henkilön {1} varaama.</IsReservedBy>
+
+  <NoManipulationSkill>kykenemätön</NoManipulationSkill>
+
+  <Equip>Ota käyttöön {0}</Equip>
+  <EquipWarningBrawler>(painija tulee pahalle mielelle)</EquipWarningBrawler>
+  <CannotEquip>Ei voida ottaa käyttöön {0}</CannotEquip>
+  
+  <Wear>Pue {0}</Wear>
+  <CannotWear>Ei voi pukea {0}</CannotWear>
+  
+  <Strip>Riisu {0}</Strip>
+  <CannotStrip>Ei voi riisua {0}</CannotStrip>
+
+  <Deposit>Talleta {0} {1}:een</Deposit>
+  <CannotDeposit>Ei voi tallettaa {0}:a {1}:een</CannotDeposit>
+
+  <SelfDestructHere>Tuhoudu tässä</SelfDestructHere>
+  
+  <Drop>Pudota {0}</Drop>
+  
+  <UseMedicalBed>Lepää, kunnes täysin parantunut</UseMedicalBed>
+  <NotInjured>Ei loukkaantunut</NotInjured>
+  <SomeoneElseSleeping>Varattu</SomeoneElseSleeping>
+
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepCasket>Mene salauniarkkuun</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Avaa salauniarkku</OpenCryptosleepCasket>
+  
+  
+  
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <CannotGenericWork>Ei voi {0} kohdetta {1}</CannotGenericWork>
+
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotMissingHealthActivities>Ei voi priorisoida (Terveysongelma: {0})</CannotMissingHealthActivities>
+
+  <CannotGenericAlreadyAm>Kohteen {1} {0} on jo menossa</CannotGenericAlreadyAm>
+
+  <CannotPrioritizeIsNotA>Ei voi priorisoida ({0} ei ole {1})</CannotPrioritizeIsNotA>
+
+  <CannotPrioritizeResearch>Ei voi priorisoida (tutkimus on pitkäaikainen tehtävä)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Ei voi priorisoida ({0} on kielletty)</CannotPrioritizeForbidden>
+
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <PrioritizeGeneric>Priorisoi kohteen {1} {0}</PrioritizeGeneric>
+  
+</LanguageData>

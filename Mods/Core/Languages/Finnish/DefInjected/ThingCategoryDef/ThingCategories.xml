@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Root.label>juuri</Root.label>
+    
+    <Resources.label>resurssit</Resources.label>
+    
+    <Foods.label>ruuat</Foods.label>
+    
+    <FoodMeals.label>ateriat</FoodMeals.label>
+    
+    <FoodRaw.label>raa-at ruuat</FoodRaw.label>
+    
+    <MeatRaw.label>liha</MeatRaw.label>
+    
+    <PlantFoodRaw.label>vegetaristiset</PlantFoodRaw.label>
+    
+    <Manufactured.label>tuotetut</Manufactured.label>
+    
+    <Textiles.label>tekstiilit</Textiles.label>
+    
+    <Leathers.label>nahat</Leathers.label>
+    
+    <Medicine.label>lääketarpeet</Medicine.label>
+    
+    <ResourcesRaw.label>käsittelemättömät</ResourcesRaw.label>
+    
+    <StoneBlocks.label>kiviharkot</StoneBlocks.label>
+    
+    <Items.label>esineet</Items.label>
+    
+    <Art.label>taide</Art.label>
+    
+    <Unfinished.label>keskeneräiset</Unfinished.label>
+    
+    <Weapons.label>aseet</Weapons.label>
+    
+    <WeaponsMelee.label>lähitaisteluaseet</WeaponsMelee.label>
+    
+    <WeaponsRanged.label>ampuma-aseet</WeaponsRanged.label>
+    
+    <Grenades.label>kranaatit</Grenades.label>
+    
+    <Apparel.label>vaatteet</Apparel.label>
+    
+    <BodyParts.label>ruumiinosat</BodyParts.label>
+    
+    <Chunks.label>kimpaleet</Chunks.label>
+    
+    <StoneChunks.label>kivenjärkäleet</StoneChunks.label>
+    
+    <Corpses.label>ruumiit</Corpses.label>
+    
+    <CorpsesHumanoid.label>ihmisruumiit</CorpsesHumanoid.label>
+    
+    <CorpsesAnimal.label>eläinten ruumiit</CorpsesAnimal.label>
+    
+    <CorpsesMechanoid.label>mekanoidien ruumiit</CorpsesMechanoid.label>
+    
+</LanguageData>

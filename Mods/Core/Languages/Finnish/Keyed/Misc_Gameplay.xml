@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Various -->
+  <WorkLeft>Työtä jäljellä</WorkLeft>
+  <Contents>Sisältö</Contents>
+  <ContainedResources>Sisällä olevat resurssit</ContainedResources>
+  <ForPrisonerUse>Vankien käyttöön</ForPrisonerUse>
+  <ForColonistUse>Yhdyskuntalaisten käyttöön</ForColonistUse>
+  <MedicalBed>Lääkitsemiseen</MedicalBed>
+  <Owner>Omistaja</Owner>
+  <Nobody>Ei kukaan</Nobody>
+  <Unowned>Omistamaton</Unowned>
+  <DeadTime>Kuollut {0}</DeadTime>
+  <WalkSpeed>kävelyvauhti {0}</WalkSpeed>
+  <DyingLower>kuolemassa</DyingLower>
+  <FilthOnFeet>Lika jaloissa:</FilthOnFeet>
+  <NotEnoughStoredLower>ei tarpeeksi varastossa</NotEnoughStoredLower>
+  <NothingLower>ei mitään</NothingLower>
+  <Adapted>Mukautunut</Adapted>
+  <Headshot>Osuma päähän</Headshot>
+  <FreshMissingBodyPart>tuore</FreshMissingBodyPart>
+  <UntreatedLower>hoitamaton</UntreatedLower>
+  <DevelopedImmunityLower>kehittynyt vastustuskyky</DevelopedImmunityLower>
+  <InjuryRequiresTreatment>tarvitsee hoitoa parantuakseen</InjuryRequiresTreatment>
+  <NextTreatmentAfter>seuraava hoito {0} päivän jälkeen</NextTreatmentAfter>
+  <MissingMedicalBillIngredient>{0} puuttuu</MissingMedicalBillIngredient>
+  <ImmunityDevelopmentProgress>vastustuskyvyn kehittymisen edistyminen</ImmunityDevelopmentProgress>
+  <Race>Rotu</Race>
+  <Description>Kuvaus</Description>
+  <Equipment>Varusteet</Equipment>
+  <Apparel>Vaatteet</Apparel>
+  <Inventory>Omaisuudet</Inventory>
+  <ThingInfo>Tietoja</ThingInfo>
+  <DropThing>Pudota</DropThing>
+  <RenameColonist>Nimeä yhdyskuntalainen uudelleen</RenameColonist>
+  <UnknownLower>tuntematon</UnknownLower>
+  
+  <!-- Snow -->
+  <SnowNone>Ei lunta</SnowNone>
+  <SnowDusting>Lunta (hieman)</SnowDusting>
+  <SnowThin>Lunta (ohuesti)</SnowThin>
+  <SnowMedium>Lunta (kohtalaisesti)</SnowMedium>
+  <SnowThick>Lunta (paksusti)</SnowThick>
+
+
+  <!-- Turrets -->
+  <GunInstalled>Asennettu</GunInstalled>
+  <MinimumRange>Lähin kantama</MinimumRange>
+  <CanFireIn>Voi ampua</CanFireIn>
+  
+  
+  <!-- Job reports -->
+	<ReportHaulingTo>Raahaamassa: {0} kohteeseen {1}.</ReportHaulingTo>
+	<ReportHauling>Raahaamassa:{0}.</ReportHauling>
+  <ReportSleeping>Nukkumassa.</ReportSleeping>
+  <ReportResting>Lepäämässä.</ReportResting>
+
+	<!-- Shooting report -->
+  <WeaponMissRadius>Aseen hutialue</WeaponMissRadius>
+	<ShootReportSkill>Taito</ShootReportSkill>
+	<ShootReportWeapon>Ase</ShootReportWeapon>
+	<Darkness>Pimeys</Darkness>
+	<TargetProne>Kohde makuulla</TargetProne>
+	<TargetSize>Kohteen koko</TargetSize>
+	<Weather>Sää</Weather>
+	<ShootingCover>Suoja</ShootingCover>
+	<CoverThingBlocksPercentOfShots>{0} pysäyttää {1}:n</CoverThingBlocksPercentOfShots>
+	<NoCoverLower>ei suojaa</NoCoverLower>
+	
+  <!-- Generated recipes -->
+  <RecipeMake>Tee {0}</RecipeMake>
+  <RecipeMakeJobString>Tekee esinettä {0}.</RecipeMakeJobString>
+  
+	<!-- Status levels -->
+  <Mood>Mieliala</Mood>
+  <MoodTip>Mieliala pidetään ylhäällä täyttämällä fyysisiä ja psyykkusiä tarpeita.\n\nJos jonkun mieliala laskee liaan alas, hän voi kokea hermoromahduksen.</MoodTip>
+  <Food>Ruoka</Food>
+  <FoodTip>Ruoka tarkoittaa kuinka paljon olennolla on helposti kulutettavia ravintoaineita. Jos se on nolla, olento ottaa nääntymisestä vahinkoa ajan mittaan.</FoodTip>
+  <Rest>Lepo</Rest>
+  <RestTip>Lepo tarkoittaa kuinka rentoutunut ja kuinka paljon unta henkilö saa.\n\nSe nousee korkeimmilleen sängyssä nukkuessa. Sängyn ulkopuolella, se laskee ajan mittaan.</RestTip>
+  <Environment>Ympäristö</Environment>
+  <EnvironmentTip>Ympäristö ilmentää kuinka miellyttäväksi henkilö tuntee ympäristönsä.\n\nYmpäristö on korkealla kun henkilöt ovat tilavissa huoneissa kauniin sisustuksen kanssa. Se on matalalla jos ympäristö on ruma.</EnvironmentTip>
+  <Openness>Avoimuus</Openness>
+
+  
+  <!-- Thoughts -->
+  <ThoughtExpiresIn>Menee ohi: {0}</ThoughtExpiresIn>
+  <ThoughtStartsExpiringIn>Alkaa menemään ohi: {0}</ThoughtStartsExpiringIn>
+  <ThoughtFinishesExpiringIn>On mennyt ohi kokonaan: {0}</ThoughtFinishesExpiringIn>
+  <MentalBreakThreshold>Hermoromahduksen kynnys</MentalBreakThreshold>
+
+
+  <!-- Pawn info readout -->
+  <Health>Terveys</Health>
+  <PawnMainDescWithFactionGendered>{0} {2}:n {1}</PawnMainDescWithFactionGendered>
+  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <PawnMainDescWithFactionGenderless>{1}:n {0}</PawnMainDescWithFactionGenderless>
+  <PawnMainDescGenderless>{0}</PawnMainDescGenderless>
+  <Faction>Ryhmä</Faction>
+  <Equipped>Varustautunut</Equipped>
+  <EquippedNothing>ei mitään</EquippedNothing>
+  <Incapacitated>Työkyvytön</Incapacitated>
+  <InRestraints>Rajoitettu (hidastettu)</InRestraints>
+  <Carrying>Kantaa</Carrying>
+  <SanityDazedWander>Murtunut: Haahuilee hämmentyneenä</SanityDazedWander>
+  <SanityGiveUpExit>Murtunut: Poistumassa luovuttaneena</SanityGiveUpExit>
+  <SanityPanicFlee>Murtunut: Pakenee paniikissa</SanityPanicFlee>
+  <SanityPsychotic>Murtunut: Psykoottisessa raivossa</SanityPsychotic>
+  
+  <!-- Inspector general stuff -->
+  <SelectNextInSquareTip>Valitse seuraava asia samassa neliössä.\n\nPikanäppäin: {0}\n\nVoit myös tehdä tämän klikkaamalla samaa ruutua hitaasti uudestaan.</SelectNextInSquareTip>
+  <DefInfoTip>Tietoja tästä esineestä.</DefInfoTip>
+  
+
+	<!-- like 'Blood of John' -->
+	<OfLower>joka kuuluu yksilölle</OfLower>
+
+	<!-- Power readout -->
+	<PowerNotConnected>Ei liitetty virtaan.</PowerNotConnected>
+  <PowerConnectedRateStored>Yhdistetty sähkövirta/varastoitu teho: {0} W / {1} Wd</PowerConnectedRateStored>
+  <PowerNeeded>Virtaa tarvitaan</PowerNeeded>
+  <PowerOutput>Teho</PowerOutput>
+  <PowerBatteryStored>Varastoitu</PowerBatteryStored>
+  <PowerBatteryEfficiency>Hyötysuhde</PowerBatteryEfficiency>
+
+  <!-- Temperature control -->
+  <TargetTemperature>Tavoitelämpötila</TargetTemperature>
+  <PowerConsumptionMode>Nykyinen virrankulutus</PowerConsumptionMode>
+  <PowerConsumptionHigh>Korkea</PowerConsumptionHigh>
+  <PowerConsumptionLow>Matala</PowerConsumptionLow>
+  
+  <!-- Temperature readout -->
+  <Indoors>Sisällä</Indoors>
+  <Outdoors>Ulkona</Outdoors>
+  
+	<!--Rotting-->
+	<RotStateFresh>Tuore</RotStateFresh>
+	<RotStateRotting>Mätänevä</RotStateRotting>
+	<RotStateDessicated>Kuivunut</RotStateDessicated>
+	
+  <!-- Shooting tooltip -->
+  <ShotBy>{0} ampui tämän.</ShotBy>
+  <CannotHit>Ei voi osua kohteeseen.</CannotHit>
+
+  <!-- Storage priority labels -->
+  <StoragePriorityUnstored>Varastoimaton</StoragePriorityUnstored>
+  <StoragePriorityLow>Matala</StoragePriorityLow>
+  <StoragePriorityNormal>Normaali</StoragePriorityNormal>
+  <StoragePriorityPreferred>Mieluinen</StoragePriorityPreferred>
+  <StoragePriorityImportant>Tärkeä</StoragePriorityImportant>
+  <StoragePriorityCritical>Kriittinen</StoragePriorityCritical>
+
+
+  <!-- Rotting -->
+  <CurrentlyFrozen>Pakastettu (ei pilaannu)</CurrentlyFrozen>
+  <CurrentlyRefrigerated>Jäähdytetty (Pilaantumiseen {0})</CurrentlyRefrigerated>
+  <NotRefrigerated>Ei jäähdytetty (Pilaantumiseen {0})</NotRefrigerated>
+  <OverADecade>yli vuosikymmen</OverADecade>
+  
+  <!-- Meal -->
+  <Ingredients>Ainekset</Ingredients>
+
+  <!-- Plants -->
+  <PercentGrowth>Kasvanut {0}%</PercentGrowth>
+  <Growing>Kasvaa</Growing>
+  <NotGrowingNow>Ei kasva nyt (täytyy olla {0}).</NotGrowingNow>
+  <NotGrowingNowNight>Ei kasva nyt (yöaika).</NotGrowingNowNight>
+  <FullyGrownIn>Tulee olemaan täysikasvuinen kasvettuaan {0}.</FullyGrownIn>
+  <OutOfIdealTemperatureRange>Ei ole ideaalilämpötilassa (kasvaa {0}% normaalista nopeudesta)</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRangeNotGrowing>Ei ole ideaalilämpötilassa (ei kasva)</OutOfIdealTemperatureRangeNotGrowing>
+  <ReadyToHarvest>Valmis kerättäväksi.</ReadyToHarvest>
+  <Mature>Kypsä.</Mature>
+  <SeedLabel>{0} siemen</SeedLabel>
+  <OutdoorGrowingPeriod>Kasvukausi: {0}</OutdoorGrowingPeriod>
+  <NoGrowingPeriod>Ei koskaan</NoGrowingPeriod>
+  <GrowYearRound>Ympärivuotinen</GrowYearRound>
+  <CannotGrowTooCold>Ei voi kasvaa - liian kylmä.</CannotGrowTooCold>
+  
+  <!-- Zones -->
+  <Zone>Alue</Zone>
+  <GrowingZone>Kasvatusalue</GrowingZone>
+  <Stockpile>Varastoalue</Stockpile>
+  <DumpingStockpile>Kaatopaikka</DumpingStockpile>
+  <Priority>Tärkeys</Priority>
+  <ClearAll>Poista kaikki</ClearAll>
+  
+  <!-- Mouseover indicator -->
+  <Undiscovered>Tuntematon</Undiscovered>
+  
+  <!-- Buttons -->
+  <ZoneVisibilityToggleButton>Alueiden näkyvyys.</ZoneVisibilityToggleButton>
+  <AutoHomeRegionToggleButton>Automaattisesti lisää kotialue uusien rakennusten ympärille.</AutoHomeRegionToggleButton>
+  <CategorizedResourceReadoutToggleButton>Aseta luokiteltu materiaalivalikko päälle tai pois.</CategorizedResourceReadoutToggleButton>
+
+  <!-- Fire -->
+  <Fire>Tulipalo</Fire>
+  <FireOn>{0} on tulessa</FireOn>
+  <Burning>Tulessa</Burning>
+  <FireSizeLower>tulen koko {0}</FireSizeLower>
+  
+  <!-- Map conditions (eclipse, solar flare, etc )-->
+  <MapConditionsTip>Erityisolosuhteet jotka vaikuttavat alueeseen juuri nyt.</MapConditionsTip>
+
+  <!-- Building placement -->
+  <NoStuffsToBuildWith>Sinulla ei ole sopivaa materiaalia tämän rakentamiseen.</NoStuffsToBuildWith>
+  
+  <!-- Building placement restricters -->
+  <MustPlaceUnroofed>Ei voida asettaa katon alle.</MustPlaceUnroofed>
+  <MustPlaceHeadOnShipBeam>Pitää asettaa siten että pääty on aluksen rakennepalkissa kiinni.</MustPlaceHeadOnShipBeam>
+  <MustPlaceNextToHopperAccepter>Pitää asettaa jonkin viereen joka vaatii täyttösuppilon.</MustPlaceNextToHopperAccepter>
+  <MustPlaceOnSteamGeyser>Pitää asettaa tarkalleen geysirin päälle.</MustPlaceOnSteamGeyser>
+  <MustPlaceCoolerWithFreeSpaces>Jäähdyttimen sekä kuuman että kylmän sivun on oltava näkyvillä.</MustPlaceCoolerWithFreeSpaces>
+  
+  <!-- Wind Turbine -->
+  <WindTurbine_WindPathIsBlockedBy>Toiminnan estää</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedByRoof>Toiminnan estää katto</WindTurbine_WindPathIsBlockedByRoof>
+
+  <!-- Cryptosleep casket -->
+  <CasketContains>Sisältää</CasketContains>
+  <CasketUnknownContents>Tuntematon</CasketUnknownContents>
+  <CasketWarning>Varoitus!\n\nNAME on sinun viimeinen vapaana oleva yhdyskuntalainen! Jos annat hänen astua arkkuun, et voi välttämättä jatkaa pelaamista. Haluatko varmasti jatkaa?</CasketWarning>
+
+  <!-- Ship launch report -->
+  <ShipReportCannotLaunch>Ei voi laukaista.</ShipReportCannotLaunch>
+  <ShipReportCanLaunch>Valmiina laukaisuun.</ShipReportCanLaunch>
+  <ShipReportMissingPart>Kriittinen osa puuttuu</ShipReportMissingPart>
+  <ShipReportNoFullPods>Ei täysiä salauniarkkuja</ShipReportNoFullPods>
+
+  <!-- Neurotrainer -->
+  <UseNeurotrainer>Käytä älykkyysvalmentajaa oppiaksesi {0}</UseNeurotrainer>
+  <NeurotrainerUsed>{0} käytti älykkyysvalmentajaa ja pääsi taidossa {1} tasolta {2} tasolle {3}.</NeurotrainerUsed>
+  
+  <!-- Minification -->
+  <Installed>Asennettu</Installed>
+  <NotInstalled>Asentamaton</NotInstalled>
+
+  <!-- Art -->
+  <Title>Nimike</Title>
+  <Untitled>Nimetön</Untitled>
+  
+  <!-- Unfinished thing -->
+  <UnfinishedItem>Keskeneräinen {0}</UnfinishedItem>
+  <UnfinishedItemWithStuff>Keskeneräinen {0} {1}</UnfinishedItemWithStuff>
+
+  <!-- Quality -->
+  <Quality>Laatu</Quality>
+  <QualityDescription>Esineen laatu kuvaa miten hyvin se on tehty.</QualityDescription>
+  <QualityIs>Laatu: {0}</QualityIs>
+    
+  <!-- Game over -->
+  <GameOverEveryoneDead>Kaikki ovat joko kuolleet tai poissa. Tämä tarina on ohi.\n\nEhkä joku toinen voi hyödyntää näitä raunioita.</GameOverEveryoneDead>
+  <GameOverShipLaunched>Olet laukaissut aluksesi! Nämä yhdyskuntalaiset pääsivät mukaan:\n\n{0}\nJa nämä yhdyskuntalaiset eivät:\n\n{1}\nAI:si yrittää nyt ohjata aluksen turvalliseen paikkaan. Se saattaa asettaa sinut paremmalle planeetalle tässä järjestelmässä. Tai, se saattaa aloittaa vuosisatojen matkan toiselle tähdelle. Se saattaa jopa päättää piiloutua jään alle jollain asteroidilla muutamaksi tuhanneksi vuodeksi, odottamaan parempaa ajanjaksoa.\n\nSaat tietää sitten kun heräät taas.</GameOverShipLaunched>
+  <GameOverKeepPlaying>Jatka pelaamista</GameOverKeepPlaying>
+  <GameOverMainMenu>Päävalikko</GameOverMainMenu>
+  
+  
+</LanguageData>

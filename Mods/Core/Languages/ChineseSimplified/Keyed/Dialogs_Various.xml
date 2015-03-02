@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+
+  <Confirm>确定</Confirm>
+  <GoBack>返回</GoBack>
+  <OK>好</OK>
+  
+  <!-- Save/load -->
+  <SaveGameButton>保存</SaveGameButton>
+  <OverwriteButton>覆盖</OverwriteButton>
+  <LoadGameButton>读取</LoadGameButton>
+  <ConfirmDelete>真的要删除{0}吗？</ConfirmDelete>
+  <DeleteThisSavegame>删除这个存档。</DeleteThisSavegame>
+  <SavedAs>已保存为{0}。</SavedAs>
+  <NeedAName>请输入一个名称。</NeedAName>
+  <LoadingLongEvent>载入中……</LoadingLongEvent>
+  
+  
+  <!-- Colony naming-->
+  <NameColonyMessage>大家都知道你不想永远呆在这块石头上。但{0}建议你还是应该给你的殖民地起个名字。\n\n它叫什么比较好？</NameColonyMessage>
+  <ColonyGainsName>这个殖民地现在被称为{0}。</ColonyGainsName>
+  <ColonyNameIsInvalid>这个殖民地名无效。</ColonyNameIsInvalid>
+
+  <!-- Zone naming -->
+  <ZoneGainsName>这个区域的名称被改为{0}。</ZoneGainsName>
+  <ZoneNameInvalid>请输入一个有效的区域名称。</ZoneNameInvalid>
+  
+  <!-- Pawn naming -->
+  <PawnGainsName>这个殖民者的昵称被改为{0}。</PawnGainsName>
+  
+  <!-- Save game incompatible warning -->
+  <SaveGameIncompatibleWarningText>版本不匹配: 存档版本为{0}，当前游戏版本为{1}。\n\n 读取这个存档很可能会造成游戏崩溃或产生游戏BUG。</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningTitle>游戏存档不兼容</SaveGameIncompatibleWarningTitle>
+
+  <!-- Resolution change dialog -->
+  <ConfirmResolutionChange>你已经改变了你当前的分辨率。目前游戏显示是否正常？\n\n将在{0}秒后恢复原始设置……</ConfirmResolutionChange>
+  <ResolutionKeep>保持</ResolutionKeep>
+  <ResolutionRevert>恢复</ResolutionRevert>
+
+  <!-- Overview -->
+  <OverviewOf>{0}的概观</OverviewOf>
+
+  <!-- Research -->
+  <Research>研究</Research>
+  <Researched>已研究</Researched>
+  <Unresearched>未研究</Unresearched>
+  <Finished>已完成</Finished>
+  <InProgress>研究中</InProgress>
+  <ResearchMenuWithoutBench>你的殖民者们在你建造研究桌之前是无法进行研究的。\n\n不过，你仍然可以查看并选择研究项目。</ResearchMenuWithoutBench>
+  
+  
+  <!-- Advanced game start options -->
+  <MapTemperatureDangerWarning>警告: 你将会降落在一个冰冻的区域。这可能会让生存非常艰难。如果你并不想挑战艰难的环境，选择另一个降落点或另一个月份。</MapTemperatureDangerWarning>
+  <MapSizePerformanceWarning>警告: 在大地图下游戏性能可能会根据配置不同有所下降。\n\n如果你的配置较低，请选择小地图。\n\n巨大尺寸没有经过测试。</MapSizePerformanceWarning>
+  <MapSize>地图大小</MapSize>
+  <MapSizeDesc>{0}x{0} ({1}个方块)</MapSizeDesc>
+  <MapSizeSmall>小</MapSizeSmall>
+  <MapSizeMedium>中</MapSizeMedium>
+  <MapSizeLarge>大</MapSizeLarge>
+  <MapSizeExtreme>巨大</MapSizeExtreme>
+  <MapStartMonth>开始月份:</MapStartMonth>
+  <MapStartMonthDefault>自动</MapStartMonthDefault>
+  
+  
+  <!-- Bill config -->
+  <Suspended>已暂停</Suspended>
+  <NotSuspended>未暂停</NotSuspended>
+  <SuspendedAllCaps>已暂停</SuspendedAllCaps>
+  <RepeatCount>重复: {0}次</RepeatCount>
+  <Forever>永远</Forever>
+  <IngredientSearchRadius>材料搜索半径</IngredientSearchRadius>
+  <TargetCount>在达到数量之前一直不停制作: {0}</TargetCount>
+  <Infinite>无限</Infinite>
+  
+  <RecipeCannotHaveTargetCount>(因为这个配方有多个或是不可预估的成品所以不能为它指定目标数量)</RecipeCannotHaveTargetCount>
+  <PermittedIngredients>允许的材料</PermittedIngredients>
+  <WorkAmount>工作量</WorkAmount>
+  <MinimumSkills>最低技能值:</MinimumSkills>
+  <BillRequires>需要{0}{1}</BillRequires>
+  <BillRequiresMayVary>(数量可能会因为非标准体积的原料而改变，比如黄金。)</BillRequiresMayVary>
+  <UsableIngredients>可使用的原料</UsableIngredients>
+  <DoXTimes>做X次</DoXTimes>
+  <DoUntilYouHaveX>做直到拥有X个</DoUntilYouHaveX>
+  <DoForever>永远做下去</DoForever>
+  <BillRepeatTargetCountShort>到{0}</BillRepeatTargetCountShort>
+  <BillStoreMode_DropOnFloor>放在地上</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>放到最合适的贮藏区</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>放到最近的贮藏区</BillStoreMode_NearestStockpileAnyPriority>
+  
+  <!-- Info card -->
+  <Damage>伤害</Damage>
+  <Accuracy>精度</Accuracy>
+  <BurstShotCount>连射次数</BurstShotCount>
+  <WarmupTime>预热时间</WarmupTime>
+  <CooldownTime>冷却时间</CooldownTime>
+  <BurstShotFireRate>射速</BurstShotFireRate>
+  <Range>射程</Range>
+  <GrowsWild>野生</GrowsWild>
+  <Harvestable>可收获</Harvestable>
+  <LimitedLifespan>寿命有限</LimitedLifespan>
+  <GrowingTime>生长时间</GrowingTime>
+  <Days>天</Days>
+  <FertilityRequirement>种植需求</FertilityRequirement>
+  <LightRequirement>光线需求</LightRequirement>
+  <Attributes>来源</Attributes>
+  <LifeSpan>寿命</LifeSpan>
+  <Nutrition>营养</Nutrition>
+  <FoodQuality>食物价值</FoodQuality>
+  <WalkSpeedProperty>行走速度</WalkSpeedProperty>
+  <MeleeDamage>近身攻击伤害</MeleeDamage>
+  <MeatAmount>肉食数量</MeatAmount>
+  <MinFoodQuality>最低食物质量</MinFoodQuality>
+  <Diet>饮食</Diet>
+  <RecruitDifficulty>招募难度</RecruitDifficulty>
+  <MarketValue>基础价值</MarketValue>
+  <Covers>覆盖</Covers>
+  <BodyPartEfficiency>身体部件效率</BodyPartEfficiency>
+  
+  <!-- Trade -->
+  <DragToTrade>拖拽来进行交易</DragToTrade>
+  <BuyPriceDesc>购买这些需要消耗的钱。</BuyPriceDesc>
+  <SellPriceDesc>卖出这些可以获得的钱。</SellPriceDesc>
+  <PriceTypeDesc>这个物品的价格是{0}。</PriceTypeDesc>
+  <ColonyCount>殖民地拥有的待售物品数量。\n\n你只能卖出轨道交易信标附近并且在户外的物品。</ColonyCount>
+  <TraderCount>交易商拥有的物品数量。</TraderCount>
+  <AcceptButton>接受</AcceptButton>
+  <ResetButton>重置</ResetButton>
+  <CancelButton>取消</CancelButton>
+  <YourTradeableSilver>当前可用于交易的银石: {0}</YourTradeableSilver>
+  <YourTradeableSilverTip>你只能使用轨道交易信标附近而且顶上没有屋顶的银石用来交易。</YourTradeableSilverTip>
+  <TraderHasNoMore>交易商没有更多了。</TraderHasNoMore>
+  <ColonyHasNoMore>没有更多待售的了。</ColonyHasNoMore>
+  <TraderWillNotTrade>交易商不想交易这种商品。</TraderWillNotTrade>
+
+  <!-- Comms -->
+  <SocialSkillIs>社交技能: {0}</SocialSkillIs>
+  
+  <!--Research-->
+  <ResearchFinished>完成的研究: {0}</ResearchFinished>
+  <ResearchScreen>研究界面</ResearchScreen>
+  
+  <!--HistoryUpload-->
+  <HistoryUploadMessage>你想把游戏数据上传到RimWorld服务器以帮助开发者完善游戏平衡吗? 如果你同意，每隔{0}天你的游戏数据会被自动上传(以及在游戏结束等其他情况下上传)。之后可以在选项菜单里改变隐私设置。</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>尽管游戏数据默认是匿名上传的，但你仍然可以附上你的的名字。</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>允许上传游戏数据</HistoryUploadYes>
+  <HistoryUploadNo>不允许上传游戏数据</HistoryUploadNo>
+  <HistoryUploadYesOnce>仅在上传这次的数据</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>不上传这次的数据，并在晚些再问我</HistoryUploadNoOnce>
+	
+</LanguageData>

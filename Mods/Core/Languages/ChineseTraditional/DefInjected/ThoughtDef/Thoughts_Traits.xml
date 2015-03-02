@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <rep>
+    <path>MoodOffsetSanguine.stages[0].label</path>
+    <trans>樂天派</trans>
+  </rep>
+  <rep>
+    <path>MoodOffsetSanguine.stages[0].description</path>
+    <trans>因為「樂天派」特性而得到的心情加成。</trans>
+  </rep>
+
+  <rep>
+    <path>MoodOffsetOptimist.stages[0].label</path>
+    <trans>樂觀</trans>
+  </rep>
+  <rep>
+    <path>MoodOffsetOptimist.stages[0].description</path>
+    <trans>因為「樂觀」特性而得到的心情加成。</trans>
+  </rep>
+
+  <rep>
+    <path>MoodOffsetPessimist.stages[0].label</path>
+    <trans>悲觀</trans>
+  </rep>
+  <rep>
+    <path>MoodOffsetPessimist.stages[0].description</path>
+    <trans>因為「悲觀」特性而降低的心情。</trans>
+  </rep>
+
+  <rep>
+    <path>MoodOffsetDepressive.stages[0].label</path>
+    <trans>憂鬱</trans>
+  </rep>
+  <rep>
+    <path>MoodOffsetDepressive.stages[0].description</path>
+    <trans>因為「憂鬱」特性而降低的心情。</trans>
+  </rep>
+
+
+</LanguageData>

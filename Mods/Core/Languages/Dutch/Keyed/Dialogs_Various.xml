@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Confirm>Bevestigen</Confirm>
+  <GoBack>Terug</GoBack>
+  <OK>OK</OK>
+
+  <!-- Save/load -->
+  <SaveGameButton>Opslaan</SaveGameButton>
+  <OverwriteButton>Overschrijven</OverwriteButton>
+  <LoadGameButton>Laden</LoadGameButton>
+  <ConfirmDelete>Weet je zeker dat je {0} wil verwijderen??</ConfirmDelete>
+  <DeleteThisSavegame>Verwijder dit spelbestand.</DeleteThisSavegame>
+  <SavedAs>Spel als {0} opgeslagen.</SavedAs>
+  <NeedAName>Geef alsjeblieft een naam op.</NeedAName>
+  <LoadingLongEvent>Laden...</LoadingLongEvent>
+
+  <!-- Colony naming-->
+  <NameColonyMessage>Iedereen weet dat jullie hier niet lang willen blijven. Maar {0} vindt, dat de kolonie alsnog een naam moet krijgen.\n\nHoe moet hij heten?</NameColonyMessage>
+  <ColonyGainsName>De kolonie staat nu bekend als {0}.</ColonyGainsName>
+  <ColonyNameIsInvalid>Deze naam is ongeldig.</ColonyNameIsInvalid>
+
+  <!-- Zone naming -->
+  <ZoneGainsName>De zone heet nu {0}.</ZoneGainsName>
+  <ZoneNameIsInvalid>Deze naam is ongeldig.\n\nGeef alsjeblieft een goede naam op.</ZoneNameIsInvalid>
+  
+  <!-- Pawn naming -->
+  <PawnGainsName>Deze kolonist luistert nu naar de naam {0}.</PawnGainsName>
+  
+  <!-- Save game incompatible warning -->
+    <SaveGameIncompatibleWarningText>Verkeerde versie: de kaart is met versie {0} opgeslagen, maar je speelt op versie {1}.\n\n Het laden van dit spel zal er waarschijnlijk voor zorgen dat het kapot gaat.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningTitle>Het spelbestand is incompitabel</SaveGameIncompatibleWarningTitle>
+  
+  <!-- Resolution change dialog -->
+  <ConfirmResolutionChange>Je hebt de resolutie verandert. Is dat de bedoeling??\n\nHet scherm wordt automatisch teruggezet in {0}...</ConfirmResolutionChange>
+  <ResolutionKeep>Behouden</ResolutionKeep>
+  <ResolutionRevert>Terugzetten</ResolutionRevert>
+  
+  <!-- Overview -->
+  <OverviewOf>Overzicht van {0}</OverviewOf>
+  
+  <!-- Research -->
+  <Research>Onderzoek</Research>
+  <Researched>Onderzocht</Researched>
+  <Unresearched>Niet onderzocht</Unresearched>
+  <Finished>Afgemaakt</Finished>
+  <InProgress>Wordt onderzocht</InProgress>
+   <ResearchMenuWithoutBench>Zolang je geen onderzoekstafel hebt, zijn je kolonisten niet in staat iets te onderzoeken.\n\nMisschien kun je de mogenlijkheid bekijken ze een project te geven?.</ResearchMenuWithoutBench>
+
+  <!-- Advanced game start options -->
+  <MapSizePerformanceWarning>WAARSCHUWING: de prestaties van het spel kunnen verslechteren bij zo'n grote kaart, als je computer het niet aankan. \n\nAls je een zwakke computer hebt, is het beter een kleine kaart te gebruiken.\n\nDe Ludeonicrous kaartgrootte is niet getest, en geven waarschijnlijk slechte prestaties.</MapSizePerformanceWarning>
+  <MapSize>Kaartgrootte</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} tegels)</MapSizeDesc>
+  <MapSizeSmall>Klein</MapSizeSmall>
+  <MapSizeMedium>Middel</MapSizeMedium>
+  <MapSizeLarge>Groot</MapSizeLarge>
+  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
+
+  
+  <!-- Bill config -->
+  <Suspended>opgeschort</Suspended>
+  <NotSuspended>Niet opgeschort</NotSuspended>
+  <SuspendedAllCaps>OPGESCHORT</SuspendedAllCaps>
+  <RepeatCount>Herhalen: {0}</RepeatCount>
+  <Forever>voor altijd</Forever>
+  <IngredientSearchRadius>Materialen-zoek-radius</IngredientSearchRadius>
+  <TargetCount>Produceer, tot je er {0} hebt</TargetCount>
+  <Infinite>oneindig</Infinite>
+  <RecipeCannotHaveTargetCount>(Het recept kan geen maximaal aantal hebben, als het meerdere onvoorspelbare ingredienten bevat)</RecipeCannotHaveTargetCount>
+  <PermittedIngredients>Toegestane ingredienten:</PermittedIngredients>
+  <MinimumSkills>Minimale vaardigheid:</MinimumSkills>
+  <BillRequires>Benodigd {0} {1}</BillRequires>
+  <UsableIngredients>Bruikbare ingredienten</UsableIngredients>
+  <DoXTimes>maak X keer</DoXTimes>
+  <DoUntilYouHaveX>Maak todat je er X hebt</DoUntilYouHaveX>
+  <DoForever>Voor altijd doen</DoForever>
+  <BillRepeatTargetCountShort>Tot {0}</BillRepeatTargetCountShort>
+  <BillStoreMode_DropOnFloor>Laten vallen</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>Naar beste opslagplaats brengen</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>Naar dichtstbijzijnde opslagplaats brengen</BillStoreMode_NearestStockpileAnyPriority>
+  
+    <!-- Def Card -->
+  <Damage>schade</Damage>
+  <Accuracy>accuratie</Accuracy>
+  <BurstShotCount>schoten per salvo</BurstShotCount>
+  <WarmupTime>opwarmtijd</WarmupTime>
+  <CooldownTime>afkoeltijd</CooldownTime>
+  <BurstShotFireRate>shietfrequentie</BurstShotFireRate>
+  <Range>reikwijdte</Range>
+  <GrowsWild>groeit in de wildernis</GrowsWild>
+  <Harvestable>oogstbaar</Harvestable>
+  <LimitedLifespan>begrensde levensduur</LimitedLifespan>
+  <GrowingTime>groeitijd</GrowingTime>
+  <Days>dagen</Days>
+  <FertilityRequirement>benodigde vruchtbaarheid</FertilityRequirement>
+  <LightRequirement>benodigt licht</LightRequirement>
+  <Attributes>attribuut</Attributes>
+  <LifeSpan>levensduur</LifeSpan>
+  <Nutrition>voedingsstof</Nutrition>
+  <FoodQuality>etenskwaliteit</FoodQuality>
+  <WalkSpeedProperty>loopsnelheid</WalkSpeedProperty>
+  <MeleeDamage>vuistgevechtsschade</MeleeDamage>
+  <MeatAmount>vleeshoeveelheid</MeatAmount>
+  <MinFoodQuality>minimale eetkwaliteit</MinFoodQuality>
+  <Diet>voedsel</Diet>
+  <RecruitDifficulty>Recruteringsmoeilijkheid</RecruitDifficulty>
+  <MarketValue>grondprijs</MarketValue>
+  <Covers>bedekt</Covers>
+  <NaturalArmorCovers>natuurlijke beschreming bedekt</NaturalArmorCovers>
+  <BodyPartEfficiency>Effectiviteit van het lichaamsdeel</BodyPartEfficiency>
+  
+  <!-- Trade -->
+  <DragToTrade>Sleep om te handelen</DragToTrade>
+  <BuyPriceDesc>Voor deze prijs kun je het kopen.</BuyPriceDesc>
+  <SellPriceDesc>Voor deze prijs kun je het verkopen.</SellPriceDesc>
+  <PriceTypeDesc>De prijs van dit product is {0}.</PriceTypeDesc>
+  <ColonyCount>Aantal van dit product te verhandelen door de kolonie.\n\nJe kunt producten alleen verhandelen, als ze buiten liggen, binnen het bereik van een orbitaal handelsbaken.</ColonyCount>
+  <TraderCount>Aantal van dit product dat de handelaar heeft.</TraderCount>
+  <AcceptButton>Accepteren</AcceptButton>
+  <ResetButton>Reset</ResetButton>
+  <CancelButton>Annuleren</CancelButton>
+  <YourTradeableSilver>Jouw verhandelbare zilver: {0}</YourTradeableSilver>
+  <YourTradeableSilverTip>Je kunt alleen met zilver handelen, dat buiten ligt, binnen het bereik van een orbitaal handelsbaken liggen.</YourTradeableSilverTip>
+  <TraderHasNoMore>Handelaar heeft niet meer.</TraderHasNoMore>
+  <ColonyHasNoMore>Niet meer om te verkopen.</ColonyHasNoMore>
+  <TraderWillNotTrade>De handelaar is niet bereidt daarin te handelen.</TraderWillNotTrade>
+ 
+  <!-- Comms -->
+  <SocialSkillIs>Sociale vaardigheid: {0}</SocialSkillIs>
+  
+  <!--Other-->
+  <ResearchFinished>Onderzoek afgerond: {0}</ResearchFinished>
+  <ResearchScreen>Onderzoeksmenu</ResearchScreen>
+  
+  <!--HistoryUpload-->
+  <HistoryUploadMessage>Wil je de voortgang van jouw spel uploaden naar de rimworldserver? Daarmee kun je de ontwikkeling van het spel steunen. Als je dit toestaat, worden de gegevens van jouw spel iedere {0} dagen (en in sommige speciale gevallen, zoals het einde van het spel) geupload. De instellingen kunnen verandert worden in het opties menu.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>De spelgegevens worden anoniem verzonden, maar je kunt wel je naam toevoegen.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>De spelgegevens uploaden</HistoryUploadYes>
+  <HistoryUploadNo>De spelgegevens nooit uploaden</HistoryUploadNo>
+  <HistoryUploadYesOnce>Alleen nu uploaden</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>Nu niet, vraag het me later.</HistoryUploadNoOnce>
+  
+</LanguageData>

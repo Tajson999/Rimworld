@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <Audiovisuals>Audio/video</Audiovisuals>
+  <GameVolume>Spelvolume</GameVolume>
+  <MusicVolume>Muziekvolume</MusicVolume>
+  <GraphicsQuality>Beeldkwaliteit</GraphicsQuality>
+  <GraphicsQualityNormal>Normaal</GraphicsQualityNormal>
+  <GraphicsQualityGreat>Beste</GraphicsQualityGreat>
+
+  <!-- Gameplay -->
+  <EdgeScreenScroll>Beeldschermrandscrolling</EdgeScreenScroll>
+  <CustomCursor>Aangepaste muiscursor</CustomCursor>
+  <KeyboardConfig>Toetsenbord</KeyboardConfig>
+  <ChooseLanguage>Taal</ChooseLanguage>
+  <AdaptiveTutor>Zelflerende begeleider</AdaptiveTutor>
+  <ResetAdaptiveTutor>Reset zelflerende begeleider</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>De zelflerende begeleider is gereset, alles zal weer vanaf het begin worden uitgelegd.</AdaptiveTutorIsReset>
+  <RunInBackground>Actief op achtergrond</RunInBackground>
+  <DevelopmentMode>Ontwikkelaarsmodus</DevelopmentMode>
+  <LogVerbose>Uitgebreide logging</LogVerbose>
+  <OpenSaveGameDataFolder>Speldata-map openen</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Achternamen van karakters die je graag terug wilt zien in het spel:</NamesYouWantToSee>
+  <ChangeStoryteller>Kies verteller</ChangeStoryteller>
+  
+  <!-- Resolution -->
+  <Resolution>Resolutie</Resolution>
+  <Fullscreen>Volledig scherm</Fullscreen>
+  <CurrentRes>Huidige resolutie: {0}</CurrentRes>
+  <ChooseResolution>Verander resolutie</ChooseResolution>
+  
+  <!-- Privacy-->
+  <Privacy>Privacy</Privacy>
+  <UserName>Gebruikersnaam</UserName>
+  <ChooseHistoryUploadPref>Spelgegevens uploaden</ChooseHistoryUploadPref>
+  <CurrentHistoryUploadPref>Op dit moment: {0}</CurrentHistoryUploadPref>
+  <AboutHistoryUpload>Spelgegevens helpen de ontwikkelaar het spel verder te ontwikkelen. Als je toestemming geeft, wordt je informatie elke {0} speldagen (en in sommige speciale gevallen, zoals het einde van het spel) naar de RimWorld server voor analyse. Geuploade speldata bevat alleen statistieken en historische data over het spel - geen persoonlijk informatie wordt verstuurd, behalve de gebruikersnaam. De speldata is dus volledig anoniem.</AboutHistoryUpload>
+  
+  
+</LanguageData>

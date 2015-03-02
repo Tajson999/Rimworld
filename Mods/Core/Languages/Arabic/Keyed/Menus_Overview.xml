@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Dark>ظلام</Dark>
+  <Lit>ضوء</Lit>
+  <LitBrightly>Brightly lit</LitBrightly>
+
+  <SkillMax>أقصى</SkillMax>
+
+
+  <!-- Work tab -->
+  <WorkTab>عمل</WorkTab>
+  <ManualPriorities>Manual priorities</ManualPriorities>
+  <HigherPriority>Higher priority</HigherPriority>
+  <LowerPriority>Lower priority</LowerPriority>
+  <RelevantSkills>Relevant skills: {0}\nAverage of relevant skills: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>أضغط للقفز إلى:</ClickToJumpTo>
+  <CannotDoThisWork>{0} لايمكن فعل هذا النوع من العمل.</CannotDoThisWork>
+  <NoneBrackets>(لاشئ)</NoneBrackets>
+  
+  <!-- Factions tab -->
+  <FactionsTab>Factions</FactionsTab>
+  <Hostile>Hostile</Hostile>
+  <HostileTo>Enemy of {0}</HostileTo>
+  <CurrentGoodwill>Current goodwill with this faction.</CurrentGoodwill>
+
+  <!-- Statistics tab -->
+  <StatisticsTab>Statistics</StatisticsTab>
+  <ColonyWealthTotal>Colony wealth</ColonyWealthTotal>
+  <ColonyWealthItems>Colony wealth (items)</ColonyWealthItems>
+  <ColonyWealthBuildings>Colony wealth (buildings)</ColonyWealthBuildings>
+  <ColonyStrength>Colony strength</ColonyStrength>
+  <Danger>خطر</Danger>
+  <FiresOnMap>حرائق في الخريطة</FiresOnMap>
+  <NumEnemyRaids>سلب العدو</NumEnemyRaids>
+  
+  
+  
+</LanguageData>

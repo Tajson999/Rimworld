@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Autosaving>Opslaan..</Autosaving>
+
+	<GameStartDialog>Jullie worden wakker in jullie cryptoslaapcapsules van alarmgeschal en het geluid van scheurend metaal. Op het nippertje weten jullie de reddingscapsules te bereiken, vlak voordat het schip in stukken scheurt.\n\nEnige tijd later landen jullie op deze onbekende Rimworld.\n\nTerwijl de stukken van jullie ruimteschip om jullie heen neerstorten, beginnen jullie met het maken van plannen om te overleven.</GameStartDialog>
+	
+	<Colony>Kolonie</Colony>
+	
+	<ChangeLanguageFromMainMenu>Je kunt de taal alleen vanuit het hoofdmenu veranderen.</ChangeLanguageFromMainMenu>
+
+	<AndLower>en</AndLower>
+	<DisabledLower>gedeactiveerd</DisabledLower>
+  
+    <CloseButton>Sluiten</CloseButton>  
+
+  <VersionIndicator>Versie {0}</VersionIndicator>
+  <DevelopmentBuildLower>ontwikkelaarsversie</DevelopmentBuildLower>
+  <CompiledOn>Gecompileerd op {0}</CompiledOn>
+
+
+  
+  <!-- Content generation-->
+  
+  
+  <MeatLabel>{0} vlees</MeatLabel>
+   <MeatDesc>Rauw vlees van een {0}.</MeatDesc>
+   
+  <LeatherLabel>{0} leer</LeatherLabel>
+  <LeatherDesc>Leer gemaakt van de huid van een {0}.</LeatherDesc>
+   
+	<CorpseLabel>{0} (lijk)</CorpseLabel>
+	<CorpseDesc>Lijk van een {0}.</CorpseDesc>
+  <DeadLabel>{0} (dood)</DeadLabel>
+
+    <RoughStoneTerrainLabel>ruwe {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Ruwe, natuurlijke {0} grond.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>Grof uitgehakte {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Grof uitgehakte natuurlijke {0} floor.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>gepolijste {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Gepolijste natuurlijke {0} floor.</SmoothStoneTerrainDesc>
+  
+
+	<BlueprintLabelExtra>(gepland)</BlueprintLabelExtra>
+  <FrameLabelExtra> (wordt gebouwd)</FrameLabelExtra>
+  
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
+  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+
+  <VariousLabel>(verschillende objecten geselecteerd)</VariousLabel>
+	
+	
+  <!-- History events -->
+  <ColonistDied>Kolonist gestorven</ColonistDied>
+	
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <MoveSpeed.label>liikkumisnopeus</MoveSpeed.label>
+    <MoveSpeed.description>Liikkumisen nopeus neliöinä sekunnissa.</MoveSpeed.description>
+    
+    <MentalBreakThreshold.label>hermoromahduksen kynnys</MentalBreakThreshold.label>
+    <MentalBreakThreshold.description>Kun henkilön mielentila on tämän tason alapuolella, hän on hermoromahdusvaarassa.</MentalBreakThreshold.description>
+    
+    <PsychicSensitivity.label>psyykkinen herkkyys</PsychicSensitivity.label>
+    <PsychicSensitivity.description>Kerroin psyykkisten ilmiöiden vaikutukselle.</PsychicSensitivity.description>
+    
+    <GlobalLearningFactor.label>yleinen oppimisnopeus</GlobalLearningFactor.label>
+    <GlobalLearningFactor.description>Kaikille taidoille yhteinen oppimisnopeus.</GlobalLearningFactor.description>
+    
+    <EatingSpeed.label>syömisnopeus</EatingSpeed.label>
+    <EatingSpeed.description>Kerroin syömisen nopeuteen.</EatingSpeed.description>
+    
+    <ComfyTemperatureMin.label>Pienin mukava lämpötila</ComfyTemperatureMin.label>
+    <ComfyTemperatureMin.description>Tämän lämpötilan alapuolella hahmot ovat onnettomia. Erittäin paljon tämän lämpötilan alapuolella heille tulee hypotermia ja paleltuma ja lopulta he kuolevat.</ComfyTemperatureMin.description>
+    
+    <ComfyTemperatureMax.label>Suurin mukava lämpötila</ComfyTemperatureMax.label>
+    <ComfyTemperatureMax.description>Tämän lämpötilan yläpuolella hahmot ovat onnettomia. Erittäin paljon tämän lämpötilan yläpuolella heille tulee lämpöhalvaus ja lopulta he kuolevat.</ComfyTemperatureMax.description>
+    
+</LanguageData>

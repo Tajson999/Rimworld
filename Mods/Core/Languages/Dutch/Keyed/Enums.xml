@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- glow -->
+  <Dark>Donker</Dark>
+  <Lit>Verlicht</Lit>
+  <LitBrightly>Helder verlicht</LitBrightly>
+  
+  <!-- food quality -->
+  <NoneQuality>Geen</NoneQuality>
+  <PlantQuality>Plantaardig</PlantQuality>
+  <RawQuality>Rauw</RawQuality>
+  <MealAwfulQuality>Vies</MealAwfulQuality>
+  <MealSimpleQuality>Eenvoudig</MealSimpleQuality>
+  <MealFineQuality>Lekker</MealFineQuality>
+  <MealLavishLavish>Luxe</MealLavishLavish>
+  
+  <!-- diet type -->
+  <NeverEats>Eet nooit</NeverEats>
+  <Omnivorous>Alleseter</Omnivorous>
+  <Herbivorous>Planteneter</Herbivorous>
+  <Carnivorous>Vleeseter</Carnivorous>
+  <Dendrovorous>Houteter</Dendrovorous>
+  
+  <!-- history upload pref -->
+  <Unspecified>Ongespecifeerd</Unspecified>
+  <Always>Altijd</Always>
+  <Never>Nooit</Never>
+  
+  <!-- Price types -->
+  <PriceTypeVeryCheap>spotgoedkoop</PriceTypeVeryCheap>
+  <PriceTypeCheap>goedkoop</PriceTypeCheap>
+  <PriceTypeNormal>normaal</PriceTypeNormal>
+  <PriceTypeExpensive>duur</PriceTypeExpensive>
+  <PriceTypeExorbitant>heel duur</PriceTypeExorbitant>
+
+ <!-- Quality category -->
+  <QualityCategory_Awful>vreselijk</QualityCategory_Awful>
+  <QualityCategory_Shoddy>slecht</QualityCategory_Shoddy>
+  <QualityCategory_Poor>matig</QualityCategory_Poor>
+  <QualityCategory_Normal>normaal</QualityCategory_Normal>
+  <QualityCategory_Good>goed</QualityCategory_Good>
+  <QualityCategory_Superior>uitstekend</QualityCategory_Superior>
+  <QualityCategory_Excellent>briljant</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>meesterwerk</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>legendarisch</QualityCategory_Legendary>
+  
+</LanguageData>

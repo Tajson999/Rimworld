@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+		
+		<!--============================== Beds ==============================-->
+		<SleepingSpot.label>睡眠点</SleepingSpot.label>
+		<SleepingSpot.description>指定人睡觉的地点。不是很舒服。休息效率: 7/10</SleepingSpot.description>
+		<Bed.label>床</Bed.label>
+		<Bed.description>一张铺了舒适的床垫和床单的框架。休息效率: 10/10</Bed.description>
+		<RoyalBed.label>大床</RoyalBed.label>
+		<RoyalBed.description>一张适合贵族的豪华大床。</RoyalBed.description>
+		<HospitalBed.label>医疗床</HospitalBed.label>
+		<HospitalBed.description>一张专为伤者设计的床。可以增加治疗的成功率。</HospitalBed.description>
+		
+		<!--======================= Basic domestic furniture ==============================-->
+		<Stool.label>凳子</Stool.label>
+		<Stool.description>人们会坐在这上面。</Stool.description>
+		
+		<!--======================= Tables ==============================-->
+		<TableShort.label>桌子(短)</TableShort.label>
+		<TableShort.description>人们会坐在对着桌子的椅子上吃饭。</TableShort.description>
+		<TableLong.label>桌子(长)</TableLong.label>
+		<TableLong.description>人们会坐在对着桌子的椅子上吃饭。</TableLong.description>
+		
+		<!-- ======================== Lighting ======================= -->
+		<StandingLamp.label>落地灯</StandingLamp.label>
+		<StandingLamp.description>一个可以点亮一整片地区的落地灯。</StandingLamp.description>
+		<StandingLamp_Red.label>落地灯(红)</StandingLamp_Red.label>
+		<StandingLamp_Red.description>一个可以把一整片地区点亮成红色的落地灯。</StandingLamp_Red.description>
+		<StandingLamp_Green.label>落地灯(绿)</StandingLamp_Green.label>
+		<StandingLamp_Green.description>一个可以把一整片地区点亮成绿色的落地灯。</StandingLamp_Green.description>
+		<StandingLamp_Blue.label>落地灯(蓝)</StandingLamp_Blue.label>
+		<StandingLamp_Blue.description>一个可以把一整片地区点亮成蓝色的落地灯。</StandingLamp_Blue.description>
+		
+		<!--============================== Storage ==============================-->
+		<EquipmentRack.label>装备架</EquipmentRack.label>
+		<EquipmentRack.description>搬运者会把装备搬到这里存储。</EquipmentRack.description>
+	
+</LanguageData>

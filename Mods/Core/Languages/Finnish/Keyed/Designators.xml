@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <DesignatorCancel>Peruuta</DesignatorCancel>
+  <DesignatorCancelDesc>Peruuta merkitsemäsi rakennus, louhinta, siirtäminen, sadonkorjuu, ja kaikki muut merkinnät.</DesignatorCancelDesc>
+
+  <DesignatorCutPlants>Leikkaa kasveja</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>Merkitse kasvit jotka leikataan ja tuhotaan. Kasvi poistetaan kokonaan ja mahdollinen ruoka kerätään.</DesignatorCutPlantsDesc>
+
+  <DesignatorDeconstruct>Pura</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Pura rakennuksia ja kierrätä osa niihin käytetyistä resursseista.</DesignatorDeconstructDesc>
+
+  <DesignatorHarvestFood>Kerää ruokaa</DesignatorHarvestFood>
+  <DesignatorHarvestFoodDesc>Merkitse kasvit joista ruokaa kerätään. Ruoka kerätään kasvista, mutta kasvi jätetään paikoilleen.</DesignatorHarvestFoodDesc>
+
+  <DesignatorHarvestWood>Kaada puita</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Merkitse puut jotka kaadetaan.</DesignatorHarvestWoodDesc>
+
+  <DesignatorHaulThings>Siirrä esineitä</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Merkitse kivet ja muut esineet jotka siirretään kaatopaikoille. Ei tarvita asioille kuten ruualle tai ruumiille, jotka ovat aina siirrettävissä.</DesignatorHaulThingsDesc>
+  <NothingToHaulHere>Ei mitään siirrettävää tässä.</NothingToHaulHere>
+  <MustHaulHaulables>Voit merkitä ainoastana siirrettäviä, ei-automaattisia asioita (kuten kiviä).</MustHaulHaulables>
+
+  <DesignatorHunt>Metsästä</DesignatorHunt>
+  <DesignatorHuntDesc>Merkitse eläimet joita metsästäjäsi metsästävät.</DesignatorHuntDesc>
+
+  <DesignatorMine>Louhi</DesignatorMine>
+  <DesignatorMineDesc>Merkitse kivialueet jotka louhitaan avoimiksi.</DesignatorMineDesc>
+
+  <DesignatorSmoothFloor>Hio lattia</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Määritä karkeita kivilattioita hiottaviksi.</DesignatorSmoothFloorDesc>
+
+  <DesignatorPlan>Suunnittele</DesignatorPlan>
+  <DesignatorPlanDesc>Aseta suunitelmia. Nämä eivät itsessään tee mitään, mutta ne auttavat sinua suunnittelemaan tulevia laajennuksia.</DesignatorPlanDesc>
+
+  <DesignatorPlanRemove>Poista suunnitelmia</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Poista suunnitelmia.</DesignatorPlanRemoveDesc>
+
+  <DesignatorHomeRegionAdd>Lisää kotialue</DesignatorHomeRegionAdd>
+  <DesignatorHomeRegionAddDesc>Yhdyskuntalaiset korjaavat rakennuksia, siivoavat lattioita ja sammuttavat tulipaloja ainoastaan Kotialueiden sisällä.</DesignatorHomeRegionAddDesc>
+
+  <DesignatorHomeRegionRemove>Poista kotialue</DesignatorHomeRegionRemove>
+  <DesignatorHomeRegionRemoveDesc>Poista Kotialue. Yhdyskuntalaiset eivät enää siivoa, korjaa tai sammuta tulipaloja tällä alueella.</DesignatorHomeRegionRemoveDesc>
+
+  <DesignatorRegionNoRoofAdd>Lisää katoton alue</DesignatorRegionNoRoofAdd>
+  <DesignatorRegionNoRoofAddDesc>Luo alue missä kattoja ei tehdä, yhdyskuntalaiset myös repivät olemassa olevat katot alas tällä alueella.</DesignatorRegionNoRoofAddDesc>
+
+  <DesignatorRegionNoRoofRemove>Poista katoton alue</DesignatorRegionNoRoofRemove>
+  <DesignatorRegionNoRoofRemoveDesc>Poista katoton alue. Kattoja voidaan tehdä tälle alueelle ja olemassaolevia kattoja ei revitä alas.</DesignatorRegionNoRoofRemoveDesc>
+
+  <DesignatorRegionSnowClearAdd>Lisää lumenkolausalue</DesignatorRegionSnowClearAdd>
+  <DesignatorRegionSnowClearAddDesc>Luo alue, jonka yhdyskuntalaiset yrittävät pitää puhtaana lumesta.</DesignatorRegionSnowClearAddDesc>
+
+  <DesignatorRegionSnowClearRemove>Poista lumenkolausalue</DesignatorRegionSnowClearRemove>
+  <DesignatorRegionSnowClearRemoveDesc>Poistaa lumenkolausmääräyksen. Yhdyskuntalaiset eivät enää yritä pitää tätä aluetta puhtaana lumesta.</DesignatorRegionSnowClearRemoveDesc>
+
+  <DesignatorGrowingZoneDesc>Luo alue, jossa yhdyskuntalaisesi yrittävät kasvattaa tietyn lajin kasveja.</DesignatorGrowingZoneDesc>
+
+  <DesignatorZoneCreateStorageResourcesDesc>Luo varastoalue mihin yhdyskuntalaiset varastoivat resusseja.\nTätä voidaan käyttää myös olemassaolevien varastoalueiden laajentamiseen.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <DesignatorZoneCreateStorageDumpingDesc>Luo kaatopaikka mihin yhdyskuntalaiset varastoivat romua/jätettä.\nTätä voidaan käyttää myös olemassaolevien kaatopaikkojen laajentamiseen.</DesignatorZoneCreateStorageDumpingDesc>
+
+  <DesignatorZoneDelete>Poista alueita</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Poista alueita, kuten varasto- tai kasvatusalueita.</DesignatorZoneDeleteDesc>
+  
+  <DesignatorClaim>Valtaa</DesignatorClaim>
+  <DesignatorClaimDesc>Valloita neutraaleja rakennelmia yhdyskunnalle, sisältäen muinaisrauniot ja hylätyt piiritys leirit. Yhdyskuntalaiset voivat korjata ja huoltaa vallattuja rakennelmia.</DesignatorClaimDesc>
+  
+  
+  <!-- placement of blueprints -->
+  <UnchosenStuff>Materiaalia ei valittu</UnchosenStuff>
+  <TooCloseToMapEdge>Liian lähellä kartan reunaa.</TooCloseToMapEdge>
+  <OutOfBounds>Rajojen ulkopuolella.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Ei voi asettaa tuntemattomattomille alueille.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Käyttöpiste on estetty.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Käyttöpiste on rajojen ulkopuolella.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>{0} tulee estämään tämän käyttöpisteen.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} estäisi kohdan, josta rakennelmaa {1} käytetään.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>Maaperä täällä on jo {0}.</TerrainIsAlready>
+  <IdenticalThingExists>Identtinen esine on jo tässä.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Identtinen piirustus on jo tässä.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>Tässä oleva maaperä ei voi tukea tätä.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Tila on jo käytössä.</SpaceAlreadyOccupied>
+
+
+
+  <!-- placement of zones -->
+  <ExpandOrCreateZone>Laajenna aluetta {0} tai\nLuo uusi {1}</ExpandOrCreateZone>
+  <CreateNewZone>Luo uusi {0}</CreateNewZone>
+  
+  
+  <!-- desc helpers -->
+  <TransmitsPower>Lähettää virtaa</TransmitsPower>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha8 -->
+<LanguageData>
+
+	<Sand.label>Sable</Sand.label>
+	<Soil.label>Terre</Soil.label>
+	<MarshyTerrain.label>Terre marécageuse</MarshyTerrain.label>
+	<SoilRich.label>Terre fertile</SoilRich.label>
+	<Mud.label>Boue</Mud.label>
+	<Marsh.label>Marais</Marsh.label>
+	<Gravel.label>Gravier</Gravel.label>
+	<MossyTerrain.label>Lichen</MossyTerrain.label>
+	<!--
+	<RoughStone.label>Roche brute</RoughStone.label>
+	-->
+</LanguageData>

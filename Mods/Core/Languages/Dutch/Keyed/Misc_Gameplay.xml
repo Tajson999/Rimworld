@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Various -->
+  <WorkLeft>Resterend werk</WorkLeft>
+  <Contents>Inhoud</Contents>
+  <ContainedResources>Materiaal aanwezig</ContainedResources>
+  <ForPrisonerUse>Voor gevangenen</ForPrisonerUse>
+  <ForColonistUse>Voor kolonisten</ForColonistUse>
+  <MedicalBed>Ziekenbed</MedicalBed>
+  <Owner>Eigenaar</Owner>
+  <Nobody>Geen</Nobody>
+  <Unowned>Beschikbaar</Unowned>
+  <DeadTime>Al {0} dood</DeadTime>
+  <WalkSpeed>Loopsnelheid: {0}</WalkSpeed>
+  <DyingLower>stervende</DyingLower>
+  <FilthOnFeet>Vuil aan voeten:</FilthOnFeet>
+  <NotEnoughStoredLower>te weinig opgeslagen</NotEnoughStoredLower>
+  <NothingLower>niets</NothingLower>
+  <Adapted>Aangepast</Adapted>
+  <Headshot>Hoofdschot</Headshot>
+  <FreshMissingBodyPart>vers</FreshMissingBodyPart>
+  <UntreatedLower>onbehandeld</UntreatedLower>
+  <DevelopedImmunityLower>immuun</DevelopedImmunityLower>
+  <InjuryRequiresTreatment>kan zonder behandeling niet herstellen</InjuryRequiresTreatment>
+  <NextTreatmentAfter>Volgende behandeling over {0} dagen</NextTreatmentAfter>
+  <MissingMedicalBillIngredient>geen {0}</MissingMedicalBillIngredient>
+  <ImmunityDevelopmentProgress>voortgang immuniteit</ImmunityDevelopmentProgress>
+  <Race>Ras</Race>
+  <Description>Omschrijving</Description>
+  <Equipment>Uitrusting</Equipment>
+  <Apparel>Kleding</Apparel>
+  <Inventory>Inventaris</Inventory>
+  <ThingInfo>Informatie</ThingInfo>
+  <DropThing>Laat vallen</DropThing>
+  <RenameColonist>Hernoem kolonist</RenameColonist>
+  <UnknownLower>onbekend</UnknownLower>
+  
+  <!-- Snow -->
+  <SnowNone>Geen sneeuw</SnowNone>
+  <SnowDusting>Stuifsneeuw</SnowDusting>
+  <SnowThin>Weinig sneeuw</SnowThin>
+  <SnowMedium>Sneeuw</SnowMedium>
+  <SnowThick>Zware sneeuw</SnowThick>
+
+  
+    <!-- Turrets -->
+  <GunInstalled>Geïnstalleerd</GunInstalled>
+  <MinimumRange>Minimale schootsafstand</MinimumRange>
+  <CanFireIn>Schietklaar over</CanFireIn>
+  
+
+	<!-- Job reports -->
+	<ReportHaulingTo>Sleept {0} naar {1}.</ReportHaulingTo>
+	<ReportHauling>Sleept {0}.</ReportHauling>
+    <ReportSleeping>Slaapt.</ReportSleeping>
+    <ReportResting>Rust uit.</ReportResting>
+
+	<!-- Shooting report -->
+    <WeaponMissRadius>Wapen misradius</WeaponMissRadius>
+    <ShootReportShooterAbility>Schutter</ShootReportShooterAbility>
+	<ShootReportWeapon>Wapen</ShootReportWeapon>
+	<Darkness>Het donker</Darkness>
+	<TargetProne>Kwetsbaarheid doel</TargetProne>
+	<TargetSize>Grootte doel</TargetSize>
+	<Weather>Weer</Weather>
+	<ShootingCover>Dekking</ShootingCover>
+	<CoverThingBlocksPercentOfShots>{0} stopt {1}</CoverThingBlocksPercentOfShots>
+	<NoCoverLower>geen dekking</NoCoverLower>
+
+  <!-- Generated recipes -->
+  <RecipeMake>Make {0}</RecipeMake>
+  <RecipeMakeJobString>Making {0}.</RecipeMakeJobString>
+	
+	<!-- Status levels -->
+    <Mood>stemming</Mood>
+  <MoodTip>De stemming wordt verbeterd, als de psychische en fysieke wensen vervuld worden.\n\nAls de stemming van een persoon te laag wordt, kan het tot een zenuwinzinking leiden.</MoodTip>
+  <Food>Voedsel</Food>
+  <FoodTip>Voedsel representateert hoe goed een dier is.\n\nAls "voedsel" de nul bereikt, zal het dier constant schade oplopen, omdat het verhongert.</FoodTip>
+  <Rest>Rust</Rest>
+  <RestTip>Rust geeft de kwaliteit en de duur van de slaap van het persoon aan.\n\nHij wordt het hoogst, als iemand in een bed slaapt. Uit een bed wordt het langzaam minder.</RestTip>
+  <Environment>Omgeving</Environment>
+  <EnvironmentTip>Omgeving reflecteert hoe prettig een persoon zijn omgeving vind.\n\nOmgeving is hoog, als het persoon in een ruime kamer met veel decoratie is. Het is lager, als de omgeving lelijk is.</EnvironmentTip>
+  <Openness>Openheid</Openness>
+  
+  
+  <!-- Thoughts -->
+  <ThoughtExpiresIn>Verloopt over: {0}</ThoughtExpiresIn>
+  <ThoughtStartsExpiringIn>Verloop begint over {0}</ThoughtStartsExpiringIn>
+  <ThoughtFinishesExpiringIn>Verloop stopt over {0}</ThoughtFinishesExpiringIn>
+  <MentalBreakThreshold>Zenuwinzinkins-drempel</MentalBreakThreshold>
+  
+  <!-- Pawn info readout -->
+  <Health>Gezondheid</Health>
+  <PawnMainDescWithFactionGendered>{0}, {1} van {2}</PawnMainDescWithFactionGendered>
+  <PawnMainDescGendered>{0}, {1}</PawnMainDescGendered>
+  <PawnMainDescWithFactionGenderless>{0} van {1}</PawnMainDescWithFactionGenderless>
+  <PawnMainDescGenderless>{0}</PawnMainDescGenderless>
+  <Faction>Factie</Faction>
+  <Equipped>Uitgerust met</Equipped>
+  <EquippedNothing>niets</EquippedNothing>
+  <Incapacitated>bewusteloos</Incapacitated>
+  <InRestraints>Vastgebonden (langzamer)</InRestraints>
+  <Carrying>Draagt iets</Carrying>
+  <SanityDazedWander>Ineengestort: loopt verward rond</SanityDazedWander>
+  <SanityGiveUpExit>Ineengestort: geeft op en gaat weg</SanityGiveUpExit>
+  <SanityPanicFlee>Ineengestort: vlucht in paniek</SanityPanicFlee>
+  <SanityPsychotic>Ineengestort: losgeslagen</SanityPsychotic>
+  
+  
+  <!-- Inspector general stuff -->
+  <SelectNextInSquareTip>Selecteer het volgende ding in hetzelfde vierkant.\n\nSneltoets: {0}\nDit kun je ook doen door rustig nog een keer op hetzelfde veld te klikken.</SelectNextInSquareTip>
+  <DefInfoTip>Vertel wat over dit object.</DefInfoTip>
+
+  
+  	<!-- like 'Blood of John' -->
+	<OfLower>van</OfLower>
+  
+  	<!-- Power readout -->
+	<PowerNotConnected>Geen stroomverbinding.</PowerNotConnected>
+    <PowerConnectedRateStored>Stroom verbonden/opgeslagen: {0} W / {1} Wd</PowerConnectedRateStored>
+  	<PowerNeeded>Stroom nodig</PowerNeeded>
+  	<PowerOutput>Stroom output</PowerOutput>
+  	<PowerBatteryStored>Opgeslagen</PowerBatteryStored>
+  	<PowerBatteryEfficiency>Efficiëntie</PowerBatteryEfficiency>
+  <!-- Temperature control -->
+  <TargetTemperature>Doeltemperatuur</TargetTemperature>
+  <PowerConsumptionMode>Huidig stroomverbruik</PowerConsumptionMode>
+  <PowerConsumptionHigh>Hoog</PowerConsumptionHigh>
+  <PowerConsumptionLow>Laag</PowerConsumptionLow>
+  
+  <!-- Temperature readout -->
+  <Indoors>Binnen</Indoors>
+  <Outdoors>Buiten</Outdoors>
+  
+  	<!--Rotting-->
+	<RotStateFresh>Vers</RotStateFresh>
+	<RotStateRotting>Verrottend</RotStateRotting>
+	<RotStateDessicated>Verdroogd</RotStateDessicated>
+
+  <!-- Shooting tooltip -->
+  <ShotBy>Beschoten door {0}</ShotBy>
+  <CannotHit>Kan het doel niet raken.</CannotHit>
+
+  <!-- Storage priority labels -->
+  <StoragePriorityUnstored>Niet opslaan</StoragePriorityUnstored>
+  <StoragePriorityLow>Laag</StoragePriorityLow>
+  <StoragePriorityNormal>Normaal</StoragePriorityNormal>
+  <StoragePriorityPreferred>Voorkeur</StoragePriorityPreferred>
+  <StoragePriorityImportant>Belangrijk</StoragePriorityImportant>
+  <StoragePriorityCritical>Essentieel</StoragePriorityCritical>
+
+
+  <!-- Rotting -->
+  <CurrentlyFrozen>Bevroren (zal niet vergaan)</CurrentlyFrozen>
+  <CurrentlyRefrigerated>Gekoeld (Vergaat over {0})</CurrentlyRefrigerated>
+  <NotRefrigerated>Niet gekoeld (Vergaat over {0})</NotRefrigerated>
+  <OverADecade>meer dan tien jaar</OverADecade>
+
+  <!-- Meal -->
+  <TimeToSpoil>Verdort over {0}</TimeToSpoil>
+  <Ingredients>Ingrediënten</Ingredients>
+
+  <!-- Plants -->
+  <PercentGrowth>{0}% volgroeid</PercentGrowth>
+  <Growing>Groeit</Growing>
+  <NotGrowingNow>Groeit niet. (Het moet {0} zijn.)</NotGrowingNow>
+  <NotGrowingNowNight>Groeit niet op dit moment (rust).</NotGrowingNowNight>
+  <FullyGrownIn>Volgroeid over {0} van groei.</FullyGrownIn>
+  <OutOfIdealTemperatureRange>Out of ideal temperature range (growing at {0}% of normal speed)</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRangeNotGrowing>Out of ideal temperature range (not growing)</OutOfIdealTemperatureRangeNotGrowing>
+  <ReadyToHarvest>Klaar om geoogst te worden.</ReadyToHarvest>
+  <Mature>Volgroeid.</Mature>
+  <SeedLabel>{0} zaad</SeedLabel>
+  <OutdoorGrowingPeriod>Groeiseizoen: {0}</OutdoorGrowingPeriod>
+  <NoGrowingPeriod>Never</NoGrowingPeriod>
+  <GrowYearRound>Het hele jaar</GrowYearRound>
+  <CannotGrowTooCold>Kan niet groeien - te koud.</CannotGrowTooCold>
+  
+    <!-- Zones -->
+  <Zone>Zone</Zone>
+  <GrowingZone>Kweekzone</GrowingZone>
+  <Stockpile>Opslagpzone</Stockpile>
+  <DumpingStockpile>Afvalzone</DumpingStockpile>
+  <Priority>Prioriteit</Priority>  
+  <ClearAll>Clear all</ClearAll>
+ 
+ <!-- Mouseover indicator -->
+  <Undiscovered>Unentdeckt</Undiscovered>
+  
+  <!-- Buttons -->
+  <ZoneVisibilityToggleButton>Verander de zichtbaarheid van zones.</ZoneVisibilityToggleButton>
+  <AutoHomeRegionToggleButton>Zet de automatische plaatsing van thuiszones aan/uit.</AutoHomeRegionToggleButton>
+  <CategorizedResourceReadoutToggleButton>Zet de categoriesering van materialen aan/uit.</CategorizedResourceReadoutToggleButton>
+  
+  <!-- Fire -->
+  <Fire>Vuur</Fire>
+  <FireOn>Vuur op {0}</FireOn>
+  <Burning>Brandt</Burning>
+  <FireSizeLower>Vuurgroote {0}</FireSizeLower>
+  
+  <!-- Map conditions (eclipse, solar flare, etc )-->
+  <MapConditionsTip>Speciale omstandigheden beinvloeden de omgeving.</MapConditionsTip>
+  
+  <!-- Building placement -->
+  <NoStuffsToBuildWith>Geen materiaal om dat te bouwen.</NoStuffsToBuildWith>
+
+    <!-- Building placement restricters -->
+  <MustPlaceUnroofed>Kan niet onder een dak geplaatst worden.</MustPlaceUnroofed>
+  <MustPlaceHeadOnShipBeam>Moet met het hoofd op de strucutrele schipbalk bevestigd worden.</MustPlaceHeadOnShipBeam>
+  <MustPlaceNextToHopperAccepter>Moet naast iets gebouwd worden, dat een trechter nodig heeft.</MustPlaceNextToHopperAccepter>
+  <MustPlaceOnSteamGeyser>Moet op een stoom-geiser geplaatst worden.</MustPlaceOnSteamGeyser>
+  <MustPlaceCoolerWithFreeSpaces>Both the hot and cold sides of the cooler must be exposed.</MustPlaceCoolerWithFreeSpaces>
+    
+  <!-- Wind Turbine -->
+  <WindTurbine_WindPathIsBlockedBy>Blocked by</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedByRoof>Blocked by roof</WindTurbine_WindPathIsBlockedByRoof>
+
+  <!-- Cryptosleep pod -->
+  <PodContains>Bevat</PodContains>
+  <CasketUnknownContents>Onbekend</CasketUnknownContents>
+  <CasketWarning>Warning!\n\nNAME is your last free-standing colonist! If you let HIM step into that casket, you may not be able to continue playing. Are you sure you want to proceed?</CasketWarning>
+
+  <!-- Ship launch report -->
+  <ShipReportCannotLaunch>Kan niet starten.</ShipReportCannotLaunch>
+  <ShipReportCanLaunch>Kan starten.</ShipReportCanLaunch>
+  <ShipReportMissingPart>Critische componenten missen.</ShipReportMissingPart>
+  <ShipReportNoFullPods>Geen cryptoslaapcapsules in gebruik.</ShipReportNoFullPods>
+
+  <!-- Neurotrainer -->
+  <UseNeurotrainer>Gebruik de neurotrainer om {0} te leren</UseNeurotrainer>
+  <NeurotrainerUsed>{0} heeft de {1} Neurotrainer om van level {2} naar {3} te stijgen.</NeurotrainerUsed>
+
+  <!-- Minification -->
+  <Installed>Installed</Installed>
+  <NotInstalled>Not installed</NotInstalled>
+
+  <!-- Art -->
+  <Title>Title</Title>
+  <Untitled>Untitled</Untitled>
+  
+  <!-- Unfinished thing -->
+  <UnfinishedItem>Unfinished {0}</UnfinishedItem>
+  <UnfinishedItemWithStuff>Unfinished {0} {1}</UnfinishedItemWithStuff>
+
+  <!-- Quality -->
+  <Quality>Quality</Quality>
+  <QualityDescription>An item's quality is how well-made it is.</QualityDescription>
+  <QualityIs>Quality: {0}</QualityIs>
+  
+  <!-- Game over -->
+  <GameOverEveryoneDead>Iedereen is dood of weg. Dit verhaal is ten einde.\n\nMisschien zal iemand anders een nut vinden voor de ruines die er nu staan.</GameOverEveryoneDead>
+  <GameOverShipLaunched>Je ruimteschip is gestart en heeft de volgende kolonisten meegenomen:\n\n{0}\nDeze kolonisten zijn achtergelaten:\n\n{1}\nJe schip-AI zal proberen het schip naar een goed oord te sturen. Misschien vindt het een betere plaats hier in het systeem. Of ze onderneemt een honderden jaren lange reis naar een andere ster. Ze kan ook besluiten zich een paar duizend jaar onder het ijs van een asteroide te verbergen.\n\nJe zult het weten, als je weer wakker wordt..</GameOverShipLaunched>
+  <GameOverKeepPlaying>Doorspelen</GameOverKeepPlaying>
+  <GameOverMainMenu>Hoofdmenu</GameOverMainMenu>
+  
+  
+</LanguageData>

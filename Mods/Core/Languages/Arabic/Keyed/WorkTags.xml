@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <WorkTagNone>لا شئ</WorkTagNone>
+  <WorkTagIntellectual>مثقف</WorkTagIntellectual>
+  <WorkTagManualDumb>عامل سيئ</WorkTagManualDumb>
+  <WorkTagManualSkilled>عامل محترف</WorkTagManualSkilled>
+  <WorkTagViolent>عنف</WorkTagViolent>
+  <WorkTagCaring>إهتمام</WorkTagCaring>
+  <WorkTagSocial>إجتماعي</WorkTagSocial>
+  <WorkTagScary>مخيف</WorkTagScary>
+  <WorkTagArtistic>فنان</WorkTagArtistic>
+  <WorkTagCrafting>صياغة</WorkTagCrafting>
+  <WorkTagCooking>طبخ</WorkTagCooking>
+  <WorkTagFirefighting>مكافح الحرائق</WorkTagFirefighting>
+  <WorkTagCleaning>تنظيف</WorkTagCleaning>
+  <WorkTagHauling>نقل بالعربة</WorkTagHauling>
+  <WorkTagPlantWork>الكهرباء</WorkTagPlantWork>
+  <WorkTagMining>تعدين</WorkTagMining>
+  
+</LanguageData>

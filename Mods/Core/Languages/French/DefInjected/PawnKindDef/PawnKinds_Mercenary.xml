@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha566 -->
+<LanguageData>
+	
+	<Mercenary.label>Mercenaire</Mercenary.label>
+	<MercenarySniper.label>Mercenaire (sniper)</MercenarySniper.label>
+	<Grenadier.label>Grenadier</Grenadier.label>
+	<MercenaryBruiser.label>Mercenaire (cogneur)</MercenaryBruiser.label>
+	<MercenaryElite.label>Mercenaire d'élite</MercenaryElite.label>
+	
+</LanguageData>

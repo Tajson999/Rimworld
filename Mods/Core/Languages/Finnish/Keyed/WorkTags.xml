@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <WorkTagNone>Ei mitään</WorkTagNone>
+  <WorkTagIntellectual>Älyllinen</WorkTagIntellectual>
+  <WorkTagManualDumb>Raskas työ</WorkTagManualDumb>
+  <WorkTagManualSkilled>Ammattitaitoinen työ</WorkTagManualSkilled>
+  <WorkTagViolent>Väkivaltainen</WorkTagViolent>
+  <WorkTagCaring>Välittäminen</WorkTagCaring>
+  <WorkTagSocial>Sosiaalinen</WorkTagSocial>
+  <WorkTagScary>Pelottava</WorkTagScary>
+  <WorkTagArtistic>Taiteellinen</WorkTagArtistic>
+  <WorkTagCrafting>Käsityöt</WorkTagCrafting>
+  <WorkTagCooking>Ruuanlaitto</WorkTagCooking>
+  <WorkTagFirefighting>Palontorjunta</WorkTagFirefighting>
+  <WorkTagCleaning>Siivous</WorkTagCleaning>
+  <WorkTagHauling>Rahtaaminen</WorkTagHauling>
+  <WorkTagPlantWork>Kasvityö</WorkTagPlantWork>
+  <WorkTagMining>Louhimistyö</WorkTagMining>
+
+</LanguageData>

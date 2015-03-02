@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- glow -->
+  <Dark>黑暗</Dark>
+  <Lit>明亮</Lit>
+  <LitBrightly>非常明亮</LitBrightly>
+  
+  <!-- food quality -->
+  <NoneQuality>無</NoneQuality>
+  <PlantQuality>植物</PlantQuality>
+  <RawQuality>原料</RawQuality>
+  <MealAwfulQuality>糟糕</MealAwfulQuality>
+  <MealSimpleQuality>簡單</MealSimpleQuality>
+  <MealFineQuality>良好</MealFineQuality>
+  <MealLavishLavish>奢華</MealLavishLavish>
+  
+  <!-- diet type -->
+  <NeverEats>不進食</NeverEats>
+  <Omnivorous>雜食</Omnivorous>
+  <Herbivorous>素食</Herbivorous>
+  <Carnivorous>肉食</Carnivorous>
+  <Dendrovorous>Dendrovorous</Dendrovorous>
+  
+  <!-- history upload pref -->
+  <Unspecified>未决定</Unspecified>
+  <Always>允許</Always>
+  <Never>不允許</Never>
+  
+  <!-- Price types -->
+  <PriceTypeVeryCheap>非常便宜</PriceTypeVeryCheap>
+  <PriceTypeCheap>很便宜</PriceTypeCheap>
+  <PriceTypeNormal>一般</PriceTypeNormal>
+  <PriceTypeExpensive>有點貴</PriceTypeExpensive>
+  <PriceTypeExorbitant>非常貴</PriceTypeExorbitant>
+
+  <!-- Quality category -->
+  <QualityCategory_Awful>差勁</QualityCategory_Awful>
+  <QualityCategory_Shoddy>不良</QualityCategory_Shoddy>
+  <QualityCategory_Poor>瑕疵</QualityCategory_Poor>
+  <QualityCategory_Normal>普通</QualityCategory_Normal>
+  <QualityCategory_Good>良好</QualityCategory_Good>
+  <QualityCategory_Superior>高級</QualityCategory_Superior>
+  <QualityCategory_Excellent>完美</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>大師</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>傳奇</QualityCategory_Legendary>
+  
+</LanguageData>

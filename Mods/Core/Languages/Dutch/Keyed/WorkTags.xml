@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <WorkTagNone>Geen</WorkTagNone>
+  <WorkTagIntellectual>Intellectueel</WorkTagIntellectual>
+  <WorkTagManualDumb>Dom werk</WorkTagManualDumb>
+  <WorkTagManualSkilled>Geschoold werk</WorkTagManualSkilled>
+  <WorkTagViolent>Gewelddadig</WorkTagViolent>
+  <WorkTagCaring>Verzorgend</WorkTagCaring>
+  <WorkTagSocial>Sociaal</WorkTagSocial>
+  <WorkTagScary>Angstaanjagend</WorkTagScary>
+  <WorkTagArtistic>Kunst</WorkTagArtistic>
+  <WorkTagCrafting>Handwerk</WorkTagCrafting>
+  <WorkTagCooking>Koken</WorkTagCooking>
+  <WorkTagFirefighting>Brandblussen</WorkTagFirefighting>
+  <WorkTagCleaning>Schoonmaken</WorkTagCleaning>
+  <WorkTagHauling>Sleepwerk</WorkTagHauling>
+  <WorkTagPlantWork>Plantwerk</WorkTagPlantWork>
+  <WorkTagMining>Mijnbouw</WorkTagMining>
+
+</LanguageData>

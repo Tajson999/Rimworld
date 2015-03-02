@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--=========== Main menu ==========-->
+  <NewColony>مستعمرة جديدة</NewColony>
+  <BackToGame>الرجوع للعبة</BackToGame>
+  <Save>حفظ</Save>
+  <Load>تحميل</Load>
+  <Options>الخصائص</Options>
+  <Mods>المودات</Mods>
+  <Credits>المطورين</Credits>
+  <QuitToMainMenu>العودة للقائمة الرئيسية</QuitToMainMenu>
+  <QuitToOS>الخروج من اللعبة</QuitToOS>
+  <FictionPrimer>Fiction primer</FictionPrimer>
+  <LudeonBlog>Ludeon مدونة</LudeonBlog>
+  <Forums>المنتدى</Forums>
+  <OfficialWiki>الموسوعة الرسمية</OfficialWiki>
+  <TynansTwitter>Tynan's تويتر</TynansTwitter>
+  <TynansDesignBook>Tynan's كتاب التصميم</TynansDesignBook>
+
+  <!--=========== Version info ==========-->
+  <BuildNowAvailable>البنية {0} متوفرة الان. اذهب للموقع ludeon.com لمزيد من المعلومات.</BuildNowAvailable>
+	<BuildUpToDate>Build is up to date.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+
+  <!--=========== Mods screen ==========-->
+  <GetMods>الحصول على المودات</GetMods>
+  <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
+  <Author>Author</Author>
+  
+
+  <!--=========== Storyteller chooser ==========-->
+  <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
+  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony.</HowStorytellersWork>
+
+  <!--=========== Character chooser ==========-->
+  <CreateCharacters>إنشاء شخصية</CreateCharacters>
+  <FirstNameDesc>اسم الشخصية.\n\nThis is only displayed in certain menus.</FirstNameDesc>
+  <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
+  <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
+  <Randomize>إختيار عشوائي</Randomize>
+  <AgeIndicator>العمر {0}</AgeIndicator>
+  <Backstory>Backstory</Backstory>
+  <IncapableOf>Incapable of</IncapableOf>
+  <Traits>الصفات</Traits>
+  <TraitsDoNothing>Traits are just fun story bits for now; most of them don't do anything. This will change in future versions.</TraitsDoNothing>
+  <Skills>المهارات</Skills>
+  <NoneLower>لا شئ</NoneLower>
+  <Adulthood>المراهقة</Adulthood>
+  <Childhood>الطفولة</Childhood>
+  <Male>ذكر</Male>
+  <Female>انثى</Female>
+  
+  
+  <!--=========== Misc ==========-->
+  <Start>ابدأ</Start>
+  <Advanced>متقدم</Advanced>
+  <Next>التالي</Next>
+  <Back>الرجوع</Back>
+  
+  <Gameplay>نمط اللعب</Gameplay>
+
+  <ConfirmQuit>هل انت متأكد؟ سوف تفقد جميع الاعمال الغير محفوظة.</ConfirmQuit>
+  
+  <EveryoneNeedsValidName>كل شخص يحتاج إلى أسم صحيح.</EveryoneNeedsValidName>
+
+  <GeneratingWorld>إنشاء عالم...</GeneratingWorld>
+
+</LanguageData>

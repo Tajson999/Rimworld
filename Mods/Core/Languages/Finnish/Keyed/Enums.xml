@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- glow -->
+  <Dark>Pimeä</Dark>
+  <Lit>Valaistu</Lit>
+  <LitBrightly>Kirkkaasti valaistu</LitBrightly>
+  
+  <!-- food quality -->
+  <NoneQuality>Ei mitään</NoneQuality>
+  <PlantQuality>Kasvi</PlantQuality>
+  <RawQuality>Raaka</RawQuality>
+  <MealAwfulQuality>Kamala</MealAwfulQuality>
+  <MealSimpleQuality>Yksinkertainen</MealSimpleQuality>
+  <MealFineQuality>Hieno</MealFineQuality>
+  <MealLavishLavish>Yltäkylläinen</MealLavishLavish>
+  
+  <!-- diet type -->
+  <NeverEats>Ei syö koskaan</NeverEats>
+  <Omnivorous>Kaikkiruokainen</Omnivorous>
+  <Herbivorous>Kasvissyöjä</Herbivorous>
+  <Carnivorous>Lihansyöjä</Carnivorous>
+  <Dendrovorous>Puunsyöjä</Dendrovorous>
+  
+  <!-- history upload pref -->
+  <Unspecified>Päättämätön</Unspecified>
+  <Always>Salli</Always>
+  <Never>Älä salli</Never>
+  
+  <!-- Price types -->
+  <PriceTypeVeryCheap>hyvin halpa</PriceTypeVeryCheap>
+  <PriceTypeCheap>halpa</PriceTypeCheap>
+  <PriceTypeNormal>normaali</PriceTypeNormal>
+  <PriceTypeExpensive>kallis</PriceTypeExpensive>
+  <PriceTypeExorbitant>kohtuuton</PriceTypeExorbitant>
+
+  <!-- Quality category -->
+  <QualityCategory_Awful>hirveä</QualityCategory_Awful>
+  <QualityCategory_Shoddy>surkea</QualityCategory_Shoddy>
+  <QualityCategory_Poor>huno</QualityCategory_Poor>
+  <QualityCategory_Normal>normaali</QualityCategory_Normal>
+  <QualityCategory_Good>hyvä</QualityCategory_Good>
+  <QualityCategory_Superior>parempi</QualityCategory_Superior>
+  <QualityCategory_Excellent>erinomainen</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>mestariteos</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>legendaarinen</QualityCategory_Legendary>
+
+
+</LanguageData>

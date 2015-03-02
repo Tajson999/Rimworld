@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <GameStartDialog>The three of you awake in your longsleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive.</GameStartDialog>
+
+  <Colony>مستعمرة</Colony>
+  
+  <ChangeLanguageFromMainMenu>اللغة يمكن تغييرها فقط عن طريق الخصائص في القائمة الرئيسية.</ChangeLanguageFromMainMenu>
+
+  <AndLower>و</AndLower>
+  <DisabledLower>تعطيل</DisabledLower>
+
+  <CloseButton>إغلاق</CloseButton>
+
+
+  <VersionIndicator>النسخة {0}</VersionIndicator>
+  <DevelopmentBuildLower>development build</DevelopmentBuildLower>
+  <CompiledOn>Compiled {0}</CompiledOn>
+
+	<MeatLabel>{0} لحم</MeatLabel>
+  <MeatDesc>Raw flesh of a {0}.</MeatDesc>
+
+	<CorpseLabel>{0} corpse</CorpseLabel>
+	<CorpseDesc>Dead body of a {0}.</CorpseDesc>
+
+
+	<BlueprintLabelExtra> (blueprint)</BlueprintLabelExtra>
+  <FrameLabelExtra> (frame)</FrameLabelExtra>
+  
+  
+  
+</LanguageData>

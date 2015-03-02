@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha8 -->
+<LanguageData>
+
+  <!-- ================= Wood floor ================= -->
+  
+  <WoodPlankFloor.label>Plancher en bois</WoodPlankFloor.label>
+  <WoodPlankFloor.description>Un plancher en bois. On se sent un peu comme à la maison.</WoodPlankFloor.description>
+
+
+  <!-- ================= Tile ================= -->
+
+  <MetalTile.label>Sol métallique</MetalTile.label>
+  <MetalTile.description>Un sol métallique, pour un look de vaisseau spatial.</MetalTile.description>  
+  
+  <PavedTile.label>Sol pavé en béton</PavedTile.label>
+  <PavedTile.description>Un sol utilitaire en béton. Permet de se déplacer rapidement, mais pas trés élégant.</PavedTile.description>  
+
+	<!--
+  <StoneTile.label>Sol de pierre pavée</StoneTile.label>
+  <StoneTile.description>Un sol de pierre pavée pour créer une ambiance de chateau.</StoneTile.description>  
+	-->
+
+  <!-- ================= Carpets ================= -->
+
+  <CarpetRed.label>Tapis rouge</CarpetRed.label>
+  <CarpetRed.description>Un tapis moelleux de teinte rosée.</CarpetRed.description>    
+ 
+  <CarpetGreen.label>Tapis vert</CarpetGreen.label>
+  <CarpetGreen.description>Un tapis vert qui rappelle la nature.</CarpetGreen.description>   
+
+  <CarpetBlue.label>Tapis bleu</CarpetBlue.label>
+  <CarpetBlue.description>Un tapis bleu moelleux qui repose les orteils.</CarpetBlue.description>  
+
+
+  <!-- ================= Foundation solids ================= -->
+
+  <Concrete.label>Sol de Béton</Concrete.label>
+  <Concrete.description>Du béton brut. Permet de se déplacer rapidement dessus, mais assez moche.</Concrete.description> 
+
+	<!--
+  <SmoothStone.label>Sol de pierre lisse</SmoothStone.label>
+  <SmoothStone.description>De la pierre lisse. Permet des déplacements rapides en plus d'être trés beau à regarder.</SmoothStone.description> 
+
+  <RoughHewnRock.label>Sol de roches grossières</RoughHewnRock.label>
+	-->
+</LanguageData>
